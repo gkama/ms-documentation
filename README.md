@@ -8,3 +8,6 @@ Every Microsoft documentation
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
 - [.NET Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
+
+### .NET Core 3.0
+- [.NET Core 3.0 end of life](https://devblogs.microsoft.com/dotnet/net-core-3-0-end-of-life/)
