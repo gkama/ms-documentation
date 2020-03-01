@@ -1,5 +1,4 @@
-# ms-documentation
-Every Microsoft documentation
+Microsoft related technologies documentation
 
 # Visual Studio (Code)
 - [Visual Studio Online (browser)](https://docs.microsoft.com/en-us/visualstudio/online/quickstarts/browser)
