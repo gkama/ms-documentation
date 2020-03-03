@@ -17,6 +17,7 @@ Microsoft related technologies documentation
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
+- [.NET Core Blog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
 
 # TypeScript
 - [GitHub source code](https://github.com/microsoft/TypeScript)
