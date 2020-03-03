@@ -22,3 +22,6 @@ Microsoft related technologies documentation
 # TypeScript
 - [GitHub source code](https://github.com/microsoft/TypeScript)
 - [Playground](https://www.typescriptlang.org/play/)
+
+# Articles
+- [Microsoft swallows feedback and bangs Visual studio online preview into shape](https://devclass.com/2020/03/02/microsoft-swallows-feedback-bangs-visual-studio-online-preview-into-shape/)
