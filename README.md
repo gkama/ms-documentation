@@ -19,6 +19,9 @@ Microsoft related technologies documentation
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [.NET Core Blog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
 
+# Microsoft Blo
+- [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
+
 # TypeScript
 - [GitHub source code](https://github.com/microsoft/TypeScript)
 - [Playground](https://www.typescriptlang.org/play/)
