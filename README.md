@@ -4,6 +4,9 @@ Microsoft related technologies documentation
 - [Visual Studio Online (browser)](https://docs.microsoft.com/en-us/visualstudio/online/quickstarts/browser)
 - [Visual Studio Online](https://code.visualstudio.com/docs/remote/vsonline)
 
+# C#
+- [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
+
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
 - [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
