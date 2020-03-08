@@ -21,6 +21,7 @@ Microsoft related technologies documentation
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [.NET Core Blog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
+- [ML.NET model builder updates](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-updates/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
