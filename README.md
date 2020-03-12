@@ -23,6 +23,7 @@ Microsoft related technologies documentation
 - [.NET Core Blog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
 - [ML.NET model builder updates](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-updates/)
 - [Announcing the .NET Core uninstalling tool](https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/)
+- [CosmosDB function trigger in 2 minutes](https://devblogs.microsoft.com/cosmosdb/cosmos-db-function-trigger-2-min/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
