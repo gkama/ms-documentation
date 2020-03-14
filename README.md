@@ -44,3 +44,4 @@ Microsoft related technologies documentation
 
 # Other
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
+- [Elephant - cross platform note taking](https://www.ghacks.net/2020/03/13/elephant-is-an-open-source-cross-platform-note-taking-application/)
