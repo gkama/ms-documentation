@@ -28,6 +28,7 @@ Microsoft related technologies documentation
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
+- [Top stories from the Microsoft DevOps community](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-13/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
