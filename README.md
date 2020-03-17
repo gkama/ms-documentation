@@ -9,6 +9,7 @@ Microsoft related technologies documentation
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
+- [Announcing .NET 5 preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-1/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
