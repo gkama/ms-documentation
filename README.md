@@ -7,6 +7,9 @@ Microsoft related technologies documentation
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
 
+# .NET
+- [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
+
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
 - [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
