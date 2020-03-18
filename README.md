@@ -19,6 +19,7 @@ Microsoft related technologies documentation
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
+- [Web host fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-3.1)
 
 ### .NET Core 3.0
 - [3.0 end of life](https://devblogs.microsoft.com/dotnet/net-core-3-0-end-of-life/)
