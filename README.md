@@ -15,6 +15,7 @@ Microsoft related technologies documentation
 - [Download](https://dotnet.microsoft.com/download)
 - [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
 - [Tutorial: Containerize a .NET Core app](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container)
+- [Select the .NET Core version to use](https://docs.microsoft.com/en-us/dotnet/core/versions/selection)
 - [ASP.NET Core performance best practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1)
 - [Announcing Entity Framework Core 5.0-previews-1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-1/)
 
