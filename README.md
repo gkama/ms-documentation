@@ -50,6 +50,7 @@ Microsoft related technologies documentation
 # Articles
 - [Microsoft swallows feedback and bangs Visual studio online preview into shape](https://devclass.com/2020/03/02/microsoft-swallows-feedback-bangs-visual-studio-online-preview-into-shape/)
 - [Godot + C# + Visual Studio Code](https://www.youtube.com/watch?v=Do0YZocTu80)
+- [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 # Other
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
