@@ -16,6 +16,7 @@ Microsoft related technologies documentation
 - [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
 - [Tutorial: Containerize a .NET Core app](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container)
 - [ASP.NET Core performance best practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1)
+- [Announcing Entity Framework Core 5.0-previews-1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-1/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
