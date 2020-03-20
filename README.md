@@ -34,6 +34,9 @@ Microsoft related technologies documentation
 - [Announcing the .NET Core uninstalling tool](https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/)
 - [CosmosDB function trigger in 2 minutes](https://devblogs.microsoft.com/cosmosdb/cosmos-db-function-trigger-2-min/)
 
+# Azure DevOps
+- [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
+
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
 - [Top stories from the Microsoft DevOps community](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-13/)
