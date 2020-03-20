@@ -58,6 +58,9 @@ Microsoft related technologies documentation
 - [Godot + C# + Visual Studio Code](https://www.youtube.com/watch?v=Do0YZocTu80)
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
+# Blogs
+- [Jon Skeet's coding blog](https://codeblog.jonskeet.uk/)
+
 # Other
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
 - [Elephant - cross platform note taking](https://www.ghacks.net/2020/03/13/elephant-is-an-open-source-cross-platform-note-taking-application/)
