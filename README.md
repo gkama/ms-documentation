@@ -62,6 +62,7 @@ Microsoft related technologies documentation
 - [GitHub mobile app](https://www.engadget.com/2020/03/17/github-mobile-app/)
 - [Introducing Ais.Net – High-Performance Parsing in C#](https://blogs.endjin.com/2020/03/introducing-ais-net-high-performance-parsing-in-c/)
 - [Beautify Windows terminal](https://www.cloudmanav.com/tech/beautify-windows-terminal/)
+- [SYNSTRESSER.TO](https://synstresser.to/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
