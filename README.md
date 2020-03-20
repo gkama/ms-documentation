@@ -3,6 +3,7 @@ Microsoft related technologies documentation
 # Visual Studio (Code)
 - [Visual Studio Online (browser)](https://docs.microsoft.com/en-us/visualstudio/online/quickstarts/browser)
 - [Visual Studio Online](https://code.visualstudio.com/docs/remote/vsonline)
+- [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
