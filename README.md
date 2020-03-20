@@ -57,4 +57,5 @@ Microsoft related technologies documentation
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
 - [Elephant - cross platform note taking](https://www.ghacks.net/2020/03/13/elephant-is-an-open-source-cross-platform-note-taking-application/)
 - [GitHub mobile app](https://www.engadget.com/2020/03/17/github-mobile-app/)
-- [AIS.NET high performance parsing in C#](https://blogs.endjin.com/2020/03/introducing-ais-net-high-performance-parsing-in-c/)
+- [Introducing Ais.Net – High-Performance Parsing in C#](https://blogs.endjin.com/2020/03/introducing-ais-net-high-performance-parsing-in-c/)
+- [Beautify Windows terminal](https://www.cloudmanav.com/tech/beautify-windows-terminal/)
