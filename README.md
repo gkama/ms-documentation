@@ -63,6 +63,7 @@ Microsoft related technologies documentation
 - [Introducing Ais.Net – High-Performance Parsing in C#](https://blogs.endjin.com/2020/03/introducing-ais-net-high-performance-parsing-in-c/)
 - [Beautify Windows terminal](https://www.cloudmanav.com/tech/beautify-windows-terminal/)
 - [SYNSTRESSER.TO](https://synstresser.to/)
+- [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
