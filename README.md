@@ -74,3 +74,4 @@ Microsoft related technologies documentation
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
 - [Create Azure resource group using Terraform](https://sergeydotnet.com/create-resource-group-using-terraform/)
 - [Azure DevOps and Terraform](https://medium.com/faun/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
+- [Using Terraform with Azure DevOps](https://sergeydotnet.com/using-terraform-with-azure-devops/)
