@@ -42,6 +42,7 @@ Microsoft related technologies documentation
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
 - [Top stories from the Microsoft DevOps community](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-13/)
 - [Visual Studio version 16.5](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-version-16-5/)
+- [.NET platforms feature comparison](https://devblogs.microsoft.com/premier-developer/net-platforms-feature-comparison/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
