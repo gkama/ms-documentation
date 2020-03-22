@@ -72,6 +72,7 @@ Microsoft related technologies documentation
 - [SYNSTRESSER.TO](https://synstresser.to/)
 - [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804)
 - [Your Database as an API](http://kevinmahoney.co.uk/articles/your-database-as-an-api/)
+- [To succeed in DevOps these days, go hybrid](https://www.zdnet.com/article/to-succeed-in-devops-these-days-go-hybrid/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
