@@ -73,6 +73,7 @@ Microsoft related technologies documentation
 - [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804)
 - [Your Database as an API](http://kevinmahoney.co.uk/articles/your-database-as-an-api/)
 - [To succeed in DevOps these days, go hybrid](https://www.zdnet.com/article/to-succeed-in-devops-these-days-go-hybrid/)
+- [HTTP APIs for Amazon API Gateway Are Now Generally Available](https://www.infoq.com/news/2020/03/aws-http-apis-gateway-ga/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
