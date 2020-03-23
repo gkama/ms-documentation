@@ -80,3 +80,4 @@ Microsoft related technologies documentation
 - [Create Azure resource group using Terraform](https://sergeydotnet.com/create-resource-group-using-terraform/)
 - [Azure DevOps and Terraform](https://medium.com/faun/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
 - [Using Terraform with Azure DevOps](https://sergeydotnet.com/using-terraform-with-azure-devops/)
+- [Tutorial: Create an Azure VM cluster with Terraform and HCL](https://docs.microsoft.com/en-us/azure/terraform/terraform-create-vm-cluster-with-infrastructure)
