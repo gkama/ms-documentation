@@ -29,7 +29,8 @@ Microsoft related technologies documentation
 - [3.0.3 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.0/3.0.3/3.0.3.md)
 
 # Entity Framework Core
-- [Entity Framework Core tools reference - .NET CLI](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet) 
+- [Entity Framework Core tools reference - .NET CLI](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
+- [Migrations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli)
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
