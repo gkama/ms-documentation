@@ -79,6 +79,7 @@ Microsoft related technologies documentation
 - [Your Database as an API](http://kevinmahoney.co.uk/articles/your-database-as-an-api/)
 - [To succeed in DevOps these days, go hybrid](https://www.zdnet.com/article/to-succeed-in-devops-these-days-go-hybrid/)
 - [HTTP APIs for Amazon API Gateway Are Now Generally Available](https://www.infoq.com/news/2020/03/aws-http-apis-gateway-ga/)
+- [Can APIs be copyrighted?](https://www.infoworld.com/article/3532896/can-apis-be-copyrighted.html)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
