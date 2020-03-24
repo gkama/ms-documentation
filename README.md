@@ -80,6 +80,7 @@ Microsoft related technologies documentation
 - [To succeed in DevOps these days, go hybrid](https://www.zdnet.com/article/to-succeed-in-devops-these-days-go-hybrid/)
 - [HTTP APIs for Amazon API Gateway Are Now Generally Available](https://www.infoq.com/news/2020/03/aws-http-apis-gateway-ga/)
 - [Can APIs be copyrighted?](https://www.infoworld.com/article/3532896/can-apis-be-copyrighted.html)
+- [Git moves to new defaults in 2.26 release](https://devclass.com/2020/03/23/git-moves-to-new-defaults-in-2-26-release/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
