@@ -39,6 +39,7 @@ Microsoft related technologies documentation
 - [ML.NET model builder updates](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-updates/)
 - [Announcing the .NET Core uninstalling tool](https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/)
 - [CosmosDB function trigger in 2 minutes](https://devblogs.microsoft.com/cosmosdb/cosmos-db-function-trigger-2-min/)
+- [NET Core March 2020 Updates – 2.1.17 and 3.1.3](https://devblogs.microsoft.com/dotnet/net-core-march-2020/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
