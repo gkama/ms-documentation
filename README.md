@@ -83,6 +83,7 @@ Microsoft related technologies documentation
 - [Can APIs be copyrighted?](https://www.infoworld.com/article/3532896/can-apis-be-copyrighted.html)
 - [Git moves to new defaults in 2.26 release](https://devclass.com/2020/03/23/git-moves-to-new-defaults-in-2-26-release/)
 - [Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)
+- [Lazy Docker](https://github.com/jesseduffield/lazydocker)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
