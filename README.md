@@ -85,6 +85,7 @@ Microsoft related technologies documentation
 - [Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)
 - [Lazy Docker - Jesse Duffield](https://github.com/jesseduffield/lazydocker)
 - [Lazy Git - Jesse Duffield](https://github.com/jesseduffield/lazygit)
+- [GitOps brings the power of Git into Ops](https://www.infoworld.com/article/3533423/gitops-brings-the-power-of-git-into-ops.html)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
