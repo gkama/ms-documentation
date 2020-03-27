@@ -45,6 +45,9 @@ Microsoft related technologies documentation
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
 - [Top Stories from the Microsoft DevOps Community – 2020.03.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-20/)
 
+# Azure
+- [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
+
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
 - [Top stories from the Microsoft DevOps community](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-13/)
