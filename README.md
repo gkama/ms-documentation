@@ -89,6 +89,7 @@ Microsoft related technologies documentation
 - [Lazy Docker - Jesse Duffield](https://github.com/jesseduffield/lazydocker)
 - [Lazy Git - Jesse Duffield](https://github.com/jesseduffield/lazygit)
 - [GitOps brings the power of Git into Ops](https://www.infoworld.com/article/3533423/gitops-brings-the-power-of-git-into-ops.html)
+- [How to detect outdated Kubernetes APIs](https://opensource.com/article/20/3/deprek8)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
