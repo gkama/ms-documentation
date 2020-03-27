@@ -97,3 +97,8 @@ Microsoft related technologies documentation
 - [Azure DevOps and Terraform](https://medium.com/faun/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
 - [Using Terraform with Azure DevOps](https://sergeydotnet.com/using-terraform-with-azure-devops/)
 - [Tutorial: Create an Azure VM cluster with Terraform and HCL](https://docs.microsoft.com/en-us/azure/terraform/terraform-create-vm-cluster-with-infrastructure)
+
+## Postman
+- [Postman app support](https://github.com/postmanlabs/postman-app-support)
+- [Postman Desktop App incredible slow when typing request url](https://github.com/postmanlabs/postman-app-support/issues/5990)
+- [Postman canary](https://www.postman.com/downloads/canary)
