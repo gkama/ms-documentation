@@ -92,6 +92,7 @@ Microsoft related technologies documentation
 - [GitOps for Kubernetes](https://caylent.com/gitops-for-kubernetes)
 - [How to detect outdated Kubernetes APIs](https://opensource.com/article/20/3/deprek8)
 - [The most hated programming languages among developers](https://www.techrepublic.com/article/the-most-hated-programming-languages-among-developers/)
+- [Make containers work for you with Cisco Hybrid Solution for Kubernetes on AWS](https://video.cisco.com/detail/videos/latest-videos/video/6145228703001/make-containers-work-for-you-with-cisco-hybrid-solution-for-kubernetes-on-aws?autoStart=true)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
