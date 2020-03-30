@@ -40,6 +40,7 @@ Microsoft related technologies documentation
 - [Announcing the .NET Core uninstalling tool](https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/)
 - [CosmosDB function trigger in 2 minutes](https://devblogs.microsoft.com/cosmosdb/cosmos-db-function-trigger-2-min/)
 - [NET Core March 2020 Updates – 2.1.17 and 3.1.3](https://devblogs.microsoft.com/dotnet/net-core-march-2020/)
+- [Hosting and ASP.NET Core API in a Container Part 1 of 2 – Building the Container](https://devblogs.microsoft.com/premier-developer/hosting-and-asp-net-core-api-in-a-container-part-1-of-2-building-the-container/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
