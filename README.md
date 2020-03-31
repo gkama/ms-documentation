@@ -78,6 +78,7 @@ Microsoft related technologies documentation
 
 # Blogs
 - [Jon Skeet's coding blog](https://codeblog.jonskeet.uk/)
+- [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
