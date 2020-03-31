@@ -100,6 +100,7 @@ Microsoft related technologies documentation
 - [How to detect outdated Kubernetes APIs](https://opensource.com/article/20/3/deprek8)
 - [The most hated programming languages among developers](https://www.techrepublic.com/article/the-most-hated-programming-languages-among-developers/)
 - [Make containers work for you with Cisco Hybrid Solution for Kubernetes on AWS](https://video.cisco.com/detail/videos/latest-videos/video/6145228703001/make-containers-work-for-you-with-cisco-hybrid-solution-for-kubernetes-on-aws?autoStart=true)
+- [COVID-19 public dataset program: Making data freely accessible for better public outcomes](https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
