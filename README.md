@@ -7,6 +7,7 @@ Microsoft related technologies documentation
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
+- [Walkthrough: Creating and Using Dynamic Objects (C# and Visual Basic)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/walkthrough-creating-and-using-dynamic-objects)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
