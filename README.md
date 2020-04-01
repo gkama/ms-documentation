@@ -24,6 +24,7 @@ Microsoft related technologies documentation
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
 - [Web host fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-3.1)
+- [.NET Core March 2020 Updates – 2.1.17 and 3.1.3](https://devblogs.microsoft.com/dotnet/net-core-march-2020/)
 
 ### .NET Core 3.0
 - [3.0 end of life](https://devblogs.microsoft.com/dotnet/net-core-3-0-end-of-life/)
@@ -45,6 +46,7 @@ Microsoft related technologies documentation
 - [NET Core March 2020 Updates – 2.1.17 and 3.1.3](https://devblogs.microsoft.com/dotnet/net-core-march-2020/)
 - [Hosting and ASP.NET Core API in a Container Part 1 of 2 – Building the Container](https://devblogs.microsoft.com/premier-developer/hosting-and-asp-net-core-api-in-a-container-part-1-of-2-building-the-container/)
 - [Improved Git Experience in Visual Studio 2019](https://devblogs.microsoft.com/visualstudio/improved-git-experience-in-visual-studio-2019/)
+- [Balancing work on GC threads](https://devblogs.microsoft.com/dotnet/balancing-work-on-gc-threads/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
