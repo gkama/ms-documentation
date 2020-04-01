@@ -105,6 +105,7 @@ Microsoft related technologies documentation
 - [COVID-19 public dataset program: Making data freely accessible for better public outcomes](https://cloudblog.withgoogle.com/products/data-analytics/free-public-datasets-for-covid19/amp/)
 - [The Ape programming language](https://github.com/kgabis/ape/blob/master/readme.md)
 - [How To Make Money With Code](https://levelup.gitconnected.com/how-to-make-money-with-code-e6bd6c698fe4)
+- [5 best Linux desktop distributions](https://www.techrepublic.com/article/best-linux-desktop-distributions/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
