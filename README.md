@@ -128,3 +128,6 @@ Microsoft related technologies documentation
 - [Postman app support](https://github.com/postmanlabs/postman-app-support)
 - [Postman Desktop App incredible slow when typing request url](https://github.com/postmanlabs/postman-app-support/issues/5990)
 - [Postman canary](https://www.postman.com/downloads/canary)
+
+## Docker
+- [Volumes](https://docs.docker.com/storage/volumes/)
