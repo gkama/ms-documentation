@@ -139,3 +139,4 @@ Microsoft related technologies documentation
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
+- [Entity GraphQL](https://github.com/lukemurray/EntityGraphQL)
