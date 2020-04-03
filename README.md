@@ -136,3 +136,6 @@ Microsoft related technologies documentation
 - [mysql](https://hub.docker.com/_/mysql)
 - [ubuntu](https://hub.docker.com/_/ubuntu)
 - [Quickstart: Compose and ASP.NET Core with SQL Server](https://docs.docker.com/compose/aspnet-mssql-compose/)
+
+## GraphQL
+- [GraphQL Code](https://graphql.org/code/#c-net)
