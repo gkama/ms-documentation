@@ -141,3 +141,4 @@ Microsoft related technologies documentation
 - [GraphQL Code](https://graphql.org/code/#c-net)
 - [Entity GraphQL](https://github.com/lukemurray/EntityGraphQL)
 - [Hot Chocolate](https://github.com/ChilliCream/hotchocolate)
+- [Building a GraphQL API with ASP.NET Core 2 and Entity Framework Core](https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core)
