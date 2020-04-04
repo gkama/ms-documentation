@@ -74,6 +74,7 @@ Microsoft related technologies documentation
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
 - [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
 - [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+- [Microsoft's Latest Windows PowerToys Are Awesome](https://www.lifehacker.com.au/2020/04/microsofts-latest-windows-powertoys-are-awesome/)
 
 # TypeScript
 - [GitHub source code](https://github.com/microsoft/TypeScript)
