@@ -63,6 +63,7 @@ Microsoft related technologies documentation
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
 - [Microsoft: Cloud services demand up 775 percent; prioritization rules in place due to COVID-19](https://www.zdnet.com/article/microsoft-cloud-services-demand-up-775-percent-prioritization-rules-in-place-due-to-covid-19/)
 - [Mock your APIs in Azure API Management and speed up development](https://devblogs.microsoft.com/premier-developer/mock-your-apis-in-azure-api-management-and-speed-up-development/)
+- [Quarenteed Gamers Are Straining Microsoft Azure Based ](https://cointelegraph.com/news/quarantined-gamers-are-straining-microsoft-azure-based-blockchain-platform)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
