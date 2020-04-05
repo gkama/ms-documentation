@@ -57,6 +57,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.03.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-20/)
 - [Syntax guidance for basic Markdown usage](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
 - [Remoting into DevOps](https://devblogs.microsoft.com/devops/remoting-into-devops/)
+- [Top Stories from the Microsoft DevOps Community – 2020.04.03](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-04-03/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
