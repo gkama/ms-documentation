@@ -121,6 +121,7 @@ Microsoft related technologies documentation
 - [How To Make Money With Code](https://levelup.gitconnected.com/how-to-make-money-with-code-e6bd6c698fe4)
 - [5 best Linux desktop distributions](https://www.techrepublic.com/article/best-linux-desktop-distributions/)
 - [Accessing G Suite REST APIs (Google Cloud for Student Developers)](https://hostingjournalist.com/video/accessing-g-suite-rest-apis-google-cloud-for-student-developers/)
+- [The JavaScript Framework That Puts Web Pages on a Diet](https://www.wired.com/story/javascript-framework-puts-web-pages-diet/)
 
 ## Terraform
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
