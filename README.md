@@ -142,6 +142,7 @@ Microsoft related technologies documentation
 - [Volumes](https://docs.docker.com/storage/volumes/)
 - [mysql](https://hub.docker.com/_/mysql)
 - [ubuntu](https://hub.docker.com/_/ubuntu)
+- [.NET Core Runtime](https://hub.docker.com/_/microsoft-dotnet-core-runtime/)
 - [Quickstart: Compose and ASP.NET Core with SQL Server](https://docs.docker.com/compose/aspnet-mssql-compose/)
 - [Get Docker Engine - Community for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050)
