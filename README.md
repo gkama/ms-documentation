@@ -145,6 +145,7 @@ Microsoft related technologies documentation
 - [Quickstart: Compose and ASP.NET Core with SQL Server](https://docs.docker.com/compose/aspnet-mssql-compose/)
 - [Get Docker Engine - Community for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050)
+- [.NET Core Docker samples](https://github.com/dotnet/dotnet-docker/tree/master/samples)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
