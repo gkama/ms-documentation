@@ -51,6 +51,7 @@ Microsoft related technologies documentation
 - [Hosting and ASP.NET Core API in a Container Part 1 of 2 – Building the Container](https://devblogs.microsoft.com/premier-developer/hosting-and-asp-net-core-api-in-a-container-part-1-of-2-building-the-container/)
 - [Improved Git Experience in Visual Studio 2019](https://devblogs.microsoft.com/visualstudio/improved-git-experience-in-visual-studio-2019/)
 - [Balancing work on GC threads](https://devblogs.microsoft.com/dotnet/balancing-work-on-gc-threads/)
+- [Work flow of diagnosing memory performance issues – Part 0](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-0/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
