@@ -156,5 +156,6 @@ Microsoft related technologies documentation
 - [Building a GraphQL API with ASP.NET Core 2 and Entity Framework Core](https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core)
 - [Docker-compose build](https://docs.docker.com/compose/compose-file/#build)
 
-## Certs
+## Cloud training & Certs
 - [Braincert](https://www.braincert.com/)
+- [A Cloud Guru: Introduction to Azure](https://learn.acloud.guru/course/intro-to-azure/dashboard)
