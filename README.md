@@ -126,6 +126,7 @@ Microsoft related technologies documentation
 - [The JavaScript Framework That Puts Web Pages on a Diet](https://www.wired.com/story/javascript-framework-puts-web-pages-diet/)
 
 ## Terraform
+- [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
 - [Create Azure resource group using Terraform](https://sergeydotnet.com/create-resource-group-using-terraform/)
 - [Azure DevOps and Terraform](https://medium.com/faun/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
