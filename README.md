@@ -150,6 +150,7 @@ Microsoft related technologies documentation
 - [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050)
 - [.NET Core Docker samples](https://github.com/dotnet/dotnet-docker/tree/master/samples)
 - [wait-for-it](https://github.com/vishnubob/wait-for-it)
+- [Announcing the Compose Specification](https://www.docker.com/blog/announcing-the-compose-specification/)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
