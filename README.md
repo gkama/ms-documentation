@@ -76,6 +76,7 @@ Microsoft related technologies documentation
 - [Update #2 on Microsoft cloud services continuity](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/29/update-2-microsoft-cloud-services-continuity/)
 - [Angular How-to: Add Application Insights to an Angular SPA](https://devblogs.microsoft.com/premier-developer/angular-how-to-add-application-insights-to-an-angular-spa/)
 - [Attack matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [How Microsoft modernized its purchase order system with Azure microservices](https://www.microsoft.com/itshowcase/blog/how-microsoft-modernized-its-purchase-order-system-with-azure-microservices/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
