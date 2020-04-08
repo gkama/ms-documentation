@@ -67,6 +67,7 @@ Microsoft related technologies documentation
 - [Mock your APIs in Azure API Management and speed up development](https://devblogs.microsoft.com/premier-developer/mock-your-apis-in-azure-api-management-and-speed-up-development/)
 - [Quarenteed Gamers Are Straining Microsoft Azure Based ](https://cointelegraph.com/news/quarantined-gamers-are-straining-microsoft-azure-based-blockchain-platform)
 - [Overview of Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)
+- [INTEGRATE AZURE API MANAGEMENT WITH OKTA](http://blog.chaxa.com/integrate-azure-api-management-with-okta/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
