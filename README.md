@@ -134,6 +134,7 @@ Microsoft related technologies documentation
 - [5 best Linux desktop distributions](https://www.techrepublic.com/article/best-linux-desktop-distributions/)
 - [Accessing G Suite REST APIs (Google Cloud for Student Developers)](https://hostingjournalist.com/video/accessing-g-suite-rest-apis-google-cloud-for-student-developers/)
 - [The JavaScript Framework That Puts Web Pages on a Diet](https://www.wired.com/story/javascript-framework-puts-web-pages-diet/)
+- [How Kubernetes saved my desktop application](https://opensource.com/article/20/4/kubernetes-desktop-application)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
