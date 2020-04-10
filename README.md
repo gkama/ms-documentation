@@ -72,6 +72,7 @@ Microsoft related technologies documentation
 - [INTEGRATE AZURE API MANAGEMENT WITH OKTA](http://blog.chaxa.com/integrate-azure-api-management-with-okta/)
 - [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/)
 - [April query updates in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/april-query-improvements/)
+- [Indexing policies in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/index-policy#include-exclude-paths)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
