@@ -6,6 +6,7 @@ Microsoft related technologies documentation
 - [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
+- [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
