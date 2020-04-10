@@ -135,6 +135,7 @@ Microsoft related technologies documentation
 - [Accessing G Suite REST APIs (Google Cloud for Student Developers)](https://hostingjournalist.com/video/accessing-g-suite-rest-apis-google-cloud-for-student-developers/)
 - [The JavaScript Framework That Puts Web Pages on a Diet](https://www.wired.com/story/javascript-framework-puts-web-pages-diet/)
 - [How Kubernetes saved my desktop application](https://opensource.com/article/20/4/kubernetes-desktop-application)
+- [Apple, Google Bring Covid-19 Contact-Tracing to 3 Billion People](https://www.bloomberg.com/news/articles/2020-04-10/apple-google-bring-covid-19-contact-tracing-to-3-billion-people)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
