@@ -85,6 +85,7 @@ Microsoft related technologies documentation
 - [How Microsoft modernized its purchase order system with Azure microservices](https://www.microsoft.com/itshowcase/blog/how-microsoft-modernized-its-purchase-order-system-with-azure-microservices/)
 - [Injecting content to every page on a site](https://devblogs.microsoft.com/premier-developer/injecting-content-to-every-page-on-a-site/)
 - [PowerShell Gallery TLS Support](https://devblogs.microsoft.com/powershell/powershell-gallery-tls-support/)
+- [An amazingly simple solution for Mobile Apps to sync with the Cloud using Change Tracking API](https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
