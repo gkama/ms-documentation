@@ -140,6 +140,9 @@ Microsoft related technologies documentation
 - [Apple, Google Bring Covid-19 Contact-Tracing to 3 Billion People](https://www.bloomberg.com/news/articles/2020-04-10/apple-google-bring-covid-19-contact-tracing-to-3-billion-people)
 - [Deploy Stateful Docker Containers with Amazon ECS and Amazon EFS](https://www.docker.com/blog/deploy-stateful-docker-containers-with-amazon-ecs-with-amazon-efs/)
 
+## Linux
+- [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
+
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
