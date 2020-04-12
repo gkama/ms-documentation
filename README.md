@@ -158,6 +158,7 @@ Microsoft related technologies documentation
 
 ## GitHub repositories
 - [Swashbuckle.AspNetCore.Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcoreswagger)
+- [OpenTrace Cloud Functions](https://github.com/opentrace-community/opentrace-cloud-functions)
 
 ## Postman
 - [Postman app support](https://github.com/postmanlabs/postman-app-support)
