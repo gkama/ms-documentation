@@ -142,6 +142,7 @@ Microsoft related technologies documentation
 - [Deploy Stateful Docker Containers with Amazon ECS and Amazon EFS](https://www.docker.com/blog/deploy-stateful-docker-containers-with-amazon-ecs-with-amazon-efs/)
 - [Why we do machine learning engineering with YAML, not notebooks](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
 - [A Sinister New Botnet Could Prove Nearly Impossible To Stop](https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/amp/#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
+- [API design: Understanding gRPC, OpenAPI and REST and when to use them](https://cloudblog.withgoogle.com/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/amp/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
