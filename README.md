@@ -182,6 +182,7 @@ Microsoft related technologies documentation
 - [wait-for-it](https://github.com/vishnubob/wait-for-it)
 - [Announcing the Compose Specification](https://www.docker.com/blog/announcing-the-compose-specification/)
 - [How To Run Docker As Non-root User In Linux](https://www.ostechnix.com/how-to-run-docker-as-non-root-user-in-linux/)
+- [Using EF Core's migration with Docker and MySQL](http://www.andreavallotti.tech/en/2017/10/using-ef-cores-migration-with-docker-and-mysql/)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
