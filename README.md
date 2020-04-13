@@ -38,6 +38,7 @@ Microsoft related technologies documentation
 ### .NET Core 3.0
 - [3.0 end of life](https://devblogs.microsoft.com/dotnet/net-core-3-0-end-of-life/)
 - [3.0.3 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.0/3.0.3/3.0.3.md)
+- [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio)
 
 # Entity Framework Core
 - [Entity Framework Core tools reference - .NET CLI](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
