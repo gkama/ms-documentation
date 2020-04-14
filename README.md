@@ -150,6 +150,7 @@ Microsoft related technologies documentation
 - [API design: Understanding gRPC, OpenAPI and REST and when to use them](https://cloudblog.withgoogle.com/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/amp/)
 - [10 Reasons to Avoid DevOps](https://devblogs.microsoft.com/premier-developer/10-reasons-to-avoid-devops/)
 - [chocolatey - The Package Manager for Windows](https://chocolatey.org/)
+- [Find and fix issues faster with our new Logs Viewer](https://cloudblog.withgoogle.com/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/amp/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
