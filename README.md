@@ -149,6 +149,7 @@ Microsoft related technologies documentation
 - [A Sinister New Botnet Could Prove Nearly Impossible To Stop](https://www.forbes.com/sites/leemathews/2020/04/10/a-sinister-new-botnet-could-prove-nearly-impossible-to-stop/amp/#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
 - [API design: Understanding gRPC, OpenAPI and REST and when to use them](https://cloudblog.withgoogle.com/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them/amp/)
 - [10 Reasons to Avoid DevOps](https://devblogs.microsoft.com/premier-developer/10-reasons-to-avoid-devops/)
+- [chocolatey - The Package Manager for Windows](https://chocolatey.org/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
