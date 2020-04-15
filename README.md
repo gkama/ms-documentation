@@ -46,6 +46,7 @@ Microsoft related technologies documentation
 - [Migrations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli)
 - [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
 - [Inheritance](https://docs.microsoft.com/en-us/ef/core/modeling/inheritance)
+- [PostgreSQL](https://www.npgsql.org/efcore/)
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
