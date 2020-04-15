@@ -79,6 +79,7 @@ Microsoft related technologies documentation
 - [Indexing policies in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/index-policy#include-exclude-paths)
 - [Azure Bastion – Secure Access to Azure VMS](https://devblogs.microsoft.com/premier-developer/azure-bastion-secure-access-to-azure-vms/)
 - [New networking features in Azure Government](https://devblogs.microsoft.com/azuregov/new-networking-features-in-azure-government/)
+- [Bulk support improvements for Azure Cosmos DB .NET SDK](https://devblogs.microsoft.com/cosmosdb/bulk-improvements-net-sdk/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
