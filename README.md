@@ -47,6 +47,7 @@ Microsoft related technologies documentation
 - [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
 - [Inheritance](https://docs.microsoft.com/en-us/ef/core/modeling/inheritance)
 - [PostgreSQL](https://www.npgsql.org/efcore/)
+- [Data Seeding](https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding)
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
