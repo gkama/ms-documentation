@@ -7,6 +7,7 @@ Microsoft related technologies documentation
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
 - [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
+- [See What’s New in Visual Studio 2019 v16.6 Preview 3!](https://devblogs.microsoft.com/visualstudio/new-in-visual-studio-2019-v16-6-preview-3/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
