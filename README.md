@@ -70,6 +70,7 @@ Microsoft related technologies documentation
 - [Remoting into DevOps](https://devblogs.microsoft.com/devops/remoting-into-devops/)
 - [Top Stories from the Microsoft DevOps Community – 2020.04.03](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-04-03/)
 - [Top Stories from the Microsoft DevOps Community – 2020.04.10](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-04-10/)
+- [Top Stories from the Microsoft DevOps Community – 2020.04.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-04-17/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
