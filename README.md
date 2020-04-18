@@ -157,6 +157,7 @@ Microsoft related technologies documentation
 - [10 Reasons to Avoid DevOps](https://devblogs.microsoft.com/premier-developer/10-reasons-to-avoid-devops/)
 - [chocolatey - The Package Manager for Windows](https://chocolatey.org/)
 - [Find and fix issues faster with our new Logs Viewer](https://cloudblog.withgoogle.com/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/amp/)
+- [Ghost Update Take Two – 64-bit NodeJS](https://devblogs.microsoft.com/premier-developer/ghost-update-take-two-64-bit-nodejs/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
