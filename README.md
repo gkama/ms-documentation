@@ -24,6 +24,7 @@ Microsoft related technologies documentation
 - [Announcing .NET 5 preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-1/)
 - [.NET Fiddle](https://dotnetfiddle.net/)
 - [Regex Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/)
+- [The Most Exciting Promise of .NET 5](https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
