@@ -15,6 +15,7 @@ Microsoft related technologies documentation
 - [Functional builder in C#](https://youtu.be/uK5SGBam0Uk)
 - [Work flow of diagnosing memory performance issues – Part 1](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-1/)
 - [Span<T> Struct](https://docs.microsoft.com/en-us/dotnet/api/system.span-1?view=netcore-3.1)
+- [Span - Adam Sitnik](https://adamsitnik.com/Span/)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
