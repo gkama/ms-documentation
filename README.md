@@ -200,6 +200,7 @@ Microsoft related technologies documentation
 - [How To Run Docker As Non-root User In Linux](https://www.ostechnix.com/how-to-run-docker-as-non-root-user-in-linux/)
 - [Using EF Core's migration with Docker and MySQL](http://www.andreavallotti.tech/en/2017/10/using-ef-cores-migration-with-docker-and-mysql/)
 - [Import SQL dump in postgres docker container in 10 min](https://medium.com/@deeksha.sharma25/import-sql-dump-in-postgres-docker-container-in-10-min-ca16d9264f86)
+- [Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
