@@ -9,6 +9,7 @@ Microsoft related technologies documentation
 - [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
 - [See What’s New in Visual Studio 2019 v16.6 Preview 3!](https://devblogs.microsoft.com/visualstudio/new-in-visual-studio-2019-v16-6-preview-3/)
 - [dotPeek](https://www.jetbrains.com/decompiler/)
+- [Python in Visual Studio Code – April 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2020-release/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
