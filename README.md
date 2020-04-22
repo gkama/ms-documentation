@@ -37,6 +37,7 @@ Microsoft related technologies documentation
 - [ASP.NET Core updates in .NET 5 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-2/)
 - [stackoverflow: Does ASP.NET Core still use OWIN?](https://stackoverflow.com/a/38726780)
 - [Unusual Ways of Boosting Up App Performance. Lambdas and LINQs](https://blog.jetbrains.com/dotnet/2014/07/24/unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs/)
+- [Use ASP.NET Core APIs in a class library](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/target-aspnetcore?view=aspnetcore-3.1&tabs=visual-studio)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
