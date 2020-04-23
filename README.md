@@ -26,6 +26,7 @@ Microsoft related technologies documentation
 - [.NET Fiddle](https://dotnetfiddle.net/)
 - [Regex Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/)
 - [The Most Exciting Promise of .NET 5](https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5)
+- [Creating and Packaging a .NET Standard library](https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
