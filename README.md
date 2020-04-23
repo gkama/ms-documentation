@@ -20,6 +20,7 @@ Microsoft related technologies documentation
 - [Span - Adam Sitnik](https://adamsitnik.com/Span/)
 - [BenchmarkDotNet](https://benchmarkdotnet.org/)
 - [User-defined conversion operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators)
+- [What are JetBrains Annotations – and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
