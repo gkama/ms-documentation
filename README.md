@@ -19,8 +19,9 @@ Microsoft related technologies documentation
 - [Span<T> Struct](https://docs.microsoft.com/en-us/dotnet/api/system.span-1?view=netcore-3.1)
 - [Span - Adam Sitnik](https://adamsitnik.com/Span/)
 - [BenchmarkDotNet](https://benchmarkdotnet.org/)
-- [User-defined conversion operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators)
 - [What are JetBrains Annotations – and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/)
+- [User-defined conversion operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators)
+- [params (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/params)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
