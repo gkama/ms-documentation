@@ -19,6 +19,7 @@ Microsoft related technologies documentation
 - [Span<T> Struct](https://docs.microsoft.com/en-us/dotnet/api/system.span-1?view=netcore-3.1)
 - [Span - Adam Sitnik](https://adamsitnik.com/Span/)
 - [BenchmarkDotNet](https://benchmarkdotnet.org/)
+- [User-defined conversion operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
