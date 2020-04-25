@@ -169,6 +169,7 @@ Microsoft related technologies documentation
 - [10 Reasons to Avoid DevOps](https://devblogs.microsoft.com/premier-developer/10-reasons-to-avoid-devops/)
 - [chocolatey - The Package Manager for Windows](https://chocolatey.org/)
 - [Find and fix issues faster with our new Logs Viewer](https://cloudblog.withgoogle.com/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/amp/)
+- [Cloud Foundry Becomes More Kubernetes Native with cf-for-k8s](https://www.cloudfoundry.org/blog/cloud-foundry-becomes-more-kubernetes-native-with-cf-for-k8s/)
 - [Ghost Update Take Two – 64-bit NodeJS](https://devblogs.microsoft.com/premier-developer/ghost-update-take-two-64-bit-nodejs/)
 
 ## Linux
