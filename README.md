@@ -172,6 +172,7 @@ Microsoft related technologies documentation
 - [Find and fix issues faster with our new Logs Viewer](https://cloudblog.withgoogle.com/products/management-tools/troubleshoot-issues-faster-with-cloud-logging/amp/)
 - [Cloud Foundry Becomes More Kubernetes Native with cf-for-k8s](https://www.cloudfoundry.org/blog/cloud-foundry-becomes-more-kubernetes-native-with-cf-for-k8s/)
 - [Ghost Update Take Two – 64-bit NodeJS](https://devblogs.microsoft.com/premier-developer/ghost-update-take-two-64-bit-nodejs/)
+- [Why We Built YugabyteDB by Reusing the PostgreSQL Query Layer](https://blog.yugabyte.com/why-we-built-yugabytedb-by-reusing-the-postgresql-query-layer/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
