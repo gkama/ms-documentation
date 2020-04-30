@@ -24,6 +24,7 @@ Microsoft related technologies documentation
 - [User-defined conversion operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators)
 - [params (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/params)
 - [Work flow of diagnosing memory performance issues – Part 2](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-2/)
+- [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
