@@ -119,6 +119,7 @@ Microsoft related technologies documentation
 - [PowerShell Gallery TLS Support](https://devblogs.microsoft.com/powershell/powershell-gallery-tls-support/)
 - [An amazingly simple solution for Mobile Apps to sync with the Cloud using Change Tracking API](https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/)
 - [Join the Kubernetes Release Team: learn from and give back to the community](https://cloudblogs.microsoft.com/opensource/2020/04/11/join-kubernetes-release-team-roles-responsibilities/)
+- [PowerShellGet 3.0 Preview 2](https://devblogs.microsoft.com/powershell/powershellget-3-0-preview-2/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
