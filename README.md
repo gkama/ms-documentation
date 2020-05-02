@@ -226,6 +226,7 @@ Microsoft related technologies documentation
 - [PostgreSQL in Docker & Docker Volume Mounting](https://medium.com/faun/postgresql-in-docker-mount-volume-3220fbd0afc4)
 - [How To Install Drupal with Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-drupal-with-docker-compose)
 - [The Reason Why I Love Docker](https://itnext.io/the-reason-i-love-docker-1410820a7c36?gi=f172495b7582)
+- [Itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
