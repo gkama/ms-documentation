@@ -188,6 +188,7 @@ Microsoft related technologies documentation
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
 - [Ubuntu 20.04 arrives with Linux 5.4 kernel and WireGuard VPN](https://www.zdnet.com/article/ubuntu-20-04-arrives-with-linux-5-4-kernel-and-wireguard-vpn/)
+- [How to Enable, Deny, Allow, Delete Rules on Ubuntu UFW Firewall](https://linoxide.com/firewall/guide-ufw-firewall-ubuntu-16-10/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
