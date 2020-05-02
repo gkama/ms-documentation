@@ -183,6 +183,7 @@ Microsoft related technologies documentation
 - [Ghost Update Take Two – 64-bit NodeJS](https://devblogs.microsoft.com/premier-developer/ghost-update-take-two-64-bit-nodejs/)
 - [Why We Built YugabyteDB by Reusing the PostgreSQL Query Layer](https://blog.yugabyte.com/why-we-built-yugabytedb-by-reusing-the-postgresql-query-layer/)
 - [Remote Desktop Manager](https://remotedesktopmanager.com/home/downloadfree)
+- [Deploying a Minecraft Server on Azure with Docker](http://jonathanpeppers.com/Blog/deploying-a-minecraft-server-on-azure-with-docker)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
