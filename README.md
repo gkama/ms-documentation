@@ -191,6 +191,7 @@ Microsoft related technologies documentation
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
 - [Ubuntu 20.04 arrives with Linux 5.4 kernel and WireGuard VPN](https://www.zdnet.com/article/ubuntu-20-04-arrives-with-linux-5-4-kernel-and-wireguard-vpn/)
 - [How to Enable, Deny, Allow, Delete Rules on Ubuntu UFW Firewall](https://linoxide.com/firewall/guide-ufw-firewall-ubuntu-16-10/)
+- [How to copy file remotely via SSH](https://www.simplified.guide/ssh/copy-file)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
