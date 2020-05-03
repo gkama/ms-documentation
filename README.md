@@ -192,6 +192,7 @@ Microsoft related technologies documentation
 - [Ubuntu 20.04 arrives with Linux 5.4 kernel and WireGuard VPN](https://www.zdnet.com/article/ubuntu-20-04-arrives-with-linux-5-4-kernel-and-wireguard-vpn/)
 - [How to Enable, Deny, Allow, Delete Rules on Ubuntu UFW Firewall](https://linoxide.com/firewall/guide-ufw-firewall-ubuntu-16-10/)
 - [How to copy file remotely via SSH](https://www.simplified.guide/ssh/copy-file)
+- [How do I get out of a screen without typing 'exit'?](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
