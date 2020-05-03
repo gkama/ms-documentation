@@ -185,6 +185,7 @@ Microsoft related technologies documentation
 - [Remote Desktop Manager](https://remotedesktopmanager.com/home/downloadfree)
 - [Deploying a Minecraft Server on Azure with Docker](http://jonathanpeppers.com/Blog/deploying-a-minecraft-server-on-azure-with-docker)
 - [Everything I Ever Needed to Know About Software Development Project Management, I Learned from World of Warcraft](https://devblogs.microsoft.com/premier-developer/everything-i-ever-needed-to-know-about-software-development-project-management-i-learned-from-world-of-warcraft/)
+- [Minecraft Bedrock Edition – Ubuntu Dedicated Server Guide](https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
