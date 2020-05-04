@@ -106,6 +106,7 @@ Microsoft related technologies documentation
 - [New networking features in Azure Government](https://devblogs.microsoft.com/azuregov/new-networking-features-in-azure-government/)
 - [Bulk support improvements for Azure Cosmos DB .NET SDK](https://devblogs.microsoft.com/cosmosdb/bulk-improvements-net-sdk/)
 - [Basic Game Server Hosting on Azure](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/multiplayer-basic-game-server-hosting)
+- [How to create, attach, and mount a disk to Linux VM (Microsoft Azure)](https://blog.e-zest.com/how-to-create-attach-and-mount-a-disk-to-linux-vm-microsoft-azure)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
