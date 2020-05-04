@@ -195,6 +195,7 @@ Microsoft related technologies documentation
 - [How to Enable, Deny, Allow, Delete Rules on Ubuntu UFW Firewall](https://linoxide.com/firewall/guide-ufw-firewall-ubuntu-16-10/)
 - [How to copy file remotely via SSH](https://www.simplified.guide/ssh/copy-file)
 - [How do I get out of a screen without typing 'exit'?](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)
+- [Ubuntu 20.04: Welcome to the future, Linux LTS disciples](https://arstechnica.com/information-technology/2020/05/ubuntu-20-04-welcome-to-the-future-linux-lts-disciples/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
