@@ -50,6 +50,7 @@ Microsoft related technologies documentation
 - [Aggregation extensions in OData ASP.NET Core](https://devblogs.microsoft.com/odata/aggregation-extensions-in-odata-asp-net-core/)
 - [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1)
 - [Using ML.NET for deep learning on images in Azure](https://devblogs.microsoft.com/dotnet/train-image-classification-model-azure-mlnet-model-builder/)
+- [.NET Annotated | May 2020](https://blog.jetbrains.com/dotnet/2020/05/06/net-annotated-may-2020/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
