@@ -110,6 +110,7 @@ Microsoft related technologies documentation
 - [Basic Game Server Hosting on Azure](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/multiplayer-basic-game-server-hosting)
 - [How to create, attach, and mount a disk to Linux VM (Microsoft Azure)](https://blog.e-zest.com/how-to-create-attach-and-mount-a-disk-to-linux-vm-microsoft-azure)
 - [CMMC with Microsoft Azure: Asset & Configuration Management (3 of 10)](https://devblogs.microsoft.com/azuregov/cmmc-with-microsoft-azure-asset-configuration-management-3-of-10/)
+- [How to Change Azure Monitor Log Agent Workspace Information For All VMs in a Subscription](https://devblogs.microsoft.com/premier-developer/how-to-change-azure-monitor-log-agent-workspace-information-for-all-vms-in-a-subscription/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
