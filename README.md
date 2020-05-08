@@ -12,6 +12,7 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – April 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2020-release/)
 - [Exception Helper – Rethrown Exceptions](https://devblogs.microsoft.com/visualstudio/exception-helper-rethrown-exceptions/)
 - [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
+- [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
