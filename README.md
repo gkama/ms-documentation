@@ -205,6 +205,7 @@ Microsoft related technologies documentation
 - [How do I get out of a screen without typing 'exit'?](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)
 - [Ubuntu 20.04: Welcome to the future, Linux LTS disciples](https://arstechnica.com/information-technology/2020/05/ubuntu-20-04-welcome-to-the-future-linux-lts-disciples/)
 - [Microsoft offers $100,000 to hack its custom Linux OS](https://www.theverge.com/2020/5/6/21249038/microsoft-azure-sphere-bug-bounty-security-hacking)
+- [Officially Released: This Remix Of Ubuntu 20.04 Ditches Gnome For Deepin](https://www.forbes.com/sites/jasonevangelho/2020/05/07/out-now-this-remix-of-ubuntu-2004-ditches-gnome-for-deepin/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
