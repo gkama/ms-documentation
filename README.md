@@ -94,6 +94,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.04.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-04-17/)
 - [Azure DevOps and Continuous Learning](https://devblogs.microsoft.com/premier-developer/azure-devops-and-continuous-learning/)
 - [Announcing General Availability of YAML CD features in Azure Pipelines](https://devblogs.microsoft.com/devops/announcing-general-availability-of-azure-pipelines-yaml-cd/)
+- [Top Stories from the Microsoft DevOps Community – 2020.05.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-08/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
