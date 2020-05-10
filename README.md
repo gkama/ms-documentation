@@ -117,6 +117,7 @@ Microsoft related technologies documentation
 - [How to Change Azure Monitor Log Agent Workspace Information For All VMs in a Subscription](https://devblogs.microsoft.com/premier-developer/how-to-change-azure-monitor-log-agent-workspace-information-for-all-vms-in-a-subscription/)
 - [Using spatial geometry data in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/spatial-geometry-data/)
 - [Control Access to Power Apps and Power Automate with Azure AD Conditional Access Policies](https://devblogs.microsoft.com/premier-developer/control-access-to-power-apps-and-power-automate-with-azure-ad-conditional-access-policies/)
+- [nopCommerce running in Azure (PaaS)](https://devblogs.microsoft.com/premier-developer/nopcommerce-running-in-azure-paas/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
