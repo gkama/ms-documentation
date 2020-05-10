@@ -13,6 +13,7 @@ Microsoft related technologies documentation
 - [Exception Helper – Rethrown Exceptions](https://devblogs.microsoft.com/visualstudio/exception-helper-rethrown-exceptions/)
 - [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
 - [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces)
+- [Creating and Packaging a .NET Standard library](https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
