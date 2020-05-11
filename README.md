@@ -37,6 +37,7 @@ Microsoft related technologies documentation
 - [The Most Exciting Promise of .NET 5](https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5)
 - [Creating and Packaging a .NET Standard library](https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/)
 - [What’s new in Microsoft .NET 5](https://www.infoworld.com/article/3533053/whats-new-in-microsoft-net-5.html)
+- [DocFX](https://dotnet.github.io/docfx/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
