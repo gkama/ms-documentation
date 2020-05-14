@@ -56,6 +56,7 @@ Microsoft related technologies documentation
 - [Using ML.NET for deep learning on images in Azure](https://devblogs.microsoft.com/dotnet/train-image-classification-model-azure-mlnet-model-builder/)
 - [.NET Annotated | May 2020](https://blog.jetbrains.com/dotnet/2020/05/06/net-annotated-may-2020/)
 - [.NET Core May 2020 Updates – 2.1.18 and 3.1.4](https://devblogs.microsoft.com/dotnet/net-core-may-2020/)
+- [Building a Progressive Web App with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
