@@ -141,6 +141,7 @@ Microsoft related technologies documentation
 - [Join the Kubernetes Release Team: learn from and give back to the community](https://cloudblogs.microsoft.com/opensource/2020/04/11/join-kubernetes-release-team-roles-responsibilities/)
 - [PowerShellGet 3.0 Preview 2](https://devblogs.microsoft.com/powershell/powershellget-3-0-preview-2/)
 - [Microsoft Build](https://mybuild.microsoft.com/)
+- [Join us: Azure SQL at Microsoft Build 2020](https://devblogs.microsoft.com/azure-sql/join-us-azure-sql-at-microsoft-build-2020/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
