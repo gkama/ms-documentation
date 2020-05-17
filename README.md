@@ -210,7 +210,8 @@ Microsoft related technologies documentation
 - [Everything I Ever Needed to Know About Software Development Project Management, I Learned from World of Warcraft](https://devblogs.microsoft.com/premier-developer/everything-i-ever-needed-to-know-about-software-development-project-management-i-learned-from-world-of-warcraft/)
 - [Minecraft Bedrock Edition – Ubuntu Dedicated Server Guide](https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/)
 - [Xamarin Customer Showcase: PGS Software + Volotea](https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/)
-- [Migrating off App Center Push](https://devblogs.microsoft.com/appcenter/migrating-off-app-center-push/)@
+- [Migrating off App Center Push](https://devblogs.microsoft.com/appcenter/migrating-off-app-center-push/)
+- [Xamarin Podcast: Essentials 1.6, Forms 4.6 and Contact Tracing](https://devblogs.microsoft.com/xamarin/xamarin-podcast-contact-tracing/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
