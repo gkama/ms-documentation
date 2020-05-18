@@ -39,6 +39,7 @@ Microsoft related technologies documentation
 - [Creating and Packaging a .NET Standard library](https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/)
 - [What’s new in Microsoft .NET 5](https://www.infoworld.com/article/3533053/whats-new-in-microsoft-net-5.html)
 - [DocFX](https://dotnet.github.io/docfx/)
+- [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
