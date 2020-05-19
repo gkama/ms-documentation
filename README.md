@@ -213,6 +213,7 @@ Microsoft related technologies documentation
 - [Xamarin Customer Showcase: PGS Software + Volotea](https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/)
 - [Migrating off App Center Push](https://devblogs.microsoft.com/appcenter/migrating-off-app-center-push/)
 - [Xamarin Podcast: Essentials 1.6, Forms 4.6 and Contact Tracing](https://devblogs.microsoft.com/xamarin/xamarin-podcast-contact-tracing/)
+- [Microsoft: we were wrong about open source](https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
