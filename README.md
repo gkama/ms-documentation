@@ -78,6 +78,7 @@ Microsoft related technologies documentation
 - [Inheritance](https://docs.microsoft.com/en-us/ef/core/modeling/inheritance)
 - [PostgreSQL](https://www.npgsql.org/efcore/)
 - [Data Seeding](https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding)
+- [Announcing Entity Framework Core 5.0 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-4/)
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
