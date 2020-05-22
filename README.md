@@ -129,6 +129,7 @@ Microsoft related technologies documentation
 - [nopCommerce running in Azure (PaaS)](https://devblogs.microsoft.com/premier-developer/nopcommerce-running-in-azure-paas/)
 - [Introduction to the App Service Environments](https://docs.microsoft.com/en-us/azure/app-service/environment/intro)
 - [Now in preview: Use the native Cassandra shell on Azure Cosmos DB Cassandra API!](https://devblogs.microsoft.com/cosmosdb/announcing-native-cassandra-shell-preview/)
+- [DevOps for Azure SQL](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
