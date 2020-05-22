@@ -30,6 +30,7 @@ Microsoft related technologies documentation
 - [Work flow of diagnosing memory performance issues – Part 2](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-2/)
 - [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
 - [OData Connected Service 0.10.0 Release](https://devblogs.microsoft.com/odata/odata-connected-service-0-10-0-release/)
+- [Welcome to C# 9.0](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
