@@ -146,6 +146,7 @@ Microsoft related technologies documentation
 - [PowerShellGet 3.0 Preview 2](https://devblogs.microsoft.com/powershell/powershellget-3-0-preview-2/)
 - [Microsoft Build](https://mybuild.microsoft.com/)
 - [Join us: Azure SQL at Microsoft Build 2020](https://devblogs.microsoft.com/azure-sql/join-us-azure-sql-at-microsoft-build-2020/)
+- [Introducing YARP Preview 1](https://devblogs.microsoft.com/dotnet/introducing-yarp-preview-1/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
