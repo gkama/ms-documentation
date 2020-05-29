@@ -60,6 +60,7 @@ Microsoft related technologies documentation
 - [.NET Annotated | May 2020](https://blog.jetbrains.com/dotnet/2020/05/06/net-annotated-may-2020/)
 - [.NET Core May 2020 Updates – 2.1.18 and 3.1.4](https://devblogs.microsoft.com/dotnet/net-core-may-2020/)
 - [Building a Progressive Web App with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
+- [Continuous integration workflow template for .NET Core desktop apps with GitHub Actions](https://devblogs.microsoft.com/dotnet/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
@@ -105,6 +106,8 @@ Microsoft related technologies documentation
 - [Azure DevOps and Continuous Learning](https://devblogs.microsoft.com/premier-developer/azure-devops-and-continuous-learning/)
 - [Announcing General Availability of YAML CD features in Azure Pipelines](https://devblogs.microsoft.com/devops/announcing-general-availability-of-azure-pipelines-yaml-cd/)
 - [Top Stories from the Microsoft DevOps Community – 2020.05.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-08/)
+- [Top Stories from the Microsoft DevOps Community – 2020.05.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-22/)
+- [Simplified Automated QA Testing on Azure DevOps](https://devblogs.microsoft.com/premier-developer/simplified-automated-qa-testing-on-azure-devops/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
