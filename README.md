@@ -61,6 +61,7 @@ Microsoft related technologies documentation
 - [.NET Core May 2020 Updates – 2.1.18 and 3.1.4](https://devblogs.microsoft.com/dotnet/net-core-may-2020/)
 - [Building a Progressive Web App with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
 - [Continuous integration workflow template for .NET Core desktop apps with GitHub Actions](https://devblogs.microsoft.com/dotnet/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions/)
+- [Using Visual Studio Codespaces with .NET Core](https://devblogs.microsoft.com/dotnet/using-visual-studio-codespaces-with-net-core/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
@@ -134,6 +135,7 @@ Microsoft related technologies documentation
 - [Introduction to the App Service Environments](https://docs.microsoft.com/en-us/azure/app-service/environment/intro)
 - [Now in preview: Use the native Cassandra shell on Azure Cosmos DB Cassandra API!](https://devblogs.microsoft.com/cosmosdb/announcing-native-cassandra-shell-preview/)
 - [DevOps for Azure SQL](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
+- [Azure Cosmos DB wrap-up: May 2020 BUILD Announcements](https://devblogs.microsoft.com/cosmosdb/build-2020-announcements/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
@@ -222,6 +224,7 @@ Microsoft related technologies documentation
 - [Migrating off App Center Push](https://devblogs.microsoft.com/appcenter/migrating-off-app-center-push/)
 - [Xamarin Podcast: Essentials 1.6, Forms 4.6 and Contact Tracing](https://devblogs.microsoft.com/xamarin/xamarin-podcast-contact-tracing/)
 - [Microsoft: we were wrong about open source](https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement)
+- [Introducing Project Tye](https://devblogs.microsoft.com/aspnet/introducing-project-tye/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
