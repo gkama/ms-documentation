@@ -109,6 +109,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.05.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-08/)
 - [Top Stories from the Microsoft DevOps Community – 2020.05.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-22/)
 - [Simplified Automated QA Testing on Azure DevOps](https://devblogs.microsoft.com/premier-developer/simplified-automated-qa-testing-on-azure-devops/)
+- [Top Stories from the Microsoft DevOps Community – 2020.05.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-29/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
