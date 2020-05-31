@@ -226,6 +226,7 @@ Microsoft related technologies documentation
 - [Xamarin Podcast: Essentials 1.6, Forms 4.6 and Contact Tracing](https://devblogs.microsoft.com/xamarin/xamarin-podcast-contact-tracing/)
 - [Microsoft: we were wrong about open source](https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement)
 - [Introducing Project Tye](https://devblogs.microsoft.com/aspnet/introducing-project-tye/)
+- [winget install learning](https://devblogs.microsoft.com/commandline/winget-install-learning/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
