@@ -137,6 +137,7 @@ Microsoft related technologies documentation
 - [Now in preview: Use the native Cassandra shell on Azure Cosmos DB Cassandra API!](https://devblogs.microsoft.com/cosmosdb/announcing-native-cassandra-shell-preview/)
 - [DevOps for Azure SQL](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
 - [Azure Cosmos DB wrap-up: May 2020 BUILD Announcements](https://devblogs.microsoft.com/cosmosdb/build-2020-announcements/)
+- [Improve JDBC application reliability with Azure SQL and connection pooling](https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
