@@ -14,6 +14,7 @@ Microsoft related technologies documentation
 - [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
 - [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces)
 - [Creating and Packaging a .NET Standard library](https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/)
+- [Linux development with Visual Studio: first-class support for gdbserver, improved build times with Ninja, and updates to the Connection Manager](https://devblogs.microsoft.com/cppblog/linux-development-with-visual-studio-first-class-support-for-gdbserver-improved-build-times-with-ninja-and-updates-to-the-connection-manager/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
