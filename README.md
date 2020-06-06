@@ -231,6 +231,7 @@ Microsoft related technologies documentation
 - [Introducing Project Tye](https://devblogs.microsoft.com/aspnet/introducing-project-tye/)
 - [winget install learning](https://devblogs.microsoft.com/commandline/winget-install-learning/)
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
+- [How to Get Workflow Definitions Using the REST API](https://devblogs.microsoft.com/premier-developer/how-to-get-workflow-definitions-using-the-rest-api/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
