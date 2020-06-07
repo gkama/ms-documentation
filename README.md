@@ -233,6 +233,7 @@ Microsoft related technologies documentation
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
 - [How to Get Workflow Definitions Using the REST API](https://devblogs.microsoft.com/premier-developer/how-to-get-workflow-definitions-using-the-rest-api/)
 - [Using fibers to expand a thread’s stack at runtime, part 4](https://devblogs.microsoft.com/oldnewthing/20200605-00/?p=103840)
+- [The Importance of Quality Assurance in the Development Life Cycle](https://devblogs.microsoft.com/premier-developer/the-importance-of-quality-assurance-in-the-development-life-cycle/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
