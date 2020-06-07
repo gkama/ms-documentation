@@ -232,6 +232,7 @@ Microsoft related technologies documentation
 - [winget install learning](https://devblogs.microsoft.com/commandline/winget-install-learning/)
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
 - [How to Get Workflow Definitions Using the REST API](https://devblogs.microsoft.com/premier-developer/how-to-get-workflow-definitions-using-the-rest-api/)
+- [Using fibers to expand a thread’s stack at runtime, part 4](https://devblogs.microsoft.com/oldnewthing/20200605-00/?p=103840)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
