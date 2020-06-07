@@ -63,6 +63,7 @@ Microsoft related technologies documentation
 - [Building a Progressive Web App with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
 - [Continuous integration workflow template for .NET Core desktop apps with GitHub Actions](https://devblogs.microsoft.com/dotnet/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions/)
 - [Using Visual Studio Codespaces with .NET Core](https://devblogs.microsoft.com/dotnet/using-visual-studio-codespaces-with-net-core/)
+- [6 Steps To Run .NET Core Apps In Azure Kubernetes](https://thorsten-hans.com/6-steps-to-run-netcore-apps-in-azure-kubernetes)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
