@@ -142,6 +142,7 @@ Microsoft related technologies documentation
 - [Azure Cosmos DB wrap-up: May 2020 BUILD Announcements](https://devblogs.microsoft.com/cosmosdb/build-2020-announcements/)
 - [Improve JDBC application reliability with Azure SQL and connection pooling](https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/)
 - [Build 2020 Recap: What’s new in Azure Cosmos DB’s API for MongoDB?](https://devblogs.microsoft.com/cosmosdb/build-2020-recap-whats-new-in-azure-cosmos-dbs-api-for-mongodb/)
+- [Manage Azure Cosmos DB with PowerShell](https://devblogs.microsoft.com/cosmosdb/manage-with-powershell/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
