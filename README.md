@@ -113,6 +113,7 @@ Microsoft related technologies documentation
 - [Simplified Automated QA Testing on Azure DevOps](https://devblogs.microsoft.com/premier-developer/simplified-automated-qa-testing-on-azure-devops/)
 - [Top Stories from the Microsoft DevOps Community – 2020.05.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-29/)
 - [New in Azure Boards sprint 170](https://devblogs.microsoft.com/devops/new-in-azure-boards-sprint-170/)
+- [CI/CD with SharePoint Framework (SPFx)](https://devblogs.microsoft.com/premier-developer/ci-cd-with-sharepoint-framework-spfx/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
