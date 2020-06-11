@@ -65,6 +65,7 @@ Microsoft related technologies documentation
 - [Using Visual Studio Codespaces with .NET Core](https://devblogs.microsoft.com/dotnet/using-visual-studio-codespaces-with-net-core/)
 - [6 Steps To Run .NET Core Apps In Azure Kubernetes](https://thorsten-hans.com/6-steps-to-run-netcore-apps-in-azure-kubernetes)
 - [Use web API conventions](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/conventions?view=aspnetcore-3.1)
+- [Handle errors in ASP.NET Core web APIs](https://docs.microsoft.com/en-us/aspnet/core/web-api/handle-errors?view=aspnetcore-3.1)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
