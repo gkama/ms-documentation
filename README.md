@@ -242,6 +242,7 @@ Microsoft related technologies documentation
 - [The Importance of Quality Assurance in the Development Life Cycle](https://devblogs.microsoft.com/premier-developer/the-importance-of-quality-assurance-in-the-development-life-cycle/)
 - [Beda, Burns and McLuckie: the Creators of Kubernetes Look Back](https://thenewstack.io/beda-burns-and-mcluckie-the-creators-of-kubernetes-look-back/)
 - [Dual-screen web experiences preview](https://devblogs.microsoft.com/surface-duo/dual-screen-web-experiences-preview/)
+- [Introducing “Web Live Preview”](https://devblogs.microsoft.com/aspnet/introducing-web-live-preview/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
