@@ -148,6 +148,7 @@ Microsoft related technologies documentation
 - [Improve JDBC application reliability with Azure SQL and connection pooling](https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/)
 - [Build 2020 Recap: What’s new in Azure Cosmos DB’s API for MongoDB?](https://devblogs.microsoft.com/cosmosdb/build-2020-recap-whats-new-in-azure-cosmos-dbs-api-for-mongodb/)
 - [Manage Azure Cosmos DB with PowerShell](https://devblogs.microsoft.com/cosmosdb/manage-with-powershell/)
+- [Microsoft Azure is offering 300 Machine Learning Scholarships with Udacity](https://www.helpmegeek.com/microsoft-azure-machine-learning-scholarships/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
