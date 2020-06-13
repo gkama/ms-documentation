@@ -117,6 +117,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.05.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-05-29/)
 - [New in Azure Boards sprint 170](https://devblogs.microsoft.com/devops/new-in-azure-boards-sprint-170/)
 - [CI/CD with SharePoint Framework (SPFx)](https://devblogs.microsoft.com/premier-developer/ci-cd-with-sharepoint-framework-spfx/)
+- [Top Stories from the Microsoft DevOps Community – 2020.06.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-06-12/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
