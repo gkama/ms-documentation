@@ -247,6 +247,7 @@ Microsoft related technologies documentation
 - [Beda, Burns and McLuckie: the Creators of Kubernetes Look Back](https://thenewstack.io/beda-burns-and-mcluckie-the-creators-of-kubernetes-look-back/)
 - [Dual-screen web experiences preview](https://devblogs.microsoft.com/surface-duo/dual-screen-web-experiences-preview/)
 - [Introducing “Web Live Preview”](https://devblogs.microsoft.com/aspnet/introducing-web-live-preview/)
+- [Best practices for managing and storing secrets including API keys and other credentials [2020]](https://blog.gitguardian.com/secrets-api-management/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
