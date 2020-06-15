@@ -251,6 +251,7 @@ Microsoft related technologies documentation
 - [Best practices for managing and storing secrets including API keys and other credentials [2020]](https://blog.gitguardian.com/secrets-api-management/)
 - [Architecting Kubernetes clusters — choosing a cluster size](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
 - [Get Started with ASP.NET Web API 2 (C#)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+-[LINQPad](https://www.linqpad.net/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
