@@ -44,6 +44,7 @@ Microsoft related technologies documentation
 - [What’s new in Microsoft .NET 5](https://www.infoworld.com/article/3533053/whats-new-in-microsoft-net-5.html)
 - [DocFX](https://dotnet.github.io/docfx/)
 - [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
+- [gRPC-Web for .NET now available](https://devblogs.microsoft.com/aspnet/grpc-web-for-net-now-available/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
