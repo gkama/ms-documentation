@@ -153,6 +153,7 @@ Microsoft related technologies documentation
 - [Manage Azure Cosmos DB with PowerShell](https://devblogs.microsoft.com/cosmosdb/manage-with-powershell/)
 - [Microsoft Azure is offering 300 Machine Learning Scholarships with Udacity](https://www.helpmegeek.com/microsoft-azure-machine-learning-scholarships/)
 - [New string function performance improvements and case-insensitive search](https://devblogs.microsoft.com/cosmosdb/string-performance-case-insensitive-search/)
+- [Microsoft goes public with more of its Azure capacity improvement plans](https://www.zdnet.com/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
