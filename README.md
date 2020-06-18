@@ -69,6 +69,7 @@ Microsoft related technologies documentation
 - [Use web API conventions](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/conventions?view=aspnetcore-3.1)
 - [Handle errors in ASP.NET Core web APIs](https://docs.microsoft.com/en-us/aspnet/core/web-api/handle-errors?view=aspnetcore-3.1)
 - [Send Emails with ASP.NET Core in 5 EASY Steps – Guide](https://www.codewithmukesh.com/blog/send-emails-with-aspnet-core/)
+- [ASP.NET Core Series: Tracing](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Tracing)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
