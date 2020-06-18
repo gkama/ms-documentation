@@ -156,6 +156,7 @@ Microsoft related technologies documentation
 - [Microsoft Azure is offering 300 Machine Learning Scholarships with Udacity](https://www.helpmegeek.com/microsoft-azure-machine-learning-scholarships/)
 - [New string function performance improvements and case-insensitive search](https://devblogs.microsoft.com/cosmosdb/string-performance-case-insensitive-search/)
 - [Microsoft goes public with more of its Azure capacity improvement plans](https://www.zdnet.com/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/)
+- [Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course](https://www.freecodecamp.org/news/azure-fundamentals-course-az900/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
