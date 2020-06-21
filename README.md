@@ -160,6 +160,7 @@ Microsoft related technologies documentation
 - [Microsoft goes public with more of its Azure capacity improvement plans](https://www.zdnet.com/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/)
 - [Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course](https://www.freecodecamp.org/news/azure-fundamentals-course-az900/)
 - [Azure SDK Release (June 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2020/)
+- [How to Debug and Step Into Service Fabric SDK Source Code](https://devblogs.microsoft.com/premier-developer/how-to-debug-and-step-into-service-fabric-sdk-source-code/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
