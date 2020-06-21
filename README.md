@@ -159,6 +159,7 @@ Microsoft related technologies documentation
 - [New string function performance improvements and case-insensitive search](https://devblogs.microsoft.com/cosmosdb/string-performance-case-insensitive-search/)
 - [Microsoft goes public with more of its Azure capacity improvement plans](https://www.zdnet.com/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/)
 - [Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course](https://www.freecodecamp.org/news/azure-fundamentals-course-az900/)
+- [Azure SDK Release (June 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2020/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
