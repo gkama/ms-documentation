@@ -267,6 +267,7 @@ Microsoft related technologies documentation
 - [The June 2020 release of Azure Data Studio is now available](https://cloudblogs.microsoft.com/sqlserver/2020/06/18/the-june-2020-release-of-azure-data-studio-is-now-available/)
 - [GPU Compute, WSL Install and WSL Update arrive in the latest Insider build for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/gpu-compute-wsl-install-and-wsl-update-arrive-in-the-windows-insiders-fast-ring-for-the-windows-subsystem-for-linux/)
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
+- [Introducing dotnet-monitor, an experimental tool](https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
