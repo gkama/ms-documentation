@@ -47,6 +47,7 @@ Microsoft related technologies documentation
 - [DocFX](https://dotnet.github.io/docfx/)
 - [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
 - [gRPC-Web for .NET now available](https://devblogs.microsoft.com/aspnet/grpc-web-for-net-now-available/)
+- [Introducing dotnet-monitor, an experimental tool](https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
@@ -267,7 +268,7 @@ Microsoft related technologies documentation
 - [The June 2020 release of Azure Data Studio is now available](https://cloudblogs.microsoft.com/sqlserver/2020/06/18/the-june-2020-release-of-azure-data-studio-is-now-available/)
 - [GPU Compute, WSL Install and WSL Update arrive in the latest Insider build for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/gpu-compute-wsl-install-and-wsl-update-arrive-in-the-windows-insiders-fast-ring-for-the-windows-subsystem-for-linux/)
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
-- [Introducing dotnet-monitor, an experimental tool](https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/)
+- [Meetup replay: The rise of DevSecOps in gov software initiatives](https://devblogs.microsoft.com/azuregov/meetup-replay-the-rise-of-devsecops-in-gov-software-initiatives/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
