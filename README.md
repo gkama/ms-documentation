@@ -269,6 +269,7 @@ Microsoft related technologies documentation
 - [GPU Compute, WSL Install and WSL Update arrive in the latest Insider build for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/gpu-compute-wsl-install-and-wsl-update-arrive-in-the-windows-insiders-fast-ring-for-the-windows-subsystem-for-linux/)
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
 - [Meetup replay: The rise of DevSecOps in gov software initiatives](https://devblogs.microsoft.com/azuregov/meetup-replay-the-rise-of-devsecops-in-gov-software-initiatives/)
+- [Design updates to repositories and GitHub UI](https://github.blog/changelog/2020-06-23-design-updates-to-repositories-and-github-ui/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
