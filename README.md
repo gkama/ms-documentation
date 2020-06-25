@@ -49,6 +49,7 @@ Microsoft related technologies documentation
 - [gRPC-Web for .NET now available](https://devblogs.microsoft.com/aspnet/grpc-web-for-net-now-available/)
 - [Introducing dotnet-monitor, an experimental tool](https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/)
 - [ASP.NET Core updates in .NET 5 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-6/)
+- [Announcing .NET 5.0 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-6/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
