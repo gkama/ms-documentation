@@ -274,6 +274,7 @@ Microsoft related technologies documentation
 - [Manage Service Bus Queue messages with Python](https://devblogs.microsoft.com/premier-developer/manage-service-bus-queue-messages-with-python/)
 - [Meetup replay: The rise of DevSecOps in gov software initiatives](https://devblogs.microsoft.com/azuregov/meetup-replay-the-rise-of-devsecops-in-gov-software-initiatives/)
 - [Design updates to repositories and GitHub UI](https://github.blog/changelog/2020-06-23-design-updates-to-repositories-and-github-ui/)
+- [Xamarin Podcast: //Build 2020 Recap](https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
