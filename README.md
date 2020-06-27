@@ -277,6 +277,7 @@ Microsoft related technologies documentation
 - [Design updates to repositories and GitHub UI](https://github.blog/changelog/2020-06-23-design-updates-to-repositories-and-github-ui/)
 - [Xamarin Podcast: //Build 2020 Recap](https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/)
 - [F# 5 and F# tools update for June](https://devblogs.microsoft.com/dotnet/f-5-and-f-tools-update-for-june/)
+- [Orchard Core Release Candidate 2 now available](https://devblogs.microsoft.com/aspnet/orchard-core-release-candidate-2-now-available/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
