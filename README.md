@@ -278,6 +278,7 @@ Microsoft related technologies documentation
 - [Xamarin Podcast: //Build 2020 Recap](https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/)
 - [F# 5 and F# tools update for June](https://devblogs.microsoft.com/dotnet/f-5-and-f-tools-update-for-june/)
 - [Orchard Core Release Candidate 2 now available](https://devblogs.microsoft.com/aspnet/orchard-core-release-candidate-2-now-available/)
+- [Microsoft Releases gRPC-Web for .NET](https://www.infoq.com/news/2020/06/microsoft-releases-grpc-web-net/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
