@@ -99,6 +99,7 @@ Microsoft related technologies documentation
 - [Data Seeding](https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding)
 - [Announcing Entity Framework Core 5.0 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-4/)
 - [EF Core testing sample](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/testing-sample)
+- [EF Core Azure Cosmos DB Provider](https://docs.microsoft.com/en-us/ef/core/providers/cosmos/)
 
 # .NET Blog
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
