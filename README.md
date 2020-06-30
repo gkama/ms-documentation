@@ -283,6 +283,7 @@ Microsoft related technologies documentation
 - [Orchard Core Release Candidate 2 now available](https://devblogs.microsoft.com/aspnet/orchard-core-release-candidate-2-now-available/)
 - [Microsoft Releases gRPC-Web for .NET](https://www.infoq.com/news/2020/06/microsoft-releases-grpc-web-net/)
 - [Querying and visualizing data using SQLPad](https://devblogs.microsoft.com/azure-sql/querying-and-visualizing-data-using-sqlpad/)
+- [20 Best Visual Studio Code extensions for Cloud Native Development in 2020](https://towardsdatascience.com/20-best-visual-studio-code-extensions-for-cloud-native-development-in-2020-e0358e50ba87?gi=50f7d64d1870)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
