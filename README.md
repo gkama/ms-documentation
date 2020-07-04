@@ -169,6 +169,7 @@ Microsoft related technologies documentation
 - [Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course](https://www.freecodecamp.org/news/azure-fundamentals-course-az900/)
 - [Azure SDK Release (June 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2020/)
 - [How to Debug and Step Into Service Fabric SDK Source Code](https://devblogs.microsoft.com/premier-developer/how-to-debug-and-step-into-service-fabric-sdk-source-code/)
+- [Preview of Azure Arc enabled SQL Server is now available](https://devblogs.microsoft.com/azure-sql/preview-of-azure-arc-enabled-sql-server-is-now-available/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
