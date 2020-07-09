@@ -172,6 +172,7 @@ Microsoft related technologies documentation
 - [How to Debug and Step Into Service Fabric SDK Source Code](https://devblogs.microsoft.com/premier-developer/how-to-debug-and-step-into-service-fabric-sdk-source-code/)
 - [Preview of Azure Arc enabled SQL Server is now available](https://devblogs.microsoft.com/azure-sql/preview-of-azure-arc-enabled-sql-server-is-now-available/)
 - [What are managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
+- [Extract data from print and handwritten documents using Azure Form Recognizer](https://devblogs.microsoft.com/azuregov/extract-data-from-print-and-handwritten-documents-using-azure-form-recognizer/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
