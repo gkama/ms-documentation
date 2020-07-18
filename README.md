@@ -292,6 +292,7 @@ Microsoft related technologies documentation
 - [20 Best Visual Studio Code extensions for Cloud Native Development in 2020](https://towardsdatascience.com/20-best-visual-studio-code-extensions-for-cloud-native-development-in-2020-e0358e50ba87?gi=50f7d64d1870)
 - [Data considerations for microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/data-considerations)
 - [Securing a REST API with JWT](https://youtu.be/YtK13Ra9Fww)
+- [Microsoft Design Inclusivo](https://devblogs.microsoft.com/premier-developer/microsoft-design-inclusivo/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
