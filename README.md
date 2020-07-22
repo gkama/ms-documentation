@@ -53,6 +53,7 @@ Microsoft related technologies documentation
 - [ASP.NET Core updates in .NET 5 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-6/)
 - [Announcing .NET 5.0 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-6/)
 - [.NET 5 Now 2 Steps Away from Feature Complete](https://visualstudiomagazine.com/articles/2020/06/25/net-5-preview-6.aspx?m=1)
+- [.NET Framework July 2020 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2020-cumulative-update-preview/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
