@@ -202,6 +202,7 @@ Microsoft related technologies documentation
 - [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
 - [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
 - [Microsoft's Latest Windows PowerToys Are Awesome](https://www.lifehacker.com.au/2020/04/microsofts-latest-windows-powertoys-are-awesome/)
+- [Windows Terminal Preview 1.2 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-2-release/)
 
 # TypeScript
 - [GitHub source code](https://github.com/microsoft/TypeScript)
