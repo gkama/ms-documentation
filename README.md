@@ -298,6 +298,7 @@ Microsoft related technologies documentation
 - [Microsoft Design Inclusivo](https://devblogs.microsoft.com/premier-developer/microsoft-design-inclusivo/)
 - [Python in Visual Studio Code – July 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2020-release/)
 - [Gather: A New Way To Clean Notebooks](https://devblogs.microsoft.com/python/gather-a-new-way-to-clean-notebooks/)
+- [Mastering Multilingual in Xamarin.Forms](https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
