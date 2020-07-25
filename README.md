@@ -312,6 +312,7 @@ Microsoft related technologies documentation
 - [Officially Released: This Remix Of Ubuntu 20.04 Ditches Gnome For Deepin](https://www.forbes.com/sites/jasonevangelho/2020/05/07/out-now-this-remix-of-ubuntu-2004-ditches-gnome-for-deepin/)
 - [How to Install and Use Linux Screen?](https://www.hostinger.com/tutorials/how-to-install-and-use-linux-screen/)
 - [Ubuntu-based Linux Mint 20 ‘Ulyana’ is here](https://betanews.com/2020/06/27/linux-mint-20/)
+- [Linux Foundation offering Kubernetes certifications courses and exams as demand spikes](https://www.techrepublic.com/article/linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
