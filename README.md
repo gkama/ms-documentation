@@ -37,6 +37,7 @@ Microsoft related technologies documentation
 - [Debugging Async Code: Parallel Stacks for Tasks](https://devblogs.microsoft.com/visualstudio/debugging-async-code-parallel-stacks-for-tasks/)
 - [Microsoft.Data.SqlClient 2.0.0 is now available](https://devblogs.microsoft.com/azure-sql/microsoft-data-sqlclient-2-0-0-is-now-available/)
 - [Understanding warning C4265: class has virtual functions, but destructor is not virtual, part 2](https://devblogs.microsoft.com/oldnewthing/20200619-00/?p=103877)
+- [Implement the Circuit Breaker pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/implement-circuit-breaker-pattern)
 
 # .NET
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
