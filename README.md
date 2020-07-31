@@ -119,6 +119,7 @@ Microsoft related technologies documentation
 - [Balancing work on GC threads](https://devblogs.microsoft.com/dotnet/balancing-work-on-gc-threads/)
 - [Work flow of diagnosing memory performance issues – Part 0](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-0/)
 - [Join us: Azure Cosmos DB at Microsoft Build 2020](https://devblogs.microsoft.com/cosmosdb/microsoft-build-2020-sessions/)
+- [Public Preview of Notebook Mode in the PowerShell Preview extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/public-preview-of-notebook-mode-in-the-powershell-preview-extension-for-visual-studio-code/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
