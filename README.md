@@ -56,6 +56,7 @@ Microsoft related technologies documentation
 - [.NET 5 Now 2 Steps Away from Feature Complete](https://visualstudiomagazine.com/articles/2020/06/25/net-5-preview-6.aspx?m=1)
 - [.NET Framework July 2020 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2020-cumulative-update-preview/)
 - [Quickstart: Add feature flags to an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core2x)
+- [Learn about the latest .NET Productivity features](https://devblogs.microsoft.com/dotnet/learn-about-the-latest-net-productivity-features/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
