@@ -58,6 +58,7 @@ Microsoft related technologies documentation
 - [Quickstart: Add feature flags to an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core2x)
 - [Learn about the latest .NET Productivity features](https://devblogs.microsoft.com/dotnet/learn-about-the-latest-net-productivity-features/)
 - [.NET Virtual Events in August](https://devblogs.microsoft.com/xamarin/august-dotnet-virtual-events/)
+- [.NET Framework July 2020 Cumulative Update Preview for Windows 10, version 2004](https://devblogs.microsoft.com/dotnet/net-framework-july-2020-cumulative-update-preview-for-windows-10-version-2004/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
