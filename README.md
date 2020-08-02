@@ -309,6 +309,7 @@ Microsoft related technologies documentation
 - [Gather: A New Way To Clean Notebooks](https://devblogs.microsoft.com/python/gather-a-new-way-to-clean-notebooks/)
 - [Mastering Multilingual in Xamarin.Forms](https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/)
 - [Token authentication requirements for API and Git operations](https://github.blog/2020-07-30-token-authentication-requirements-for-api-and-git-operations/)
+- [PIX 2007.29 – Dark Theme, bug fixes](https://devblogs.microsoft.com/pix/pix-2007-29/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
