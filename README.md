@@ -312,6 +312,7 @@ Microsoft related technologies documentation
 - [Mastering Multilingual in Xamarin.Forms](https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/)
 - [Token authentication requirements for API and Git operations](https://github.blog/2020-07-30-token-authentication-requirements-for-api-and-git-operations/)
 - [PIX 2007.29 – Dark Theme, bug fixes](https://devblogs.microsoft.com/pix/pix-2007-29/)
+- [Python in Visual Studio Code – August 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2020-release/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
