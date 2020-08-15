@@ -186,8 +186,8 @@ Microsoft related technologies documentation
 - [What are managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 - [Extract data from print and handwritten documents using Azure Form Recognizer](https://devblogs.microsoft.com/azuregov/extract-data-from-print-and-handwritten-documents-using-azure-form-recognizer/)
 - [What is Azure Database for PostgreSQL?](https://docs.microsoft.com/en-us/azure/postgresql/overview)
-- [Azure SQL for Beginners – Video Playlist
-](https://devblogs.microsoft.com/azure-sql/azure-sql-for-beginners-video-playlist/)
+- [Azure SQL for Beginners – Video Playlist](https://devblogs.microsoft.com/azure-sql/azure-sql-for-beginners-video-playlist/)
+- [Developing in the cloud with SQL Server Big Data Clusters: Develop and Deploy Apps](https://devblogs.microsoft.com/azure-sql/developing-in-the-cloud-with-sql-server-big-data-clusters-develop-and-deploy-apps/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
