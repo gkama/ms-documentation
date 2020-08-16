@@ -314,6 +314,7 @@ Microsoft related technologies documentation
 - [Token authentication requirements for API and Git operations](https://github.blog/2020-07-30-token-authentication-requirements-for-api-and-git-operations/)
 - [PIX 2007.29 – Dark Theme, bug fixes](https://devblogs.microsoft.com/pix/pix-2007-29/)
 - [Python in Visual Studio Code – August 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2020-release/)
+- [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200814-00/?p=104084)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
