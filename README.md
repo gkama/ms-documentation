@@ -316,6 +316,7 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – August 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2020-release/)
 - [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200814-00/?p=104084)
 - [Profiling Xamarin.Android Startup](https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/)
+- [How WRL squeezes a weak reference and a reference count into a single integer](https://devblogs.microsoft.com/oldnewthing/20200817-00/?p=104089)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
