@@ -318,6 +318,7 @@ Microsoft related technologies documentation
 - [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200814-00/?p=104084)
 - [Profiling Xamarin.Android Startup](https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/)
 - [How WRL squeezes a weak reference and a reference count into a single integer](https://devblogs.microsoft.com/oldnewthing/20200817-00/?p=104089)
+- [Evaluating “ReadLine using System.IO.Pipelines” Performance in C#](https://medium.com/@joni2nja/evaluating-readline-using-system-io-pipelines-performance-in-c-69e9ed658920)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
