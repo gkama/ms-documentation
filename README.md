@@ -146,6 +146,7 @@ Microsoft related technologies documentation
 - [5 Super Useful Azure DevOps Extensions](https://devblogs.microsoft.com/premier-developer/5-super-useful-azure-devops-extensions/)
 - [Azure DevOps Roadmap update for 2020 Q3](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q3/)
 - [Top Stories from the Microsoft DevOps Community – 2020.07.24](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-07-24/)
+- [Top Stories from the Microsoft DevOps Community – 2020.08.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-08-21/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
