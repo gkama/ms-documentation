@@ -323,6 +323,7 @@ Microsoft related technologies documentation
 - [How WRL squeezes a weak reference and a reference count into a single integer](https://devblogs.microsoft.com/oldnewthing/20200817-00/?p=104089)
 - [Evaluating “ReadLine using System.IO.Pipelines” Performance in C#](https://medium.com/@joni2nja/evaluating-readline-using-system-io-pipelines-performance-in-c-69e9ed658920)
 - [IoT exploration with VS Code, Python, and the Device Simulator Express](https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/)
+- [Let’s Hack a Pipeline: Shared Infrastructure](https://devblogs.microsoft.com/devops/pipeline-shared-infrastructure/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
