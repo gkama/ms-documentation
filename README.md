@@ -325,6 +325,7 @@ Microsoft related technologies documentation
 - [IoT exploration with VS Code, Python, and the Device Simulator Express](https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/)
 - [Let’s Hack a Pipeline: Shared Infrastructure](https://devblogs.microsoft.com/devops/pipeline-shared-infrastructure/)
 - [F# 5 update for August](https://devblogs.microsoft.com/dotnet/f-5-update-for-august/)
+- [PIX 2008.26: Performance Improvements](https://devblogs.microsoft.com/pix/pix-2008-26-perf/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
