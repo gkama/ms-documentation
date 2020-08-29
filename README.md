@@ -147,6 +147,7 @@ Microsoft related technologies documentation
 - [Azure DevOps Roadmap update for 2020 Q3](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q3/)
 - [Top Stories from the Microsoft DevOps Community – 2020.07.24](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-07-24/)
 - [Top Stories from the Microsoft DevOps Community – 2020.08.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-08-21/)
+- [Top Stories from the Microsoft DevOps Community – 2020.08.28](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-08-28/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
