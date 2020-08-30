@@ -328,6 +328,7 @@ Microsoft related technologies documentation
 - [F# 5 update for August](https://devblogs.microsoft.com/dotnet/f-5-update-for-august/)
 - [PIX 2008.26: Performance Improvements](https://devblogs.microsoft.com/pix/pix-2008-26-perf/)
 - [New in DirectX— Feature Level 12_2](https://devblogs.microsoft.com/directx/new-in-directx-feature-level-12_2/)
+- [Introduction to Supervised Machine Learning](https://devblogs.microsoft.com/premier-developer/introduction-to-supervised-machine-learning/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
