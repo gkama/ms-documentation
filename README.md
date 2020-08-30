@@ -329,6 +329,7 @@ Microsoft related technologies documentation
 - [PIX 2008.26: Performance Improvements](https://devblogs.microsoft.com/pix/pix-2008-26-perf/)
 - [New in DirectX— Feature Level 12_2](https://devblogs.microsoft.com/directx/new-in-directx-feature-level-12_2/)
 - [Introduction to Supervised Machine Learning](https://devblogs.microsoft.com/premier-developer/introduction-to-supervised-machine-learning/)
+- [New documentation page: Finding and Analyzing Context Switches](https://devblogs.microsoft.com/pix/new-documentation-page-finding-and-analyzing-context-switches/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
