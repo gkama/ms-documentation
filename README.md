@@ -193,6 +193,7 @@ Microsoft related technologies documentation
 - [Developing in the cloud with SQL Server Big Data Clusters: Develop and Deploy Apps](https://devblogs.microsoft.com/azure-sql/developing-in-the-cloud-with-sql-server-big-data-clusters-develop-and-deploy-apps/)
 - [Assigning groups to Azure AD roles is now in public preview!](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/assigning-groups-to-azure-ad-roles-is-now-in-public-preview/ba-p/1257372)
 - [Developing in the cloud with SQL Server Big Data Clusters: Run and Monitor Apps](https://devblogs.microsoft.com/azure-sql/developing-in-the-cloud-with-sql-server-big-data-clusters-run-and-monitor-apps/)
+- [Microsoft publishes secure isolation guidance for Azure and Azure Government](https://devblogs.microsoft.com/azuregov/microsoft-publishes-secure-isolation-guidance-for-azure-and-azure-government/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
