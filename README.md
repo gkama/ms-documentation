@@ -196,6 +196,7 @@ Microsoft related technologies documentation
 - [Developing in the cloud with SQL Server Big Data Clusters: Run and Monitor Apps](https://devblogs.microsoft.com/azure-sql/developing-in-the-cloud-with-sql-server-big-data-clusters-run-and-monitor-apps/)
 - [Microsoft publishes secure isolation guidance for Azure and Azure Government](https://devblogs.microsoft.com/azuregov/microsoft-publishes-secure-isolation-guidance-for-azure-and-azure-government/)
 - [Azure SQL & .bacpac the easy way](https://devblogs.microsoft.com/azure-sql/azure-sql-bacpac-the-easy-way/)
+- [Visually represent your Azure architecture using the latest shapes in Visio for the web](https://techcommunity.microsoft.com/t5/visio-blog/visually-represent-your-azure-architecture-using-the-latest/ba-p/1634509)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
