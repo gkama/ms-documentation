@@ -218,6 +218,7 @@ Microsoft related technologies documentation
 - [Native Commands in PowerShell – A New Approach – Part 2](https://devblogs.microsoft.com/powershell/native-commands-in-powershell-a-new-approach-part-2/)
 - [PowerShell 7.1 Preview 6](https://devblogs.microsoft.com/powershell/powershell-7-1-preview-6/)
 - [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200821-00/?p=104112)
+- [Xamarin.Forms Shell Quick Tip – Modal Navigation](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
