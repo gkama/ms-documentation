@@ -17,6 +17,7 @@ Microsoft related technologies documentation
 - [Linux development with Visual Studio: first-class support for gdbserver, improved build times with Ninja, and updates to the Connection Manager](https://devblogs.microsoft.com/cppblog/linux-development-with-visual-studio-first-class-support-for-gdbserver-improved-build-times-with-ninja-and-updates-to-the-connection-manager/)
 - [Java on Visual Studio Code Update – June 2020](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-june-2020/)
 - [Enhance your Azure Machine Learning experience with the VS Code extension](https://devblogs.microsoft.com/python/enhance-your-azure-machine-learning-experience-with-the-vs-code-extension/)
+- [Visual Studio Codespaces is consolidating into GitHub Codespaces](https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
