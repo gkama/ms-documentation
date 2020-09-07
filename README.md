@@ -152,6 +152,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.08.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-08-21/)
 - [Top Stories from the Microsoft DevOps Community – 2020.08.28](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-08-28/)
 - [New IP address ranges with Service Tags for Azure DevOps Services](https://devblogs.microsoft.com/devops/new-ip-address-ranges-with-service-tags-for-azure-devops-services/)
+- [Top Stories from the Microsoft DevOps Community – 2020.09.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-09-04/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
