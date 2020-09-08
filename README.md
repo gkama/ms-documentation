@@ -341,6 +341,7 @@ Microsoft related technologies documentation
 - [Introduction to Supervised Machine Learning](https://devblogs.microsoft.com/premier-developer/introduction-to-supervised-machine-learning/)
 - [New documentation page: Finding and Analyzing Context Switches](https://devblogs.microsoft.com/pix/new-documentation-page-finding-and-analyzing-context-switches/)
 - [New safety rules in C++ Core Check](https://devblogs.microsoft.com/cppblog/new-safety-rules-in-c-core-check/)
+- [Dynamic properties container property in OData Client](https://devblogs.microsoft.com/odata/dynamic-properties-container-property-in-odata-client/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
