@@ -342,6 +342,7 @@ Microsoft related technologies documentation
 - [New documentation page: Finding and Analyzing Context Switches](https://devblogs.microsoft.com/pix/new-documentation-page-finding-and-analyzing-context-switches/)
 - [New safety rules in C++ Core Check](https://devblogs.microsoft.com/cppblog/new-safety-rules-in-c-core-check/)
 - [Dynamic properties container property in OData Client](https://devblogs.microsoft.com/odata/dynamic-properties-container-property-in-odata-client/)
+- [New React Native dual-screen navigation module](https://devblogs.microsoft.com/surface-duo/new-react-native-dual-screen-navigation-module/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
