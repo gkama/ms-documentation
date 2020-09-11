@@ -344,6 +344,7 @@ Microsoft related technologies documentation
 - [New safety rules in C++ Core Check](https://devblogs.microsoft.com/cppblog/new-safety-rules-in-c-core-check/)
 - [Dynamic properties container property in OData Client](https://devblogs.microsoft.com/odata/dynamic-properties-container-property-in-odata-client/)
 - [New React Native dual-screen navigation module](https://devblogs.microsoft.com/surface-duo/new-react-native-dual-screen-navigation-module/)
+- [Microsoft C++ Team at CppCon 2020](https://devblogs.microsoft.com/cppblog/microsoft-cpp-team-at-cppcon-2020/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
