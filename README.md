@@ -368,6 +368,7 @@ Microsoft related technologies documentation
 - [Tutorial: Create an Azure VM cluster with Terraform and HCL](https://docs.microsoft.com/en-us/azure/terraform/terraform-create-vm-cluster-with-infrastructure)
 - [Announcing the Azure DevOps Provider for Terraform](https://cloudblogs.microsoft.com/opensource/2020/06/18/announcing-hashicorp-terraform-azure-devops-provider-release/)
 - [Code structure](https://www.terraform-best-practices.com/code-structure)
+- [Announcing Databricks Labs Terraform integration on AWS and Azure](https://databricks.com/blog/2020/09/11/announcing-databricks-labs-terraform-integration-on-aws-and-azure.html)
 
 ## GitHub repositories
 - [Swashbuckle.AspNetCore.Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcoreswagger)
