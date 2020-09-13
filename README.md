@@ -202,6 +202,7 @@ Microsoft related technologies documentation
 - [Microsoft publishes secure isolation guidance for Azure and Azure Government](https://devblogs.microsoft.com/azuregov/microsoft-publishes-secure-isolation-guidance-for-azure-and-azure-government/)
 - [Azure SQL & .bacpac the easy way](https://devblogs.microsoft.com/azure-sql/azure-sql-bacpac-the-easy-way/)
 - [Visually represent your Azure architecture using the latest shapes in Visio for the web](https://techcommunity.microsoft.com/t5/visio-blog/visually-represent-your-azure-architecture-using-the-latest/ba-p/1634509)
+- [Upgrade your server version from 3.2 to 3.6 for Azure Cosmos DB API for MongoDB](https://devblogs.microsoft.com/cosmosdb/upgrade-your-server-version-from-3-2-to-3-6-for-azure-cosmos-db-api-for-mongodb/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
