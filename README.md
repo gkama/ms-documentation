@@ -406,6 +406,7 @@ Microsoft related technologies documentation
 - [The Reason Why I Love Docker](https://itnext.io/the-reason-i-love-docker-1410820a7c36?gi=f172495b7582)
 - [Itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/)
 - [Getting Started with Docker: Facts You Should Know](https://itnext.io/getting-started-with-docker-facts-you-should-know-d000e5815598)
+- [Dockerize Your Development Environment in VS Code](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
