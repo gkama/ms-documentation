@@ -230,6 +230,7 @@ Microsoft related technologies documentation
 - [PowerShell 7.1 Preview 6](https://devblogs.microsoft.com/powershell/powershell-7-1-preview-6/)
 - [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200821-00/?p=104112)
 - [Xamarin.Forms Shell Quick Tip – Modal Navigation](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/)
+- [Nutanix](https://myignite.microsoft.com/sponsor/402ddc73-9b41-468a-9f8b-7b6b314150fb)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
