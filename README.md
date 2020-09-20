@@ -353,6 +353,7 @@ Microsoft related technologies documentation
 - [New React Native dual-screen navigation module](https://devblogs.microsoft.com/surface-duo/new-react-native-dual-screen-navigation-module/)
 - [Microsoft C++ Team at CppCon 2020](https://devblogs.microsoft.com/cppblog/microsoft-cpp-team-at-cppcon-2020/)
 - [The macros for declaring COM interfaces, revisited: C++ implementation](https://devblogs.microsoft.com/oldnewthing/20200911-00/?p=104205)
+- [JSON and APIs with Python](https://towardsdatascience.com/json-and-apis-with-python-fba329ef6ef0)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
