@@ -231,6 +231,7 @@ Microsoft related technologies documentation
 - [The case of Explorer calling into an unloaded DLL while trying to run down a reference to it](https://devblogs.microsoft.com/oldnewthing/20200821-00/?p=104112)
 - [Xamarin.Forms Shell Quick Tip – Modal Navigation](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/)
 - [Nutanix](https://myignite.microsoft.com/sponsor/402ddc73-9b41-468a-9f8b-7b6b314150fb)
+- [Ignite 2020: New serverless and analytics capabilities announced](https://devblogs.microsoft.com/cosmosdb/ignite-2020-new-serverless-and-analytics-capabilities-announced/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
