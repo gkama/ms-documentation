@@ -67,6 +67,7 @@ Microsoft related technologies documentation
 - [.NET Framework July 2020 Cumulative Update Preview for Windows 10, version 2004](https://devblogs.microsoft.com/dotnet/net-framework-july-2020-cumulative-update-preview-for-windows-10-version-2004/)
 - [Improvements in native code interop in .NET 5.0](https://devblogs.microsoft.com/dotnet/improvements-in-native-code-interop-in-net-5-0/)
 - [.NET Framework September 2020 Cumulative Update Preview Update](https://devblogs.microsoft.com/dotnet/net-framework-september-2020-cumulative-update-preview-update/)
+- [ML.NET September Updates](https://devblogs.microsoft.com/dotnet/ml-net-september-updates/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
