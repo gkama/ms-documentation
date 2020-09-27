@@ -96,6 +96,7 @@ Microsoft related technologies documentation
 - [ASP.NET Core Series: High performance requests with gRPC](https://www.youtube.com/watch?v=T4RD3W2MgHQ)
 - [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
 - [Tutorial: Use feature flags in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core)
+- [NET Core Releases and Support](https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
