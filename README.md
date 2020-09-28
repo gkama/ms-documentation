@@ -364,6 +364,7 @@ Microsoft related technologies documentation
 - [JSON and APIs with Python](https://towardsdatascience.com/json-and-apis-with-python-fba329ef6ef0)
 - [Diary of an Engineer: Delivering 45x faster percentiles using Postgres, Citus, & t-digest](https://www.citusdata.com/blog/2020/09/19/delivering-45x-faster-percentiles/)
 - [How to measure the power consumption of your backend service](https://devblogs.microsoft.com/sustainable-software/how-to-measure-the-power-consumption-of-your-backend-service/)
+- [View dependent packages on NuGet.org](https://devblogs.microsoft.com/nuget/view-dependent-packages-on-nuget-org/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
