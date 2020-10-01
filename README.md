@@ -366,6 +366,7 @@ Microsoft related technologies documentation
 - [How to measure the power consumption of your backend service](https://devblogs.microsoft.com/sustainable-software/how-to-measure-the-power-consumption-of-your-backend-service/)
 - [View dependent packages on NuGet.org](https://devblogs.microsoft.com/nuget/view-dependent-packages-on-nuget-org/)
 - [git commit-tree parlor tricks, Part 9: How can I bulk-revert an entire repo to an earlier commit?](https://devblogs.microsoft.com/oldnewthing/20200928-00/?p=104302)
+- [hashids](https://github.com/ullmark/hashids.net)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
