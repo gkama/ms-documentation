@@ -368,6 +368,7 @@ Microsoft related technologies documentation
 - [View dependent packages on NuGet.org](https://devblogs.microsoft.com/nuget/view-dependent-packages-on-nuget-org/)
 - [git commit-tree parlor tricks, Part 9: How can I bulk-revert an entire repo to an earlier commit?](https://devblogs.microsoft.com/oldnewthing/20200928-00/?p=104302)
 - [hashids](https://github.com/ullmark/hashids.net)
+- [Adding Microsoft Surface Duo support to the Flokk application](https://devblogs.microsoft.com/surface-duo/adding-microsoft-surface-duo-support-to-the-flokk-application/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
