@@ -374,6 +374,7 @@ Microsoft related technologies documentation
 - [Adding Microsoft Surface Duo support to the Flokk application](https://devblogs.microsoft.com/surface-duo/adding-microsoft-surface-duo-support-to-the-flokk-application/)
 - [Join Hacktoberfest at the Xamarin Community Toolkit](https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/)
 - [Carbon-Aware Kubernetes](https://devblogs.microsoft.com/sustainable-software/carbon-aware-kubernetes/)
+- [Promises, Node, Tedious, Azure SQL. Oh My!](https://devblogs.microsoft.com/azure-sql/promises-node-tedious-azure-sql-oh-my/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
