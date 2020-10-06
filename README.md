@@ -375,6 +375,7 @@ Microsoft related technologies documentation
 - [Join Hacktoberfest at the Xamarin Community Toolkit](https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/)
 - [Carbon-Aware Kubernetes](https://devblogs.microsoft.com/sustainable-software/carbon-aware-kubernetes/)
 - [Promises, Node, Tedious, Azure SQL. Oh My!](https://devblogs.microsoft.com/azure-sql/promises-node-tedious-azure-sql-oh-my/)
+- [How can I bulk-revert a subdirectory of a repo to an earlier commit?](https://devblogs.microsoft.com/oldnewthing/20201005-00/?p=104334)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
