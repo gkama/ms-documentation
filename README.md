@@ -169,6 +169,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.09.25](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-09-25/)
 - [Azure DevOps Services: Essentials – Git with Visual Studio and VS Code](https://devblogs.microsoft.com/premier-developer/azure-devops-services-essentials-git-with-visual-studio/)
 - [Top Stories from the Microsoft DevOps Community – 2020.10.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-02/)
+- [Azure DevOps Server 2020 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-rtw-now-available/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
