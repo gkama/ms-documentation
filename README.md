@@ -70,6 +70,7 @@ Microsoft related technologies documentation
 - [.NET Framework September 2020 Cumulative Update Preview Update](https://devblogs.microsoft.com/dotnet/net-framework-september-2020-cumulative-update-preview-update/)
 - [ML.NET September Updates](https://devblogs.microsoft.com/dotnet/ml-net-september-updates/)
 - [Azure Cosmos DB Repository .NET SDK v.1.0.4](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-repository-net-sdk-v-1-0-4/)
+- [MVVM Toolkit Preview 3 & The Journey of an API](https://devblogs.microsoft.com/pax-windows/mvvm-toolkit-preview-3-the-journey-of-an-api/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
