@@ -69,6 +69,7 @@ Microsoft related technologies documentation
 - [Improvements in native code interop in .NET 5.0](https://devblogs.microsoft.com/dotnet/improvements-in-native-code-interop-in-net-5-0/)
 - [.NET Framework September 2020 Cumulative Update Preview Update](https://devblogs.microsoft.com/dotnet/net-framework-september-2020-cumulative-update-preview-update/)
 - [ML.NET September Updates](https://devblogs.microsoft.com/dotnet/ml-net-september-updates/)
+- [Azure Cosmos DB Repository .NET SDK v.1.0.4](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-repository-net-sdk-v-1-0-4/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
