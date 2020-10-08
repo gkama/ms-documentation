@@ -379,6 +379,7 @@ Microsoft related technologies documentation
 - [Carbon-Aware Kubernetes](https://devblogs.microsoft.com/sustainable-software/carbon-aware-kubernetes/)
 - [Promises, Node, Tedious, Azure SQL. Oh My!](https://devblogs.microsoft.com/azure-sql/promises-node-tedious-azure-sql-oh-my/)
 - [How can I bulk-revert a subdirectory of a repo to an earlier commit?](https://devblogs.microsoft.com/oldnewthing/20201005-00/?p=104334)
+- [Xamarin.Essentials 1.6 preview: macOS, media, and more!](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
