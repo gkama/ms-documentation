@@ -22,6 +22,7 @@ Microsoft related technologies documentation
 - [Debug Linux core dumps in Visual Studio](https://devblogs.microsoft.com/cppblog/debug-linux-core-dumps-in-visual-studio/)
 - [A Multitude of Updates in Visual Studio 2019 version 16.8 Preview 3](https://devblogs.microsoft.com/cppblog/a-multitude-of-updates-in-visual-studio-2019-version-16-8-preview-3/)
 - [Bringing the browser developer tools to Visual Studio Code](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
+- [Cross Platform Managed Memory Dump Debugging](https://devblogs.microsoft.com/visualstudio/linux-managed-memory-dump-debugging/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
