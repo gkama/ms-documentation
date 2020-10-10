@@ -173,6 +173,7 @@ Microsoft related technologies documentation
 - [Azure DevOps Services: Essentials – Git with Visual Studio and VS Code](https://devblogs.microsoft.com/premier-developer/azure-devops-services-essentials-git-with-visual-studio/)
 - [Top Stories from the Microsoft DevOps Community – 2020.10.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-02/)
 - [Azure DevOps Server 2020 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-rtw-now-available/)
+- [Continuous Access Evaluation in Azure AD is now in public preview!](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/continuous-access-evaluation-in-azure-ad-is-now-in-public/ba-p/1751704)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
