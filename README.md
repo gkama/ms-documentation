@@ -385,6 +385,7 @@ Microsoft related technologies documentation
 - [How can I bulk-revert a subdirectory of a repo to an earlier commit?](https://devblogs.microsoft.com/oldnewthing/20201005-00/?p=104334)
 - [Xamarin.Essentials 1.6 preview: macOS, media, and more!](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/)
 - [Resources to become a Well-Rounded Full-Stack Developer](https://devblogs.microsoft.com/azure-sql/resources-to-become-a-full-stack-well-rounded-developer/)
+- [Bringing the power of the Monaco Editor to nteract](https://devblogs.microsoft.com/python/bringing-the-power-of-the-monaco-editor-to-nteract/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
