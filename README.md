@@ -387,6 +387,7 @@ Microsoft related technologies documentation
 - [Xamarin.Essentials 1.6 preview: macOS, media, and more!](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/)
 - [Resources to become a Well-Rounded Full-Stack Developer](https://devblogs.microsoft.com/azure-sql/resources-to-become-a-full-stack-well-rounded-developer/)
 - [Bringing the power of the Monaco Editor to nteract](https://devblogs.microsoft.com/python/bringing-the-power-of-the-monaco-editor-to-nteract/)
+- [How to Surface a Classic Solution in a Modern Page](https://devblogs.microsoft.com/premier-developer/how-to-surface-a-classic-solution-in-a-modern-page/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
