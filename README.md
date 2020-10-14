@@ -389,6 +389,7 @@ Microsoft related technologies documentation
 - [Bringing the power of the Monaco Editor to nteract](https://devblogs.microsoft.com/python/bringing-the-power-of-the-monaco-editor-to-nteract/)
 - [How to Surface a Classic Solution in a Modern Page](https://devblogs.microsoft.com/premier-developer/how-to-surface-a-classic-solution-in-a-modern-page/)
 - [Reducing the carbon and financial cost of your cloud applications](https://devblogs.microsoft.com/sustainable-software/cloud-carbon-cost/)
+- [Introducing the new Azure SDK for C++ Beta](https://devblogs.microsoft.com/cppblog/introducing-the-new-azure-sdk-for-c-beta/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
