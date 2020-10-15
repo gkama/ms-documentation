@@ -447,6 +447,7 @@ Microsoft related technologies documentation
 - [Itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/)
 - [Getting Started with Docker: Facts You Should Know](https://itnext.io/getting-started-with-docker-facts-you-should-know-d000e5815598)
 - [Dockerize Your Development Environment in VS Code](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
+- [Dockerfile Security Best Practices](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
 
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
