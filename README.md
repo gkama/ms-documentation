@@ -392,6 +392,7 @@ Microsoft related technologies documentation
 - [How to Surface a Classic Solution in a Modern Page](https://devblogs.microsoft.com/premier-developer/how-to-surface-a-classic-solution-in-a-modern-page/)
 - [Reducing the carbon and financial cost of your cloud applications](https://devblogs.microsoft.com/sustainable-software/cloud-carbon-cost/)
 - [Introducing the new Azure SDK for C++ Beta](https://devblogs.microsoft.com/cppblog/introducing-the-new-azure-sdk-for-c-beta/)
+- [Adapting your website to support new possibilities of dual-screen devices](https://devblogs.microsoft.com/surface-duo/dual-screen-web-game-foldship/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
