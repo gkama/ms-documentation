@@ -226,6 +226,7 @@ Microsoft related technologies documentation
 - [Add search to an application with the new Azure Cognitive Search SDK](https://devblogs.microsoft.com/azure-sdk/search-app-with-cognitive-search/)
 - [Running 1M databases on Azure SQL for a large SaaS provider: Microsoft Dynamics 365 and Power Platform.](https://devblogs.microsoft.com/azure-sql/running-1m-databases-on-azure-sql-for-a-large-saas-provider-microsoft-dynamics-365-and-power-platform/)
 - [Azure SDK Release (October 2020)](https://devblogs.microsoft.com/azure-sdk/october-2020-release/)
+- [Using Azure Identity with Azure SQL, Graph, and Entity Framework](https://devblogs.microsoft.com/azure-sdk/azure-identity-with-sql-graph-ef/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
