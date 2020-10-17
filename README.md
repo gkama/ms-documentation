@@ -394,6 +394,7 @@ Microsoft related technologies documentation
 - [Reducing the carbon and financial cost of your cloud applications](https://devblogs.microsoft.com/sustainable-software/cloud-carbon-cost/)
 - [Introducing the new Azure SDK for C++ Beta](https://devblogs.microsoft.com/cppblog/introducing-the-new-azure-sdk-for-c-beta/)
 - [Adapting your website to support new possibilities of dual-screen devices](https://devblogs.microsoft.com/surface-duo/dual-screen-web-game-foldship/)
+- [D3D12 Debug Object Auto-Naming](https://devblogs.microsoft.com/directx/d3d12-debug-object-auto-naming/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
