@@ -231,6 +231,7 @@ Microsoft related technologies documentation
 - [Using Azure Identity with Azure SQL, Graph, and Entity Framework](https://devblogs.microsoft.com/azure-sdk/azure-identity-with-sql-graph-ef/)
 - [Latest documentation releases for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/latest-documentation-releases-for-azure-cosmos-db/)
 - [Microsoft releases Azure Defender for IoT in public preview](https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16030318324100&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmicrosoft-releases-azure-defender-for-iot-in-public-preview%2F)
+- [Testing performance of Azure SQL Database as a key-value store](https://devblogs.microsoft.com/azure-sql/azure-sql-database-as-a-key-value-store/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
