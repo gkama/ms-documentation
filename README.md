@@ -72,6 +72,7 @@ Microsoft related technologies documentation
 - [ML.NET September Updates](https://devblogs.microsoft.com/dotnet/ml-net-september-updates/)
 - [Azure Cosmos DB Repository .NET SDK v.1.0.4](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-repository-net-sdk-v-1-0-4/)
 - [MVVM Toolkit Preview 3 & The Journey of an API](https://devblogs.microsoft.com/pax-windows/mvvm-toolkit-preview-3-the-journey-of-an-api/)
+- [ASP.NET OData 8.0 Preview for .NET 5](https://devblogs.microsoft.com/odata/asp-net-odata-8-0-preview-for-net-5/)
 
 # .NET Core
 - [Download](https://dotnet.microsoft.com/download)
