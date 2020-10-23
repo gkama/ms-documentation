@@ -178,6 +178,7 @@ Microsoft related technologies documentation
 - [Continuous Access Evaluation in Azure AD is now in public preview!](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/continuous-access-evaluation-in-azure-ad-is-now-in-public/ba-p/1751704)
 - [Top Stories from the Microsoft DevOps Community – 2020.10.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-09/)
 - [Top Stories from the Microsoft DevOps Community – 2020.10.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-16/)
+- [Things to consider when running visual tests in CI/CD pipelines: Getting Started (Part 1)](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-getting-started-part-1/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
