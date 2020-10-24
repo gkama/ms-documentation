@@ -404,6 +404,7 @@ Microsoft related technologies documentation
 - [D3D12 Debug Object Auto-Naming](https://devblogs.microsoft.com/directx/d3d12-debug-object-auto-naming/)
 - [The Microsoft author signing certificate will be updated as soon as November 1st, 2020](https://devblogs.microsoft.com/nuget/microsoft-author-signing-certificate-update/)
 - [Typelib and ActiveX now supported in MFC Wizards](https://devblogs.microsoft.com/cppblog/typelib-and-activex-now-supported-in-mfc-wizards/)
+- [How can I tell whether a file is on an SSD?](https://devblogs.microsoft.com/oldnewthing/20201023-00/?p=104395)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
