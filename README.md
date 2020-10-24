@@ -405,6 +405,7 @@ Microsoft related technologies documentation
 - [The Microsoft author signing certificate will be updated as soon as November 1st, 2020](https://devblogs.microsoft.com/nuget/microsoft-author-signing-certificate-update/)
 - [Typelib and ActiveX now supported in MFC Wizards](https://devblogs.microsoft.com/cppblog/typelib-and-activex-now-supported-in-mfc-wizards/)
 - [How can I tell whether a file is on an SSD?](https://devblogs.microsoft.com/oldnewthing/20201023-00/?p=104395)
+- [Microsoft Partners with Salesforce to Deliver Microsoft Teams Integration for Sales and Service](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-partners-with-salesforce-to-deliver-microsoft-teams/ba-p/1806045)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
