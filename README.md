@@ -403,6 +403,7 @@ Microsoft related technologies documentation
 - [Adapting your website to support new possibilities of dual-screen devices](https://devblogs.microsoft.com/surface-duo/dual-screen-web-game-foldship/)
 - [D3D12 Debug Object Auto-Naming](https://devblogs.microsoft.com/directx/d3d12-debug-object-auto-naming/)
 - [The Microsoft author signing certificate will be updated as soon as November 1st, 2020](https://devblogs.microsoft.com/nuget/microsoft-author-signing-certificate-update/)
+- [Typelib and ActiveX now supported in MFC Wizards](https://devblogs.microsoft.com/cppblog/typelib-and-activex-now-supported-in-mfc-wizards/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
