@@ -409,6 +409,7 @@ Microsoft related technologies documentation
 - [Microsoft Partners with Salesforce to Deliver Microsoft Teams Integration for Sales and Service](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-partners-with-salesforce-to-deliver-microsoft-teams/ba-p/1806045)
 - [In-app reviews for your Android apps](https://devblogs.microsoft.com/xamarin/android-in-app-reviews/)
 - [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft/)
+- [The Carbon Footprint Of AI](https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
