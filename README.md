@@ -411,6 +411,7 @@ Microsoft related technologies documentation
 - [In-app reviews for your Android apps](https://devblogs.microsoft.com/xamarin/android-in-app-reviews/)
 - [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft/)
 - [The Carbon Footprint Of AI](https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/)
+- [Q# Advent Calendar 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
