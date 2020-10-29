@@ -413,6 +413,7 @@ Microsoft related technologies documentation
 - [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft/)
 - [The Carbon Footprint Of AI](https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/)
 - [Q# Advent Calendar 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/)
+- [New documentation page: Analyzing Win32 File IO performance using Timing Captures](https://devblogs.microsoft.com/pix/new-documentation-page-analyzing-win32-file-io-performance-using-timing-captures/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
