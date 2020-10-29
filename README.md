@@ -179,6 +179,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.10.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-09/)
 - [Top Stories from the Microsoft DevOps Community – 2020.10.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-16/)
 - [Things to consider when running visual tests in CI/CD pipelines: Getting Started (Part 1)](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-getting-started-part-1/)
+- [Continuous Delivery for Azure SQL DB using Azure DevOps Multi-stage Pipelines](https://devblogs.microsoft.com/azure-sql/continuous-delivery-for-azure-sql-db-using-azure-devops-multi-stage-pipelines/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
