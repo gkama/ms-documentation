@@ -181,6 +181,7 @@ Microsoft related technologies documentation
 - [Things to consider when running visual tests in CI/CD pipelines: Getting Started (Part 1)](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-getting-started-part-1/)
 - [Continuous Delivery for Azure SQL DB using Azure DevOps Multi-stage Pipelines](https://devblogs.microsoft.com/azure-sql/continuous-delivery-for-azure-sql-db-using-azure-devops-multi-stage-pipelines/)
 - [Things to consider when running visual tests in CI/CD pipelines: Azure Devops & GitHub Actions (Part 2)](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-azure-devops-github-actions-part-2/)
+- [Top Stories from the Microsoft DevOps Community – 2020.10.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-30/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
