@@ -242,6 +242,7 @@ Microsoft related technologies documentation
 - [Serverless Streaming At Scale with Azure SQL](https://devblogs.microsoft.com/azure-sql/serverless-streaming-at-scale-with-azure-sql/)
 - [What’s new – Announcing new Azure Sentinel data residency locations: Japan, UK and Canada](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-announcing-new-azure-sentinel-data-residency/ba-p/1807837)
 - [Announcing the new Azure SDK Resource Management Libraries GA](https://devblogs.microsoft.com/azure-sdk/october-2020-management-ga/)
+- [What is Azure Cognitive Search?](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
