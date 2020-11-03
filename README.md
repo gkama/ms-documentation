@@ -74,6 +74,7 @@ Microsoft related technologies documentation
 - [MVVM Toolkit Preview 3 & The Journey of an API](https://devblogs.microsoft.com/pax-windows/mvvm-toolkit-preview-3-the-journey-of-an-api/)
 - [ASP.NET OData 8.0 Preview for .NET 5](https://devblogs.microsoft.com/odata/asp-net-odata-8-0-preview-for-net-5/)
 - [.NET Framework October 2020 Cumulative Update Preview Update](https://devblogs.microsoft.com/dotnet/net-framework-october-2020-cumulative-update-preview-update/)
+- [Routing in ASP.NET Core OData 8.0 Preview](https://devblogs.microsoft.com/odata/routing-in-asp-net-core-8-0-preview/)
 - [.NET 5.0 Launches at .NET Conf, November 10-12](https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/)
 
 # .NET Core
