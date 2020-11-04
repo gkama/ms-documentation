@@ -421,6 +421,7 @@ Microsoft related technologies documentation
 - [New documentation page: Analyzing Win32 File IO performance using Timing Captures](https://devblogs.microsoft.com/pix/new-documentation-page-analyzing-win32-file-io-performance-using-timing-captures/)
 - [Unified Blazor UI in the Mobile Blazor Bindings Preview 5](https://devblogs.microsoft.com/aspnet/unified-ui-mobile-blazor-bindings-preview-5/)
 - [RichEditD2D Window Controls](https://devblogs.microsoft.com/math-in-office/richeditd2d-window-controls/)
+- [SecretManagement and SecretStore Updates](https://devblogs.microsoft.com/powershell/secretmanagement-and-secretstore-updates-2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
