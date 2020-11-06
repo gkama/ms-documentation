@@ -425,6 +425,7 @@ Microsoft related technologies documentation
 - [RichEditD2D Window Controls](https://devblogs.microsoft.com/math-in-office/richeditd2d-window-controls/)
 - [SecretManagement and SecretStore Updates](https://devblogs.microsoft.com/powershell/secretmanagement-and-secretstore-updates-2/)
 - [Updating help for the PSReadLine module](https://devblogs.microsoft.com/powershell/updating-help-for-the-psreadline-module/)
+- [Dual-screen list-detail with navigation](https://devblogs.microsoft.com/surface-duo/dual-screen-list-detail-navigation/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
