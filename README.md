@@ -245,6 +245,7 @@ Microsoft related technologies documentation
 - [What is Azure Cognitive Search?](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search)
 - [Introducing the new Azure Resource Management Libraries for Java](https://devblogs.microsoft.com/azure-sdk/introducing-mgmt-for-java/)
 - [Set up Azure Monitor for your Python application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python)
+- [AutoRest and OpenAPI: The backbone of Azure SDK](https://devblogs.microsoft.com/azure-sdk/code-generation-with-autorest/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
