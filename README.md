@@ -430,6 +430,7 @@ Microsoft related technologies documentation
 - [Dual-screen list-detail with navigation](https://devblogs.microsoft.com/surface-duo/dual-screen-list-detail-navigation/)
 - [How do I save a C++/WinRT array_view as a com_array?](https://devblogs.microsoft.com/oldnewthing/20201106-00/?p=104427)
 - [VLC Energy Optimization With GPU](https://devblogs.microsoft.com/sustainable-software/vlc-energy-optimization-with-gpu/)
+- [How do I save a C++/WinRT array_view as a com_array?](https://devblogs.microsoft.com/oldnewthing/20201106-00/?p=104427)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
