@@ -51,6 +51,7 @@ Microsoft related technologies documentation
 # .NET
 - [Announcing .NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 - [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
+- [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50?view=aspnetcore-5.0&tabs=visual-studio-code)
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
 - [Announcing .NET 5 preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-1/)
 - [.NET Fiddle](https://dotnetfiddle.net/)
@@ -81,6 +82,7 @@ Microsoft related technologies documentation
 - [.NET 5.0 Launches at .NET Conf, November 10-12](https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/)
 
 # .NET Core
+- [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
 - [Download](https://dotnet.microsoft.com/download)
 - [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
 - [Tutorial: Containerize a .NET Core app](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container)
