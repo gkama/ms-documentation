@@ -49,6 +49,8 @@ Microsoft related technologies documentation
 - [Func<T,TResult> Delegate](https://docs.microsoft.com/en-us/dotnet/api/system.func-2?view=netcore-3.1)
 
 # .NET
+- [Announcing .NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
+- [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 - [Async value task pooling in .NET 5](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
 - [Announcing .NET 5 preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-1/)
 - [.NET Fiddle](https://dotnetfiddle.net/)
