@@ -277,6 +277,7 @@ Microsoft related technologies documentation
 - [Nutanix](https://myignite.microsoft.com/sponsor/402ddc73-9b41-468a-9f8b-7b6b314150fb)
 - [Ignite 2020: New serverless and analytics capabilities announced](https://devblogs.microsoft.com/cosmosdb/ignite-2020-new-serverless-and-analytics-capabilities-announced/)
 - [PowerShell+Azure Sentinel notebooks to supercharge your threat hunting and investigations!](https://devblogs.microsoft.com/powershell/powershellazure-sentinel-notebooks-to-supercharge-your-threat-hunting-and-investigations/)
+- [Announcing PowerShell 7.1](https://devblogs.microsoft.com/powershell/announcing-powershell-7-1/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
