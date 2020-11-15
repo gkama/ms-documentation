@@ -195,6 +195,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2020.10.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-10-30/)
 - [Project Bicep Demo at Ignite 2020 by Mark Russinovich](https://devblogs.microsoft.com/devops/project-bicep-demo-at-ignite-2020-by-mark-russinovich/)
 - [Things to consider when running visual tests in CI/CD pipelines: Container Pipeline Edition (Part 3)](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-container-pipeline-edition-part-3/)
+- [Top Stories from the Microsoft DevOps Community – 2020.11.13](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-11-13/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
