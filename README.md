@@ -258,6 +258,7 @@ Microsoft related technologies documentation
 - [Introducing the new Azure Resource Management Libraries for Java](https://devblogs.microsoft.com/azure-sdk/introducing-mgmt-for-java/)
 - [Set up Azure Monitor for your Python application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python)
 - [AutoRest and OpenAPI: The backbone of Azure SDK](https://devblogs.microsoft.com/azure-sdk/code-generation-with-autorest/)
+- [Azure Cosmos DB Cassandra API serverless now in preview!](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-cassandra-api-serverless-now-in-preview/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
