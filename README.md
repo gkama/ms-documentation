@@ -24,6 +24,7 @@ Microsoft related technologies documentation
 - [Bringing the browser developer tools to Visual Studio Code](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
 - [Cross Platform Managed Memory Dump Debugging](https://devblogs.microsoft.com/visualstudio/linux-managed-memory-dump-debugging/)
 - [Python in Visual Studio Code – November 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2020-release/)
+- [The Coalition Sees 27.9X Iteration Build Improvement with Visual Studio 2019](https://devblogs.microsoft.com/cppblog/the-coalition-sees-27-9x-iteration-build-improvement-with-visual-studio-2019/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
