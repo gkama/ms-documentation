@@ -49,6 +49,7 @@ Microsoft related technologies documentation
 - [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
 - [How Do C#’s Nullable Reference Types Work?](https://www.cloudsavvyit.com/6649/how-do-cs-nullable-reference-types-work/)
 - [Func<T,TResult> Delegate](https://docs.microsoft.com/en-us/dotnet/api/system.func-2?view=netcore-3.1)
+- [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
 - [Announcing .NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
