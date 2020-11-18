@@ -453,6 +453,7 @@ Microsoft related technologies documentation
 - [What’s new in the Citus 9.5 extension to Postgres](https://www.citusdata.com/blog/2020/11/14/citus-9-5-whats-new/)
 - [Claims encryption for B2C tokens](https://devblogs.microsoft.com/premier-developer/claims-encryption-for-b2c-tokens/)
 - [Interning at Microsoft Quantum – 2021](https://devblogs.microsoft.com/qsharp/interning-at-microsoft-quantum-2021/)
+- [Fabulous: Going Beyond Hello World](https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
