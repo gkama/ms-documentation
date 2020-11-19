@@ -454,6 +454,7 @@ Microsoft related technologies documentation
 - [Claims encryption for B2C tokens](https://devblogs.microsoft.com/premier-developer/claims-encryption-for-b2c-tokens/)
 - [Interning at Microsoft Quantum – 2021](https://devblogs.microsoft.com/qsharp/interning-at-microsoft-quantum-2021/)
 - [Fabulous: Going Beyond Hello World](https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/)
+- [What’s new in .NET Productivity](https://devblogs.microsoft.com/dotnet/whats-new-in-net-productivity/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
