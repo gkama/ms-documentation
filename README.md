@@ -86,6 +86,7 @@ Microsoft related technologies documentation
 - [.NET Framework October 2020 Cumulative Update Preview Update](https://devblogs.microsoft.com/dotnet/net-framework-october-2020-cumulative-update-preview-update/)
 - [Routing in ASP.NET Core OData 8.0 Preview](https://devblogs.microsoft.com/odata/routing-in-asp-net-core-8-0-preview/)
 - [.NET 5.0 Launches at .NET Conf, November 10-12](https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/)
+- [.NET Framework November 2020 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-november-2020-cumulative-update-preview/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
