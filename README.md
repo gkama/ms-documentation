@@ -459,6 +459,7 @@ Microsoft related technologies documentation
 - [Fabulous: Going Beyond Hello World](https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/)
 - [What’s new in .NET Productivity](https://devblogs.microsoft.com/dotnet/whats-new-in-net-productivity/)
 - [Announcing General Availability for Microsoft Edge WebView2 for .NET and Fixed Distribution Method](https://devblogs.microsoft.com/dotnet/announcing-general-availability-for-microsoft-edge-webview2-for-net-and-fixed-distribution-method/)
+- [GitHub accounts are now integrated into Visual Studio 2019](https://devblogs.microsoft.com/visualstudio/github-accounts-are-now-integrated-into-visual-studio-2019/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
