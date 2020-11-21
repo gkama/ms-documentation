@@ -458,6 +458,7 @@ Microsoft related technologies documentation
 - [Interning at Microsoft Quantum – 2021](https://devblogs.microsoft.com/qsharp/interning-at-microsoft-quantum-2021/)
 - [Fabulous: Going Beyond Hello World](https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/)
 - [What’s new in .NET Productivity](https://devblogs.microsoft.com/dotnet/whats-new-in-net-productivity/)
+- [Announcing General Availability for Microsoft Edge WebView2 for .NET and Fixed Distribution Method](https://devblogs.microsoft.com/dotnet/announcing-general-availability-for-microsoft-edge-webview2-for-net-and-fixed-distribution-method/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
