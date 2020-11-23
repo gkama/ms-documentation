@@ -463,6 +463,7 @@ Microsoft related technologies documentation
 - [Announcing General Availability for Microsoft Edge WebView2 for .NET and Fixed Distribution Method](https://devblogs.microsoft.com/dotnet/announcing-general-availability-for-microsoft-edge-webview2-for-net-and-fixed-distribution-method/)
 - [GitHub accounts are now integrated into Visual Studio 2019](https://devblogs.microsoft.com/visualstudio/github-accounts-are-now-integrated-into-visual-studio-2019/)
 - [Introducing BloodHound 4.0: The Azure Update](https://posts.specterops.io/introducing-bloodhound-4-0-the-azure-update-9b2b26c5e350)
+- [AzureFunBytes Short – Cloud Shell](https://devblogs.microsoft.com/devops/azurefunbytes-short-cloud-shell/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
