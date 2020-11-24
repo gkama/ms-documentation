@@ -466,6 +466,7 @@ Microsoft related technologies documentation
 - [Introducing BloodHound 4.0: The Azure Update](https://posts.specterops.io/introducing-bloodhound-4-0-the-azure-update-9b2b26c5e350)
 - [AzureFunBytes Short – Cloud Shell](https://devblogs.microsoft.com/devops/azurefunbytes-short-cloud-shell/)
 - [You’ve got Help!](https://devblogs.microsoft.com/powershell/youve-got-help/)
+- [Join the meetup: Achieving speed to capability in government – Dec. 2, 2020](https://devblogs.microsoft.com/azuregov/join-the-meetup-achieving-speed-to-capability-in-government-dec-2-2020/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
