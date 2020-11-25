@@ -88,6 +88,7 @@ Microsoft related technologies documentation
 - [.NET 5.0 Launches at .NET Conf, November 10-12](https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/)
 - [.NET Framework November 2020 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-november-2020-cumulative-update-preview/)
 - [Visual Basic WinForms Apps in .NET 5 and Visual Studio 16.8](https://devblogs.microsoft.com/dotnet/visual-basic-winforms-apps-in-net-5-and-visual-studio-16-8/)
+- [Everything from .NET Conf 2020: Sessions, Demos, & More!](https://devblogs.microsoft.com/dotnet/dotnetconf-2020-recap/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
