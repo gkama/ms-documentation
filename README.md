@@ -91,6 +91,7 @@ Microsoft related technologies documentation
 - [Visual Basic WinForms Apps in .NET 5 and Visual Studio 16.8](https://devblogs.microsoft.com/dotnet/visual-basic-winforms-apps-in-net-5-and-visual-studio-16-8/)
 - [Everything from .NET Conf 2020: Sessions, Demos, & More!](https://devblogs.microsoft.com/dotnet/dotnetconf-2020-recap/)
 - [Announcing Azure Mobile Apps v4.2.0 for .NET](https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/)
+- [Announcing Microsoft Q&A for .NET](https://devblogs.microsoft.com/dotnet/announcing-microsoft-q-and-a-for-dotnet/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
