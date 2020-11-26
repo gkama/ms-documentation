@@ -26,6 +26,7 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – November 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2020-release/)
 - [The Coalition Sees 27.9X Iteration Build Improvement with Visual Studio 2019](https://devblogs.microsoft.com/cppblog/the-coalition-sees-27-9x-iteration-build-improvement-with-visual-studio-2019/)
 - [Announcing the Release of the Git Experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/)
+- [[Guest post] Learn C# with Visual Studio, Visual Studio for Mac, and Unity (and win a free book!)](https://devblogs.microsoft.com/visualstudio/guest-post-learn-c-with-visual-studio-visual-studio-for-mac-and-unity-and-win-a-free-book/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
