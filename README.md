@@ -92,6 +92,7 @@ Microsoft related technologies documentation
 - [Everything from .NET Conf 2020: Sessions, Demos, & More!](https://devblogs.microsoft.com/dotnet/dotnetconf-2020-recap/)
 - [Announcing Azure Mobile Apps v4.2.0 for .NET](https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/)
 - [Announcing Microsoft Q&A for .NET](https://devblogs.microsoft.com/dotnet/announcing-microsoft-q-and-a-for-dotnet/)
+- [The updated GetGCMemoryInfo API in .NET 5.0 and how it can help you](https://devblogs.microsoft.com/dotnet/the-updated-getgcmemoryinfo-api-in-net-5-0-and-how-it-can-help-you/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
