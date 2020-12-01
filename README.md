@@ -164,6 +164,7 @@ Microsoft related technologies documentation
 - [Join us: Azure Cosmos DB at Microsoft Build 2020](https://devblogs.microsoft.com/cosmosdb/microsoft-build-2020-sessions/)
 - [Public Preview of Notebook Mode in the PowerShell Preview extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/public-preview-of-notebook-mode-in-the-powershell-preview-extension-for-visual-studio-code/)
 - [Semantic Highlighting in the PowerShell Preview extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/semantic-highlighting-in-the-powershell-preview-extension-for-visual-studio-code/)
+- [ML.NET Model Builder November Updates](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-november-updates/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
