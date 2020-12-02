@@ -212,6 +212,7 @@ Microsoft related technologies documentation
 - [Replacing “View YAML”](https://devblogs.microsoft.com/devops/replacing-view-yaml/)
 - [Top Stories from the Microsoft DevOps Community – 2020.11.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-11-20/)
 - [ARM Templates Or HashiCorp Terraform – What Should I Use?](https://devblogs.microsoft.com/devops/arm-templates-or-hashicorp-terraform-what-should-i-use/)
+- [AzureFunBytes – DevOps on Azure with Donovan Brown](https://devblogs.microsoft.com/devops/azurefunbytes-devops-on-azure-with-donovan-brown/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
