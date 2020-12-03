@@ -482,6 +482,7 @@ Microsoft related technologies documentation
 - [Green Energy Efficient Progressive Web Apps](https://devblogs.microsoft.com/sustainable-software/green-energy-efficient-progressive-web-apps/)
 - [Inside the Quantum Katas, part 1](https://devblogs.microsoft.com/qsharp/inside-the-quantum-katas-part-1/)
 - [December’s Community Standup – .NET MAUI Update](https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/)
+- [Custom V2 OData queries will be deprecated March 9, 2021](https://devblogs.microsoft.com/nuget/custom-v2-odata-queries-will-be-deprecated-march-9-2021/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
