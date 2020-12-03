@@ -480,6 +480,7 @@ Microsoft related technologies documentation
 - [You’ve got Help!](https://devblogs.microsoft.com/powershell/youve-got-help/)
 - [Join the meetup: Achieving speed to capability in government – Dec. 2, 2020](https://devblogs.microsoft.com/azuregov/join-the-meetup-achieving-speed-to-capability-in-government-dec-2-2020/)
 - [Green Energy Efficient Progressive Web Apps](https://devblogs.microsoft.com/sustainable-software/green-energy-efficient-progressive-web-apps/)
+- [Inside the Quantum Katas, part 1](https://devblogs.microsoft.com/qsharp/inside-the-quantum-katas-part-1/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
