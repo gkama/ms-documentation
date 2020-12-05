@@ -487,6 +487,7 @@ Microsoft related technologies documentation
 - [December’s Community Standup – .NET MAUI Update](https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/)
 - [Custom V2 OData queries will be deprecated March 9, 2021](https://devblogs.microsoft.com/nuget/custom-v2-odata-queries-will-be-deprecated-march-9-2021/)
 - [Emulation in Q#](https://devblogs.microsoft.com/qsharp/emulation-in-q/)
+- [Passing OData Query Options in the Request Body](https://devblogs.microsoft.com/odata/passing-odata-query-options-in-the-request-body/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
