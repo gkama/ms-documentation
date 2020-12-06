@@ -283,6 +283,7 @@ Microsoft related technologies documentation
 - [Understanding the difference between null and undefined in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/difference-between-null-and-undefined/)
 - [Seasons of Serverless Challenge 1: Azure Functions and Azure SQL Database serverless](https://devblogs.microsoft.com/azure-sql/seasons-of-serverless-challenge-1-azure-functions-and-azure-sql-database-serverless/)
 - [Autoscaling with Azure SQL Hyperscale](https://devblogs.microsoft.com/azure-sql/autoscaling-with-azure-sql-hyperscale/)
+- [Shape your future with data and analytics](https://azure.microsoft.com/en-us/blog/shape-your-future-with-data-and-analytics/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
