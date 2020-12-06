@@ -284,6 +284,7 @@ Microsoft related technologies documentation
 - [Seasons of Serverless Challenge 1: Azure Functions and Azure SQL Database serverless](https://devblogs.microsoft.com/azure-sql/seasons-of-serverless-challenge-1-azure-functions-and-azure-sql-database-serverless/)
 - [Autoscaling with Azure SQL Hyperscale](https://devblogs.microsoft.com/azure-sql/autoscaling-with-azure-sql-hyperscale/)
 - [Shape your future with data and analytics](https://azure.microsoft.com/en-us/blog/shape-your-future-with-data-and-analytics/)
+- [Hybrid and multicloud strategies for financial services organizations](https://azure.microsoft.com/en-us/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
