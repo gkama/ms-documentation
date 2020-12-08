@@ -167,6 +167,7 @@ Microsoft related technologies documentation
 - [Public Preview of Notebook Mode in the PowerShell Preview extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/public-preview-of-notebook-mode-in-the-powershell-preview-extension-for-visual-studio-code/)
 - [Semantic Highlighting in the PowerShell Preview extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/semantic-highlighting-in-the-powershell-preview-extension-for-visual-studio-code/)
 - [ML.NET Model Builder November Updates](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-november-updates/)
+- [[Guest Post] Bring lights in Unity into the real-world using Philips Hue](https://devblogs.microsoft.com/dotnet/guest-post-bring-lights-in-unity-into-the-real-world-using-philips-hue/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
