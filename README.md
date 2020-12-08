@@ -286,6 +286,7 @@ Microsoft related technologies documentation
 - [Shape your future with data and analytics](https://azure.microsoft.com/en-us/blog/shape-your-future-with-data-and-analytics/)
 - [Hybrid and multicloud strategies for financial services organizations](https://azure.microsoft.com/en-us/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/)
 - [Adopting Azure serverless architectures to help reduce CO2 emissions – Part 1](https://devblogs.microsoft.com/sustainable-software/adopting-azure-serverless-architectures-to-help-reduce-co2-emissions-part-1/)
+- [Azure SDK Release (November 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2020/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
