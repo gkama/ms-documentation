@@ -219,6 +219,7 @@ Microsoft related technologies documentation
 - [Optimum Developer Productivity – GitHub + Visual Studio Code + Azure](https://devblogs.microsoft.com/devops/optimum-developer-productivity-github-visual-studio-code-azure/)
 - [Top Stories from the Microsoft DevOps Community – 2020.12.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-12-04/)
 - [Delivery Plans Public Preview Update](https://devblogs.microsoft.com/devops/delivery-plans-public-preview-update/)
+- [December patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-and-team-foundation-server/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
