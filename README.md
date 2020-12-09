@@ -96,6 +96,7 @@ Microsoft related technologies documentation
 - [The updated GetGCMemoryInfo API in .NET 5.0 and how it can help you](https://devblogs.microsoft.com/dotnet/the-updated-getgcmemoryinfo-api-in-net-5-0-and-how-it-can-help-you/)
 - [.NET Framework November 2020 Cumulative Update Preview for Windows 10 2004 and Windows Server, version 2004](https://devblogs.microsoft.com/dotnet/net-framework-november-2020-cumulative-update-preview-for-windows-10-2004-and-windows-server-version-2004/)
 - [.NET Core 2.1, 3.1, and .NET 5.0 updates are coming to Microsoft Update](https://devblogs.microsoft.com/dotnet/net-core-updates-coming-to-microsoft-update/)
+- [.NET December 2020 Updates – 5.0.1](https://devblogs.microsoft.com/dotnet/net-december-2020/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
