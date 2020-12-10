@@ -500,6 +500,7 @@ Microsoft related technologies documentation
 - [Custom V2 OData queries will be deprecated March 9, 2021](https://devblogs.microsoft.com/nuget/custom-v2-odata-queries-will-be-deprecated-march-9-2021/)
 - [Emulation in Q#](https://devblogs.microsoft.com/qsharp/emulation-in-q/)
 - [Passing OData Query Options in the Request Body](https://devblogs.microsoft.com/odata/passing-odata-query-options-in-the-request-body/)
+- [Dual-screen library update with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/dual-screen-jetpack-window-manager-update/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
