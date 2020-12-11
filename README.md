@@ -502,6 +502,7 @@ Microsoft related technologies documentation
 - [Passing OData Query Options in the Request Body](https://devblogs.microsoft.com/odata/passing-odata-query-options-in-the-request-body/)
 - [Dual-screen library update with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/dual-screen-jetpack-window-manager-update/)
 - [Authoring Custom Profiles – Part 2](https://devblogs.microsoft.com/performance-diagnostics/authoring-custom-profiles-part-2/)
+- [Three Years of Q#](https://devblogs.microsoft.com/qsharp/three-years-of-q/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
