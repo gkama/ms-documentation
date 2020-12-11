@@ -501,6 +501,7 @@ Microsoft related technologies documentation
 - [Emulation in Q#](https://devblogs.microsoft.com/qsharp/emulation-in-q/)
 - [Passing OData Query Options in the Request Body](https://devblogs.microsoft.com/odata/passing-odata-query-options-in-the-request-body/)
 - [Dual-screen library update with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/dual-screen-jetpack-window-manager-update/)
+- [Authoring Custom Profiles – Part 2](https://devblogs.microsoft.com/performance-diagnostics/authoring-custom-profiles-part-2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
