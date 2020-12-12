@@ -295,6 +295,7 @@ Microsoft related technologies documentation
 - [Adopting Azure serverless architectures to help reduce CO2 emissions – Part 1](https://devblogs.microsoft.com/sustainable-software/adopting-azure-serverless-architectures-to-help-reduce-co2-emissions-part-1/)
 - [Azure SDK Release (November 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2020/)
 - [Using an Azure Container Instance to convert a BAK to BACPAC for Import into Azure SQL Database](https://devblogs.microsoft.com/azure-sql/using-an-azure-container-instance-to-convert-a-bak-to-bacpac-for-import-into-azure-sql-database/)
+- [New Features in the Form Recognizer Client Libraries](https://devblogs.microsoft.com/azure-sdk/form-recognizer-nov2020/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
