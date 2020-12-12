@@ -296,6 +296,7 @@ Microsoft related technologies documentation
 - [Azure SDK Release (November 2020)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2020/)
 - [Using an Azure Container Instance to convert a BAK to BACPAC for Import into Azure SQL Database](https://devblogs.microsoft.com/azure-sql/using-an-azure-container-instance-to-convert-a-bak-to-bacpac-for-import-into-azure-sql-database/)
 - [New Features in the Form Recognizer Client Libraries](https://devblogs.microsoft.com/azure-sdk/form-recognizer-nov2020/)
+- [Programmatically parsing Transact SQL (T-SQL) with the ScriptDom parser](https://devblogs.microsoft.com/azure-sql/programmatically-parsing-transact-sql-t-sql-with-the-scriptdom-parser/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
