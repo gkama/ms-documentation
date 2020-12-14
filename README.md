@@ -298,6 +298,7 @@ Microsoft related technologies documentation
 - [Using an Azure Container Instance to convert a BAK to BACPAC for Import into Azure SQL Database](https://devblogs.microsoft.com/azure-sql/using-an-azure-container-instance-to-convert-a-bak-to-bacpac-for-import-into-azure-sql-database/)
 - [New Features in the Form Recognizer Client Libraries](https://devblogs.microsoft.com/azure-sdk/form-recognizer-nov2020/)
 - [Programmatically parsing Transact SQL (T-SQL) with the ScriptDom parser](https://devblogs.microsoft.com/azure-sql/programmatically-parsing-transact-sql-t-sql-with-the-scriptdom-parser/)
+- [Integrating Azure Cosmos DB Cassandra API with Apache Kafka using Kafka Connect](https://devblogs.microsoft.com/cosmosdb/integrating-azure-cosmos-db-cassandra-api-with-apache-kafka-using-kafka-connect/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
