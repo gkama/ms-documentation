@@ -509,6 +509,7 @@ Microsoft related technologies documentation
 - [Dual-screen library update with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/dual-screen-jetpack-window-manager-update/)
 - [Authoring Custom Profiles – Part 2](https://devblogs.microsoft.com/performance-diagnostics/authoring-custom-profiles-part-2/)
 - [Three Years of Q#](https://devblogs.microsoft.com/qsharp/three-years-of-q/)
+- [Java on Visual Studio Code Update – November 2020](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-november-2020/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
