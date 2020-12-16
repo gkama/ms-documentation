@@ -301,6 +301,7 @@ Microsoft related technologies documentation
 - [Programmatically parsing Transact SQL (T-SQL) with the ScriptDom parser](https://devblogs.microsoft.com/azure-sql/programmatically-parsing-transact-sql-t-sql-with-the-scriptdom-parser/)
 - [Integrating Azure Cosmos DB Cassandra API with Apache Kafka using Kafka Connect](https://devblogs.microsoft.com/cosmosdb/integrating-azure-cosmos-db-cassandra-api-with-apache-kafka-using-kafka-connect/)
 - [Seasons of Serverless Challenge 3: Azure TypeScript Functions and Azure SQL Database serverless](https://devblogs.microsoft.com/azure-sql/seasons-of-serverless-challenge-3-azure-typescript-functions-and-azure-sql-database-serverless/)
+- [Unit testing and mocking with Azure SDK .NET](https://devblogs.microsoft.com/azure-sdk/unit-testing-and-mocking/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
