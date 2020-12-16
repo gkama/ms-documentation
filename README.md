@@ -512,6 +512,7 @@ Microsoft related technologies documentation
 - [Authoring Custom Profiles – Part 2](https://devblogs.microsoft.com/performance-diagnostics/authoring-custom-profiles-part-2/)
 - [Three Years of Q#](https://devblogs.microsoft.com/qsharp/three-years-of-q/)
 - [Java on Visual Studio Code Update – November 2020](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-november-2020/)
+- [PowerShell 7.2 Preview 2 release](https://devblogs.microsoft.com/powershell/powershell-7-2-preview-2-release/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
