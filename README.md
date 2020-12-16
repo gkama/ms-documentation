@@ -173,6 +173,7 @@ Microsoft related technologies documentation
 - [[Guest Post] Bring lights in Unity into the real-world using Philips Hue](https://devblogs.microsoft.com/dotnet/guest-post-bring-lights-in-unity-into-the-real-world-using-philips-hue/)
 - [Producing Packages with Source Link](https://devblogs.microsoft.com/dotnet/producing-packages-with-source-link/)
 - [Creating a game art asset pipeline in .NET](https://devblogs.microsoft.com/dotnet/creating-a-game-art-asset-pipeline-in-net/)
+- [Localize .NET applications with machine-translation](https://devblogs.microsoft.com/dotnet/localize-net-applications-with-machine-translation/)
 
 # Azure DevOps
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
