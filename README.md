@@ -520,6 +520,7 @@ Microsoft related technologies documentation
 - [PowerShell 7.2 Preview 2 release](https://devblogs.microsoft.com/powershell/powershell-7-2-preview-2-release/)
 - [New Java learning path on Microsoft Learn](https://devblogs.microsoft.com/java/new-java-learning-path-on-microsoft-learn/)
 - [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
+- [Build dual-screen Cordova apps for Microsoft Surface Duo](https://devblogs.microsoft.com/surface-duo/dual-screen-cordova-plugin/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
