@@ -519,6 +519,7 @@ Microsoft related technologies documentation
 - [Java on Visual Studio Code Update – November 2020](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-november-2020/)
 - [PowerShell 7.2 Preview 2 release](https://devblogs.microsoft.com/powershell/powershell-7-2-preview-2-release/)
 - [New Java learning path on Microsoft Learn](https://devblogs.microsoft.com/java/new-java-learning-path-on-microsoft-learn/)
+- [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
