@@ -229,6 +229,7 @@ Microsoft related technologies documentation
 - [December patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-and-team-foundation-server/)
 - [Announcing Azure DevOps Server 2020.0.1 RC](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-2020-0-1-rc/)
 - [Top Stories from the Microsoft DevOps Community – 2020.12.11](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-12-11/)
+- [Top Stories from the Microsoft DevOps Community – 2020.12.18](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-12-18/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
