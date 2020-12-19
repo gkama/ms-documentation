@@ -309,6 +309,7 @@ Microsoft related technologies documentation
 - [Unit testing and mocking with Azure SDK .NET](https://devblogs.microsoft.com/azure-sdk/unit-testing-and-mocking/)
 - [Understanding how to query arrays in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/understanding-how-to-query-arrays-in-azure-cosmos-db/)
 - [How Walmart, ASOS, and Chipotle power real-time ecommerce at scale with Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/how-walmart-asos-and-chipotle-power-real-time-ecommerce-at-scale-with-azure-cosmos-db/)
+- [Seasons of Serverless Challenge 3: Azure TypeScript Functions and Azure SQL Database serverless](https://devblogs.microsoft.com/azure-sql/seasons-of-serverless-challenge-3-azure-typescript-functions-and-azure-sql-database-serverless/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
