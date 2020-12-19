@@ -524,6 +524,7 @@ Microsoft related technologies documentation
 - [New Java learning path on Microsoft Learn](https://devblogs.microsoft.com/java/new-java-learning-path-on-microsoft-learn/)
 - [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
 - [Build dual-screen Cordova apps for Microsoft Surface Duo](https://devblogs.microsoft.com/surface-duo/dual-screen-cordova-plugin/)
+- [There’s more to Power Platform than low-code/no-code development](https://devblogs.microsoft.com/premier-developer/theres-more-to-power-platform-than-low-code-no-code-development/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
