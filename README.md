@@ -528,6 +528,7 @@ Microsoft related technologies documentation
 - [There’s more to Power Platform than low-code/no-code development](https://devblogs.microsoft.com/premier-developer/theres-more-to-power-platform-than-low-code-no-code-development/)
 - [Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 - [Active-Active PostgreSQL Federation on Kubernetes](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/active-active-postgres-federation-on-kubernetes?amp_js_v=a6&amp_gsa=1&hs_amp=true&usqp=mq331AQFKAGwASA%3D#csi=1&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Factive-active-postgres-federation-on-kubernetes)
+- [What should the state of a moved-from object be?](https://devblogs.microsoft.com/oldnewthing/20201218-00/?p=104558)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
