@@ -531,6 +531,7 @@ Microsoft related technologies documentation
 - [Active-Active PostgreSQL Federation on Kubernetes](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/active-active-postgres-federation-on-kubernetes?amp_js_v=a6&amp_gsa=1&hs_amp=true&usqp=mq331AQFKAGwASA%3D#csi=1&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Factive-active-postgres-federation-on-kubernetes)
 - [What should the state of a moved-from object be?](https://devblogs.microsoft.com/oldnewthing/20201218-00/?p=104558)
 - [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
+- [Xamarin Holiday Hack Ideas](https://devblogs.microsoft.com/xamarin/xamarin-holiday-season-hack-ideas/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
