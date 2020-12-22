@@ -532,6 +532,7 @@ Microsoft related technologies documentation
 - [What should the state of a moved-from object be?](https://devblogs.microsoft.com/oldnewthing/20201218-00/?p=104558)
 - [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
 - [Xamarin Holiday Hack Ideas](https://devblogs.microsoft.com/xamarin/xamarin-holiday-season-hack-ideas/)
+- [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
