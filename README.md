@@ -533,6 +533,7 @@ Microsoft related technologies documentation
 - [Getting Started with Windows Terminal](https://devblogs.microsoft.com/commandline/getting-started-with-windows-terminal/)
 - [Xamarin Holiday Hack Ideas](https://devblogs.microsoft.com/xamarin/xamarin-holiday-season-hack-ideas/)
 - [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
+- [Hacky Holidays!](https://devblogs.microsoft.com/surface-duo/hacky-holidays-2020/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
