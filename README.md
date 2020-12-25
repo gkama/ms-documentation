@@ -536,6 +536,7 @@ Microsoft related technologies documentation
 - [Xamarin Holiday Hack Ideas](https://devblogs.microsoft.com/xamarin/xamarin-holiday-season-hack-ideas/)
 - [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
 - [Hacky Holidays!](https://devblogs.microsoft.com/surface-duo/hacky-holidays-2020/)
+- [SharePoint Workflow transformation to Power Automate](https://devblogs.microsoft.com/premier-developer/sharepoint-workflow-transformation-to-power-automate/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
