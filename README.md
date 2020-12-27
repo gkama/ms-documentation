@@ -537,6 +537,7 @@ Microsoft related technologies documentation
 - [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
 - [Hacky Holidays!](https://devblogs.microsoft.com/surface-duo/hacky-holidays-2020/)
 - [SharePoint Workflow transformation to Power Automate](https://devblogs.microsoft.com/premier-developer/sharepoint-workflow-transformation-to-power-automate/)
+- [MathML and OMML User Selection Attributes](https://devblogs.microsoft.com/math-in-office/mathml-and-omml-user-selection-attributes/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
