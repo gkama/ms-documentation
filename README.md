@@ -542,6 +542,7 @@ Microsoft related technologies documentation
 - [Web Performance Calendar](https://calendar.perfplanet.com/2020/hit-the-road-jack-it-aint-about-performance-no-more/)
 - [Microsoft Surface Duo developer year in review](https://devblogs.microsoft.com/surface-duo/2020-developer-year-in-review/)
 - [Why are the C and C++ compilers giving me error messages about int when my code doesn’t mention int?](https://devblogs.microsoft.com/oldnewthing/20201230-00/?p=104618)
+- [MicroFrontends With Blazor WebAssembly](https://devblogs.microsoft.com/premier-developer/microfrontends-with-blazor-webassembly/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
