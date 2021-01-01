@@ -100,6 +100,7 @@ Microsoft related technologies documentation
 - [.NET Core 2.1, 3.1, and .NET 5.0 updates are coming to Microsoft Update](https://devblogs.microsoft.com/dotnet/net-core-updates-coming-to-microsoft-update/)
 - [.NET December 2020 Updates – 5.0.1](https://devblogs.microsoft.com/dotnet/net-december-2020/)
 - [Infer#: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-interprocedural-memory-safety-analysis-for-c/)
+- [[Guest Post] Bring lights in Unity into the real-world using Philips Hue](https://devblogs.microsoft.com/dotnet/guest-post-bring-lights-in-unity-into-the-real-world-using-philips-hue/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
