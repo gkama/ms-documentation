@@ -316,6 +316,7 @@ Microsoft related technologies documentation
 - [Seasons of Serverless Challenge 3: Azure TypeScript Functions and Azure SQL Database serverless](https://devblogs.microsoft.com/azure-sql/seasons-of-serverless-challenge-3-azure-typescript-functions-and-azure-sql-database-serverless/)
 - [AzureFunBytes – The AZ-900 Badge, Your First Triumph on Azure](https://devblogs.microsoft.com/devops/azurefunbytes-the-az-900-badge-your-first-triumph-on-azure/)
 - [AzureFunBytes – Modernizing Your Apps With Containers](https://devblogs.microsoft.com/devops/azurefunbytes-modernizing-your-apps-with-containers/)
+- [SQL Tools December release recap](https://cloudblogs.microsoft.com/sqlserver/2020/12/17/sql-tools-december-release-recap/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
