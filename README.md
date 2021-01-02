@@ -619,3 +619,6 @@ Microsoft related technologies documentation
 - [Pluralsight](https://www.pluralsight.com/)
 - [Braincert](https://www.braincert.com/)
 - [A Cloud Guru: Introduction to Azure](https://learn.acloud.guru/course/intro-to-azure/dashboard)
+
+## Startup
+- [How we use Nuxt at The NuxtJS Company](https://devblogs.microsoft.com/startups/nuxt/)
