@@ -318,6 +318,7 @@ Microsoft related technologies documentation
 - [AzureFunBytes – Modernizing Your Apps With Containers](https://devblogs.microsoft.com/devops/azurefunbytes-modernizing-your-apps-with-containers/)
 - [SQL Tools December release recap](https://cloudblogs.microsoft.com/sqlserver/2020/12/17/sql-tools-december-release-recap/)
 - [Quickly deploy DoD STIG-compliant images and visualize compliance using Azure](https://devblogs.microsoft.com/azuregov/quickly-deploy-dod-stig-compliant-images-and-visualize-compliance-using-azure/)
+- [Reducing SNAT Port consumption in Azure App Services](https://devblogs.microsoft.com/premier-developer/reducing-snat-port-consumption-in-azure-app-services/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
