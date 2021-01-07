@@ -317,6 +317,7 @@ Microsoft related technologies documentation
 - [AzureFunBytes – The AZ-900 Badge, Your First Triumph on Azure](https://devblogs.microsoft.com/devops/azurefunbytes-the-az-900-badge-your-first-triumph-on-azure/)
 - [AzureFunBytes – Modernizing Your Apps With Containers](https://devblogs.microsoft.com/devops/azurefunbytes-modernizing-your-apps-with-containers/)
 - [SQL Tools December release recap](https://cloudblogs.microsoft.com/sqlserver/2020/12/17/sql-tools-december-release-recap/)
+- [Quickly deploy DoD STIG-compliant images and visualize compliance using Azure](https://devblogs.microsoft.com/azuregov/quickly-deploy-dod-stig-compliant-images-and-visualize-compliance-using-azure/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
