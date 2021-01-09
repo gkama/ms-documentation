@@ -235,6 +235,7 @@ Microsoft related technologies documentation
 - [Use predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml)
 - [Using Azure Machine Learning from GitHub Actions](https://devblogs.microsoft.com/devops/using-azure-machine-learning-from-github-actions/)
 - [Top Stories from the Microsoft DevOps Community – 2020.12.18](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-12-18/)
+- [Top Stories from the Microsoft DevOps Community – 2021.01.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-08/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
