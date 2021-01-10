@@ -553,6 +553,7 @@ Microsoft related technologies documentation
 - [MicroFrontends With Blazor WebAssembly](https://devblogs.microsoft.com/premier-developer/microfrontends-with-blazor-webassembly/)
 - [How can I create a non-circular tab order, or some other type of custom ordering in my Win32 dialog?](https://devblogs.microsoft.com/oldnewthing/20201231-00/?p=104627)
 - [I’d like an IUnknown, I know you have many, I’ll take any of them](https://devblogs.microsoft.com/oldnewthing/20210101-00/?p=104639)
+- [Figma Design Kit for Microsoft Surface Duo](https://devblogs.microsoft.com/surface-duo/figma-design-kit-preview/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
