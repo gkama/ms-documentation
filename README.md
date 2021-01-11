@@ -101,6 +101,7 @@ Microsoft related technologies documentation
 - [.NET December 2020 Updates – 5.0.1](https://devblogs.microsoft.com/dotnet/net-december-2020/)
 - [Infer#: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-interprocedural-memory-safety-analysis-for-c/)
 - [[Guest Post] Bring lights in Unity into the real-world using Philips Hue](https://devblogs.microsoft.com/dotnet/guest-post-bring-lights-in-unity-into-the-real-world-using-philips-hue/)
+- [WSFederationHttpBinding in .NET Standard](https://devblogs.microsoft.com/dotnet/wsfederationhttpbinding-in-net-standard-wcf/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
