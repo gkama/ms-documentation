@@ -324,6 +324,7 @@ Microsoft related technologies documentation
 - [Quickly deploy DoD STIG-compliant images and visualize compliance using Azure](https://devblogs.microsoft.com/azuregov/quickly-deploy-dod-stig-compliant-images-and-visualize-compliance-using-azure/)
 - [Reducing SNAT Port consumption in Azure App Services](https://devblogs.microsoft.com/premier-developer/reducing-snat-port-consumption-in-azure-app-services/)
 - [Use Templates Effectively](https://devblogs.microsoft.com/azure-notification-hubs/use-templates-effectively/)
+- [How to Post a File to an Azure Function in 3 Minutes](https://devblogs.microsoft.com/premier-developer/how-to-post-a-file-to-an-azure-function-in-3-minutes/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
