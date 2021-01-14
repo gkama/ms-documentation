@@ -30,6 +30,7 @@ Microsoft related technologies documentation
 - [Visual Studio 2019 v16.9 Preview 2 and New Year Wishes Coming to You!](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-9-preview-2/)
 - [Python in Visual Studio Code – December 2020 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2020-release/)
 - [[Guest post] Our Head First C# Contest Got Some Truly Creative Entries](https://devblogs.microsoft.com/visualstudio/head-first-csharp-contest-got-some-truly-creative-entries/)
+- [[Guest Post] Visual Studio for Mac Helps You Write Tests](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-helps-you-write-tests/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
