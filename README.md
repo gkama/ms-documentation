@@ -105,6 +105,7 @@ Microsoft related technologies documentation
 - [WSFederationHttpBinding in .NET Standard](https://devblogs.microsoft.com/dotnet/wsfederationhttpbinding-in-net-standard-wcf/)
 - [.NET 5 Networking Improvements](https://devblogs.microsoft.com/dotnet/net-5-new-networking-improvements/)
 - [.NET January 2021 Updates – 5.0.2, 3.1.11, 2.1.24](https://devblogs.microsoft.com/dotnet/net-january-2021/)
+- [Diagnostics improvements in .NET 5](https://devblogs.microsoft.com/dotnet/diagnostics-improvements-in-net-5/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
