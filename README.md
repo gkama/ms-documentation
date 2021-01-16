@@ -328,6 +328,7 @@ Microsoft related technologies documentation
 - [Reducing SNAT Port consumption in Azure App Services](https://devblogs.microsoft.com/premier-developer/reducing-snat-port-consumption-in-azure-app-services/)
 - [Use Templates Effectively](https://devblogs.microsoft.com/azure-notification-hubs/use-templates-effectively/)
 - [How to Post a File to an Azure Function in 3 Minutes](https://devblogs.microsoft.com/premier-developer/how-to-post-a-file-to-an-azure-function-in-3-minutes/)
+- [How to migrate to the new Azure Python Management Libraries](https://devblogs.microsoft.com/azure-sdk/migrating-python-management-libraries/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
