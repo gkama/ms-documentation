@@ -244,6 +244,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.01.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-08/)
 - [Group By Tags for Chart Widget](https://devblogs.microsoft.com/devops/group-by-tags-for-chart-widget/)
 - [Top Stories from the Microsoft DevOps Community – 2021.01.15](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-15/)
+- [Introduction to Infrastructure as Code on Azure using Python with Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
