@@ -332,6 +332,7 @@ Microsoft related technologies documentation
 - [How to Post a File to an Azure Function in 3 Minutes](https://devblogs.microsoft.com/premier-developer/how-to-post-a-file-to-an-azure-function-in-3-minutes/)
 - [How to migrate to the new Azure Python Management Libraries](https://devblogs.microsoft.com/azure-sdk/migrating-python-management-libraries/)
 - [Create stateful and stateless workflows in Visual Studio Code with the Azure Logic Apps (Preview) extension](https://docs.microsoft.com/en-us/azure/logic-apps/create-stateful-stateless-workflows-visual-studio-code#deploy-to-docker-container)
+- [Connecting an Azure Logic App to a local Web API](https://devblogs.microsoft.com/premier-developer/connecting-an-azure-logic-app-to-a-local-web-api/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
