@@ -571,6 +571,7 @@ Microsoft related technologies documentation
 - [Figma Design Kit for Microsoft Surface Duo](https://devblogs.microsoft.com/surface-duo/figma-design-kit-preview/)
 - [Using software for sustainability – How Surfrider protects the oceans with AI](https://devblogs.microsoft.com/sustainable-software/using-software-for-sustainability-how-surfrider-protect-the-oceans-with-ai/)
 - [Windows Performance Analyzer – Table & Graph Configurations (Part 1)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-1/)
+- [Cloud Economics](https://devblogs.microsoft.com/premier-developer/cloud-economics/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
