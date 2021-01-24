@@ -338,6 +338,7 @@ Microsoft related technologies documentation
 - [Connecting an Azure Logic App to a local Web API](https://devblogs.microsoft.com/premier-developer/connecting-an-azure-logic-app-to-a-local-web-api/)
 - [Solving the River Crossing problem with SQL Graph](https://devblogs.microsoft.com/azure-sql/solving-the-river-crossing-problem-with-sql-graph/)
 - [Introducing the LIKE keyword in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/like-keyword-cosmosdb/)
+- [Azure SDK Release (January 2021)](https://devblogs.microsoft.com/azure-sdk/january-2021-release/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
