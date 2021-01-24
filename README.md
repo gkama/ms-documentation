@@ -339,6 +339,7 @@ Microsoft related technologies documentation
 - [Solving the River Crossing problem with SQL Graph](https://devblogs.microsoft.com/azure-sql/solving-the-river-crossing-problem-with-sql-graph/)
 - [Introducing the LIKE keyword in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/like-keyword-cosmosdb/)
 - [Azure SDK Release (January 2021)](https://devblogs.microsoft.com/azure-sdk/january-2021-release/)
+- [Join us Jan. 27: Mastering cloud fundamentals for government in 2021](https://devblogs.microsoft.com/azuregov/join-us-jan-27-mastering-cloud-fundamentals-for-government-in-2021/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
