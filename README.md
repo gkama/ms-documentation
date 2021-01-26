@@ -577,6 +577,7 @@ Microsoft related technologies documentation
 - [Using software for sustainability – How Surfrider protects the oceans with AI](https://devblogs.microsoft.com/sustainable-software/using-software-for-sustainability-how-surfrider-protect-the-oceans-with-ai/)
 - [Windows Performance Analyzer – Table & Graph Configurations (Part 1)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-1/)
 - [Cloud Economics](https://devblogs.microsoft.com/premier-developer/cloud-economics/)
+- [Grow your business through the Microsoft commercial marketplace](https://devblogs.microsoft.com/premier-developer/grow-your-business-through-the-microsoft-commercial-marketplace/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
