@@ -108,6 +108,7 @@ Microsoft related technologies documentation
 - [.NET January 2021 Updates – 5.0.2, 3.1.11, 2.1.24](https://devblogs.microsoft.com/dotnet/net-january-2021/)
 - [Diagnostics improvements in .NET 5](https://devblogs.microsoft.com/dotnet/diagnostics-improvements-in-net-5/)
 - [.NET Core Ranks High Among Frameworks in New Dev Survey](https://visualstudiomagazine.com/articles/2021/01/15/codingame-survey.aspx?m=1)
+- [Improvements to the new Razor editor in Visual Studio](https://devblogs.microsoft.com/aspnet/improvements-to-the-new-razor-editor-in-visual-studio/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
