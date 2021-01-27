@@ -342,6 +342,7 @@ Microsoft related technologies documentation
 - [Join us Jan. 27: Mastering cloud fundamentals for government in 2021](https://devblogs.microsoft.com/azuregov/join-us-jan-27-mastering-cloud-fundamentals-for-government-in-2021/)
 - [Four Ways to Try Azure Cosmos DB FREE](https://devblogs.microsoft.com/cosmosdb/four-ways-to-try-azure-cosmos-db-free/)
 - [Adopting Azure serverless architectures to help reduce CO2 emissions – Part 2 (Extending to the Edge)](https://devblogs.microsoft.com/sustainable-software/adopting-azure-serverless-architectures-to-help-reduce-co2-emissions-part-2-extending-to-the-edge/)
+- [How to choose the right Azure Event Hubs .NET client library type for your application](https://devblogs.microsoft.com/azure-sdk/eventhubs-clients/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
