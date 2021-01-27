@@ -578,6 +578,7 @@ Microsoft related technologies documentation
 - [Windows Performance Analyzer – Table & Graph Configurations (Part 1)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-1/)
 - [Cloud Economics](https://devblogs.microsoft.com/premier-developer/cloud-economics/)
 - [Grow your business through the Microsoft commercial marketplace](https://devblogs.microsoft.com/premier-developer/grow-your-business-through-the-microsoft-commercial-marketplace/)
+- [Blizzard Diablo IV debugs Linux core dumps from Visual Studio](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
