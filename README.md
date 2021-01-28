@@ -582,6 +582,7 @@ Microsoft related technologies documentation
 - [Grow your business through the Microsoft commercial marketplace](https://devblogs.microsoft.com/premier-developer/grow-your-business-through-the-microsoft-commercial-marketplace/)
 - [Blizzard Diablo IV debugs Linux core dumps from Visual Studio](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/)
 - [What’s New in Azure Spring Cloud after GA](https://devblogs.microsoft.com/java/whats-new-in-azure-spring-cloud-after-ga/)
+- [RichEdit Emoticon Shortcuts](https://devblogs.microsoft.com/math-in-office/richedit-emoticon-shortcuts/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
