@@ -250,6 +250,7 @@ Microsoft related technologies documentation
 - [Introduction to Infrastructure as Code on Azure using Python with Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi/)
 - [Top Stories from the Microsoft DevOps Community – 2021.01.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-22/)
 - [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
+- [Top Stories from the Microsoft DevOps Community – 2021.01.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-29/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
