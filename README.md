@@ -588,6 +588,7 @@ Microsoft related technologies documentation
 - [What’s New in Azure Spring Cloud after GA](https://devblogs.microsoft.com/java/whats-new-in-azure-spring-cloud-after-ga/)
 - [RichEdit Emoticon Shortcuts](https://devblogs.microsoft.com/math-in-office/richedit-emoticon-shortcuts/)
 - [Beautiful Custom RadioButton with Xamarin.Forms 5](https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/)
+- [CTO Choices – What happens when you need to choose your Frontend technology stack?](https://devblogs.microsoft.com/startups/cto-choices-choose-your-frontend-stack/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
