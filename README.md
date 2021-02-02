@@ -349,6 +349,7 @@ Microsoft related technologies documentation
 - [Adopting Azure serverless architectures to help reduce CO2 emissions – Part 2 (Extending to the Edge)](https://devblogs.microsoft.com/sustainable-software/adopting-azure-serverless-architectures-to-help-reduce-co2-emissions-part-2-extending-to-the-edge/)
 - [How to choose the right Azure Event Hubs .NET client library type for your application](https://devblogs.microsoft.com/azure-sdk/eventhubs-clients/)
 - [Announcing compliance hub for Azure](https://devblogs.microsoft.com/azuregov/announcing-compliance-hub-for-azure/)
+- [State of the Azure SDK 2021](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2021/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
