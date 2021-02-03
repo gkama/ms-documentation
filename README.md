@@ -594,6 +594,7 @@ Microsoft related technologies documentation
 - [CTO Choices – What happens when you need to choose your Frontend technology stack?](https://devblogs.microsoft.com/startups/cto-choices-choose-your-frontend-stack/)
 - [What’s New in Azure Spring Cloud after GA](https://devblogs.microsoft.com/java/whats-new-in-azure-spring-cloud-after-ga/)
 - [PIX 2101.27: AMD raytracing counters, DXIL improvements, and more](https://devblogs.microsoft.com/pix/pix-2101-27/)
+- [Function Summary and Callgraph captures are now deprecated](https://devblogs.microsoft.com/pix/function-summary-and-callgraph-captures-are-now-deprecated/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
