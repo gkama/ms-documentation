@@ -111,6 +111,7 @@ Microsoft related technologies documentation
 - [Improvements to the new Razor editor in Visual Studio](https://devblogs.microsoft.com/aspnet/improvements-to-the-new-razor-editor-in-visual-studio/)
 - [Using C# Source Generators to create an external DSL](https://devblogs.microsoft.com/dotnet/using-c-source-generators-to-create-an-external-dsl/)
 - [Using WinML in .NET5](https://devblogs.microsoft.com/pax-windows/using-winml-in-net5/)
+- [Command Line Parser on .NET5](https://devblogs.microsoft.com/pax-windows/command-line-parser-on-net5/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
