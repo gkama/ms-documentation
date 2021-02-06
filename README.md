@@ -112,6 +112,7 @@ Microsoft related technologies documentation
 - [Using C# Source Generators to create an external DSL](https://devblogs.microsoft.com/dotnet/using-c-source-generators-to-create-an-external-dsl/)
 - [Using WinML in .NET5](https://devblogs.microsoft.com/pax-windows/using-winml-in-net5/)
 - [Command Line Parser on .NET5](https://devblogs.microsoft.com/pax-windows/command-line-parser-on-net5/)
+- [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
