@@ -254,6 +254,7 @@ Microsoft related technologies documentation
 - [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
 - [Top Stories from the Microsoft DevOps Community – 2021.01.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-01-29/)
 - [Project Bicep – Next Generation ARM Templates](https://devblogs.microsoft.com/devops/project-bicep-next-generation-arm-templates/)
+- [Top Stories from the Microsoft DevOps Community – 2021.02.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-02-05/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
