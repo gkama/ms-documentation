@@ -600,6 +600,7 @@ Microsoft related technologies documentation
 - [PIX 2101.27: AMD raytracing counters, DXIL improvements, and more](https://devblogs.microsoft.com/pix/pix-2101-27/)
 - [Function Summary and Callgraph captures are now deprecated](https://devblogs.microsoft.com/pix/function-summary-and-callgraph-captures-are-now-deprecated/)
 - [Calling an API in Power Apps Portals using JavaScript](https://devblogs.microsoft.com/premier-developer/calling-an-api-in-power-apps-portals-using-javascript/)
+- [Developer tip: launch on adjacent screen](https://devblogs.microsoft.com/surface-duo/flag-activity-launch-adjacent-screen/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
