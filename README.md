@@ -259,6 +259,7 @@ Microsoft related technologies documentation
 - [Project Bicep – Next Generation ARM Templates](https://devblogs.microsoft.com/devops/project-bicep-next-generation-arm-templates/)
 - [Top Stories from the Microsoft DevOps Community – 2021.02.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-02-05/)
 - [Advanced Raw To Depth pipeline](https://devblogs.microsoft.com/azure-depth-platform/advanced-raw-to-depth-pipeline/)
+- [Continuous Monitoring for Web Performance and Accessibility](https://devblogs.microsoft.com/devops/continuous-monitoring-for-web-performance-and-accessibility/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
