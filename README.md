@@ -602,6 +602,7 @@ Microsoft related technologies documentation
 - [Function Summary and Callgraph captures are now deprecated](https://devblogs.microsoft.com/pix/function-summary-and-callgraph-captures-are-now-deprecated/)
 - [Calling an API in Power Apps Portals using JavaScript](https://devblogs.microsoft.com/premier-developer/calling-an-api-in-power-apps-portals-using-javascript/)
 - [Developer tip: launch on adjacent screen](https://devblogs.microsoft.com/surface-duo/flag-activity-launch-adjacent-screen/)
+- [We need a Yuka for electricity to ease the energy transition](https://devblogs.microsoft.com/sustainable-software/we-need-a-yuka-for-electricity-to-ease-the-energy-transition/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
