@@ -260,6 +260,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.02.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-02-05/)
 - [Advanced Raw To Depth pipeline](https://devblogs.microsoft.com/azure-depth-platform/advanced-raw-to-depth-pipeline/)
 - [Continuous Monitoring for Web Performance and Accessibility](https://devblogs.microsoft.com/devops/continuous-monitoring-for-web-performance-and-accessibility/)
+- [Azure DevOps Roadmap update for 2021 Q1](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2021-q1/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
