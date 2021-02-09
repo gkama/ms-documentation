@@ -358,6 +358,7 @@ Microsoft related technologies documentation
 - [How to choose the right Azure Event Hubs .NET client library type for your application](https://devblogs.microsoft.com/azure-sdk/eventhubs-clients/)
 - [Announcing compliance hub for Azure](https://devblogs.microsoft.com/azuregov/announcing-compliance-hub-for-azure/)
 - [State of the Azure SDK 2021](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2021/)
+- [The Positive Impact of Intelligent Query Processing](https://devblogs.microsoft.com/azure-sql/the-positive-impact-of-intelligent-query-processing/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
