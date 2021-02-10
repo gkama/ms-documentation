@@ -115,6 +115,7 @@ Microsoft related technologies documentation
 - [Command Line Parser on .NET5](https://devblogs.microsoft.com/pax-windows/command-line-parser-on-net5/)
 - [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
 - [Working with large .NET 5 solutions in Visual Studio 2019 16.8](https://devblogs.microsoft.com/visualstudio/working-with-large-net-5-solutions-in-visual-studio-2019-16-8/)
+- [.NET Framework February Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-february-security-and-quality-rollup/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
