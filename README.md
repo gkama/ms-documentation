@@ -406,6 +406,7 @@ Microsoft related technologies documentation
 - [Announcing TypeScript 3.9](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/)
 - [Announcing TypeScript 4.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/)
 - [Announcing TypeScript 4.1 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-rc/)
+- [Announcing TypeScript 4.2 RC](- [](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-rc/))
 
 # Articles
 - [Microsoft swallows feedback and bangs Visual studio online preview into shape](https://devclass.com/2020/03/02/microsoft-swallows-feedback-bangs-visual-studio-online-preview-into-shape/)
