@@ -118,6 +118,7 @@ Microsoft related technologies documentation
 - [Working with large .NET 5 solutions in Visual Studio 2019 16.8](https://devblogs.microsoft.com/visualstudio/working-with-large-net-5-solutions-in-visual-studio-2019-16-8/)
 - [.NET Framework February Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-february-security-and-quality-rollup/)
 - [Creating a Windows Service with C#/.NET5](https://devblogs.microsoft.com/ifdef-windows/creating-a-windows-service-with-c-net5/)
+- [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
