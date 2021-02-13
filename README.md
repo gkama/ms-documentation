@@ -365,6 +365,7 @@ Microsoft related technologies documentation
 - [Announcing compliance hub for Azure](https://devblogs.microsoft.com/azuregov/announcing-compliance-hub-for-azure/)
 - [State of the Azure SDK 2021](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2021/)
 - [The Positive Impact of Intelligent Query Processing](https://devblogs.microsoft.com/azure-sql/the-positive-impact-of-intelligent-query-processing/)
+- [Securing your agency’s remote workforce for today and beyond](https://devblogs.microsoft.com/azuregov/securing-your-agencys-remote-workforce-for-today-and-beyond/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
