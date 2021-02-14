@@ -267,6 +267,7 @@ Microsoft related technologies documentation
 - [Continuous Monitoring for Web Performance and Accessibility](https://devblogs.microsoft.com/devops/continuous-monitoring-for-web-performance-and-accessibility/)
 - [Azure DevOps Roadmap update for 2021 Q1](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2021-q1/)
 - [The Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/the-azure-devops-demo-generator/)
+- [Top Stories from the Microsoft DevOps Community – 2021.02.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-02-12/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
