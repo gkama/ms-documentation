@@ -368,6 +368,7 @@ Microsoft related technologies documentation
 - [State of the Azure SDK 2021](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2021/)
 - [The Positive Impact of Intelligent Query Processing](https://devblogs.microsoft.com/azure-sql/the-positive-impact-of-intelligent-query-processing/)
 - [Securing your agency’s remote workforce for today and beyond](https://devblogs.microsoft.com/azuregov/securing-your-agencys-remote-workforce-for-today-and-beyond/)
+- [120 Azure Government services now authorized for DoD IL5 workloads](https://devblogs.microsoft.com/azuregov/120-azure-government-services-now-authorized-for-dod-il5-workloads/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
