@@ -369,6 +369,7 @@ Microsoft related technologies documentation
 - [The Positive Impact of Intelligent Query Processing](https://devblogs.microsoft.com/azure-sql/the-positive-impact-of-intelligent-query-processing/)
 - [Securing your agency’s remote workforce for today and beyond](https://devblogs.microsoft.com/azuregov/securing-your-agencys-remote-workforce-for-today-and-beyond/)
 - [120 Azure Government services now authorized for DoD IL5 workloads](https://devblogs.microsoft.com/azuregov/120-azure-government-services-now-authorized-for-dod-il5-workloads/)
+- [How Can I Calculate CO2eq emissions for my Azure VM?](https://devblogs.microsoft.com/sustainable-software/how-can-i-calculate-co2eq-emissions-for-my-azure-vm/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
