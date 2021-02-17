@@ -372,6 +372,7 @@ Microsoft related technologies documentation
 - [120 Azure Government services now authorized for DoD IL5 workloads](https://devblogs.microsoft.com/azuregov/120-azure-government-services-now-authorized-for-dod-il5-workloads/)
 - [How Can I Calculate CO2eq emissions for my Azure VM?](https://devblogs.microsoft.com/sustainable-software/how-can-i-calculate-co2eq-emissions-for-my-azure-vm/)
 - [The “insert if not exists” challenge: a solution](https://devblogs.microsoft.com/azure-sql/the-insert-if-not-exists-challenge-a-solution/)
+- [New ways to use composite indexes in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-ways-to-use-composite-indexes/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
