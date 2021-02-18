@@ -121,6 +121,7 @@ Microsoft related technologies documentation
 - [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/)
 - [Staying safe with .NET containers](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
 - [.NET Framework February 2021 Cumulative Update Preview for .NET Framework.](https://devblogs.microsoft.com/dotnet/net-framework-february-2021-cumulative-update-preview-for-net-framework/)
+- [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
