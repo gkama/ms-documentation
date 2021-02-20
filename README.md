@@ -378,6 +378,7 @@ Microsoft related technologies documentation
 - [How Can I Calculate CO2eq emissions for my Azure VM?](https://devblogs.microsoft.com/sustainable-software/how-can-i-calculate-co2eq-emissions-for-my-azure-vm/)
 - [The “insert if not exists” challenge: a solution](https://devblogs.microsoft.com/azure-sql/the-insert-if-not-exists-challenge-a-solution/)
 - [New ways to use composite indexes in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-ways-to-use-composite-indexes/)
+- [Announcing: Azure Cosmos DB Conf, a free online developer event](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
