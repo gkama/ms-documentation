@@ -632,6 +632,7 @@ Microsoft related technologies documentation
 - [Changing Drive Letters and Labels via PowerShell](https://devblogs.microsoft.com/powershell-community/changing-drive-letters-and-labels-via-powershell/)
 - [Inside the Quantum Katas, part 2: testing quantum programs](https://devblogs.microsoft.com/qsharp/inside-the-quantum-katas-part-2-testing-quantum-programs/)
 - [Changing Drive Letters and Labels via PowerShell](https://devblogs.microsoft.com/powershell-community/changing-drive-letters-and-labels-via-powershell/)
+- [Unofficial Windows 10 Audio Workstation build and tweak guide – Part 1](https://devblogs.microsoft.com/windows-music-dev/unofficial-windows-10-audio-workstation-build-and-tweak-guide-part-1/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
