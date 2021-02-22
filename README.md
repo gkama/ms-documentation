@@ -123,6 +123,7 @@ Microsoft related technologies documentation
 - [.NET Framework February 2021 Cumulative Update Preview for .NET Framework.](https://devblogs.microsoft.com/dotnet/net-framework-february-2021-cumulative-update-preview-for-net-framework/)
 - [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 - [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/)
+- [[Guest Post] Better refactoring for Unity projects using .NET analyzers](https://devblogs.microsoft.com/visualstudio/guest-post-better-refactoring-for-unity-projects-using-net-analyzers/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
