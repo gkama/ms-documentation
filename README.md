@@ -636,6 +636,7 @@ Microsoft related technologies documentation
 - [Changing Drive Letters and Labels via PowerShell](https://devblogs.microsoft.com/powershell-community/changing-drive-letters-and-labels-via-powershell/)
 - [Unofficial Windows 10 Audio Workstation build and tweak guide – Part 1](https://devblogs.microsoft.com/windows-music-dev/unofficial-windows-10-audio-workstation-build-and-tweak-guide-part-1/)
 - [Autonomous Customer Service leveraging AI](https://devblogs.microsoft.com/startups/autonomous-customer-service-leveraging-ai/)
+- [Sustainability in Site Reliability Engineering (SRE)](https://devblogs.microsoft.com/sustainable-software/sustainability-in-site-reliability-engineering-sre/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
