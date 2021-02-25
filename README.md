@@ -125,6 +125,7 @@ Microsoft related technologies documentation
 - [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/)
 - [[Guest Post] Better refactoring for Unity projects using .NET analyzers](https://devblogs.microsoft.com/visualstudio/guest-post-better-refactoring-for-unity-projects-using-net-analyzers/)
 - [Managing ADX Data with .NET Core and Azure B2C](https://devblogs.microsoft.com/premier-developer/managing-adx-data-with-net-core-and-azure-b2c/)
+- [App Building with Azure API Management, Functions, Power Apps, and Logic Apps](https://devblogs.microsoft.com/aspnet/app-building-with-azure-api-management-functions-power-apps-and-logic-apps/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
