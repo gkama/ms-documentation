@@ -126,6 +126,7 @@ Microsoft related technologies documentation
 - [[Guest Post] Better refactoring for Unity projects using .NET analyzers](https://devblogs.microsoft.com/visualstudio/guest-post-better-refactoring-for-unity-projects-using-net-analyzers/)
 - [Managing ADX Data with .NET Core and Azure B2C](https://devblogs.microsoft.com/premier-developer/managing-adx-data-with-net-core-and-azure-b2c/)
 - [App Building with Azure API Management, Functions, Power Apps, and Logic Apps](https://devblogs.microsoft.com/aspnet/app-building-with-azure-api-management-functions-power-apps-and-logic-apps/)
+- [.NET Framework February 2021 Cumulative Update Preview for Windows 10 2004, Windows Server, version 2004, Windows 10, version 20H2 and Windows Server, version 20H2](https://devblogs.microsoft.com/dotnet/net-framework-february-2021-cumulative-update-preview-for-windows-10-2004-windows-server-version-2004-windows-10-version-20h2-and-windows-server-version-20h2/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
