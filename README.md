@@ -641,6 +641,7 @@ Microsoft related technologies documentation
 - [Autonomous Customer Service leveraging AI](https://devblogs.microsoft.com/startups/autonomous-customer-service-leveraging-ai/)
 - [Sustainability in Site Reliability Engineering (SRE)](https://devblogs.microsoft.com/sustainable-software/sustainability-in-site-reliability-engineering-sre/)
 - [Internals of the POH](https://devblogs.microsoft.com/dotnet/internals-of-the-poh/)
+- [PIX Timing Captures require full PDBs](https://devblogs.microsoft.com/pix/pix-timing-captures-require-full-pdbs/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
