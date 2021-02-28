@@ -412,6 +412,7 @@ Microsoft related technologies documentation
 - [PowerShell+Azure Sentinel notebooks to supercharge your threat hunting and investigations!](https://devblogs.microsoft.com/powershell/powershellazure-sentinel-notebooks-to-supercharge-your-threat-hunting-and-investigations/)
 - [Announcing PowerShell 7.1](https://devblogs.microsoft.com/powershell/announcing-powershell-7-1/)
 - [New way to learn](https://docs.microsoft.com/en-us/learn/)
+- [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
