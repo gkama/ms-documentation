@@ -668,6 +668,7 @@ Microsoft related technologies documentation
 - [Code structure](https://www.terraform-best-practices.com/code-structure)
 - [Announcing Databricks Labs Terraform integration on AWS and Azure](https://databricks.com/blog/2020/09/11/announcing-databricks-labs-terraform-integration-on-aws-and-azure.html)
 - [Rapid cloud foundation buildout and workload deployment using Terraform](https://cloudblog-withgoogle-com.cdn.ampproject.org/v/s/cloudblog.withgoogle.com/products/devops-sre/using-the-cloud-foundation-toolkit-with-terraform/amp/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
+- [Creating Modules](https://www.terraform.io/docs/language/modules/develop/index.html)
 
 ## GitHub repositories
 - [Swashbuckle.AspNetCore.Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcoreswagger)
