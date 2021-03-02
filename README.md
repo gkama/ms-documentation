@@ -386,6 +386,7 @@ Microsoft related technologies documentation
 - [New ways to use composite indexes in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-ways-to-use-composite-indexes/)
 - [Announcing: Azure Cosmos DB Conf, a free online developer event](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf/)
 - [Azure SDK Release (February 2021)](https://devblogs.microsoft.com/azure-sdk/february-release-2021/)
+- [Continuous backup with point in time restore now in preview](https://devblogs.microsoft.com/cosmosdb/continuous-backup-now-in-preview/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
