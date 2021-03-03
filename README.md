@@ -34,6 +34,7 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – January 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/)
 - [Java on Visual Studio Code Update – January 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-january-2021/)
 - [[Guest Post] Better refactoring for Unity projects using .NET analyzers](https://devblogs.microsoft.com/visualstudio/guest-post-better-refactoring-for-unity-projects-using-net-analyzers/)
+- [Frictionless repeated edits: IntelliCode suggestions in completion list](https://devblogs.microsoft.com/visualstudio/repeated-edits-intellicode-suggestions-completion-list/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
