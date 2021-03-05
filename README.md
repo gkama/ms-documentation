@@ -162,6 +162,7 @@ Microsoft related technologies documentation
 - [NET Core Releases and Support](https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/)
 - [Azure Static Web Apps with .NET and Blazor](https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/)
 - [Logging with ILogger in .NET: Recommendations and best practices](https://blog.rsuter.com/logging-with-ilogger-recommendations-and-best-practices/)
+- [.NET Core 2.1 will reach End of Support on August 21, 2021](https://devblogs.microsoft.com/dotnet/net-core-2-1-will-reach-end-of-support-on-august-21-2021/)
 
 ### .NET Core 3.1
 - [3.1.2 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.2.md)
