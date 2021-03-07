@@ -655,6 +655,7 @@ Microsoft related technologies documentation
 - [Lightning Fast and Easy Provisioning of Git with SSH Key Authentication on Windows](https://devblogs.microsoft.com/powershell-community/lightning-fast-and-easy-provisioning-of-git-with-ssh-key-authentication-on-windows/)
 - [Announcing Flutter support for foldable devices](https://devblogs.microsoft.com/surface-duo/flutter-dual-screen-foldable/)
 - [Reading a text file bottom up](https://devblogs.microsoft.com/powershell-community/reading-a-text-file-bottom-up/)
+- [CollectionView Drag & Drop Item Reordering with Gesture Recognizers](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
