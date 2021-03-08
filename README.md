@@ -394,6 +394,7 @@ Microsoft related technologies documentation
 - [Azure SDK Release (February 2021)](https://devblogs.microsoft.com/azure-sdk/february-release-2021/)
 - [Continuous backup with point in time restore now in preview](https://devblogs.microsoft.com/cosmosdb/continuous-backup-now-in-preview/)
 - [Creating Azure Solutions with the new Azure SDKs, F#, and Farmer](https://devblogs.microsoft.com/azure-sdk/azure-solutions-azure-sdk-fsharp-farmer/)
+- [Share your notebooks with Azure Cosmos DB public notebooks gallery](https://devblogs.microsoft.com/cosmosdb/cosmos-notebooks-public-gallery/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
