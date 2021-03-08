@@ -131,6 +131,7 @@ Microsoft related technologies documentation
 - [.NET Framework February 2021 Cumulative Update Preview for Windows 10 2004, Windows Server, version 2004, Windows 10, version 20H2 and Windows Server, version 20H2](https://devblogs.microsoft.com/dotnet/net-framework-february-2021-cumulative-update-preview-for-windows-10-2004-windows-server-version-2004-windows-10-version-20h2-and-windows-server-version-20h2/)
 - [Introducing the .NET Upgrade Assistant Preview](https://devblogs.microsoft.com/dotnet/introducing-the-net-upgrade-assistant-preview/)
 - [Learn to build HTTP APIs with .NET](https://devblogs.microsoft.com/dotnet/learn-to-build-http-apis-with-net/)
+- [.NET Interactive with SQL!| .NET Notebooks in Visual Studio Code](https://devblogs.microsoft.com/dotnet/net-interactive-with-sql-net-notebooks-in-visual-studio-code/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
