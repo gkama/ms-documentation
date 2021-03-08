@@ -670,6 +670,7 @@ Microsoft related technologies documentation
 - [How to Install and Use Linux Screen?](https://www.hostinger.com/tutorials/how-to-install-and-use-linux-screen/)
 - [Ubuntu-based Linux Mint 20 ‘Ulyana’ is here](https://betanews.com/2020/06/27/linux-mint-20/)
 - [Linux Foundation offering Kubernetes certifications courses and exams as demand spikes](https://www.techrepublic.com/article/linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/)
+- [Using Vision AI to extract data from complex documents](https://devblogs.microsoft.com/startups/using-vision-ai-to-extract-data-from-complex-documents/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
