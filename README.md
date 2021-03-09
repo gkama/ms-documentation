@@ -36,6 +36,7 @@ Microsoft related technologies documentation
 - [[Guest Post] Better refactoring for Unity projects using .NET analyzers](https://devblogs.microsoft.com/visualstudio/guest-post-better-refactoring-for-unity-projects-using-net-analyzers/)
 - [Frictionless repeated edits: IntelliCode suggestions in completion list](https://devblogs.microsoft.com/visualstudio/repeated-edits-intellicode-suggestions-completion-list/)
 - [Visual Studio 2019 for Mac version 8.9 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-9-is-now-available/)
+- [What’s new with GitHub Actions tooling in Visual Studio](https://devblogs.microsoft.com/visualstudio/whats-new-with-github-actions-tooling-in-visual-studio/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
