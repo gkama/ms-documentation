@@ -661,6 +661,7 @@ Microsoft related technologies documentation
 - [Announcing Flutter support for foldable devices](https://devblogs.microsoft.com/surface-duo/flutter-dual-screen-foldable/)
 - [Reading a text file bottom up](https://devblogs.microsoft.com/powershell-community/reading-a-text-file-bottom-up/)
 - [CollectionView Drag & Drop Item Reordering with Gesture Recognizers](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
+- [Interview with a DAW Developer: Noel Borthwick from Cakewalk](https://devblogs.microsoft.com/windows-music-dev/interview-with-a-daw-developer-noel-borthwick-from-cakewalk/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
