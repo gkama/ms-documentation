@@ -136,6 +136,7 @@ Microsoft related technologies documentation
 - [.NET March 2021 Updates – 5.0.4, 3.1.13, 2.1.26](https://devblogs.microsoft.com/dotnet/net-march-2021/)
 - [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
 - [ASP.NET Core updates in .NET 6 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/)
+- [Announcing Entity Framework Core 6.0 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-2/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
