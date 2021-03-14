@@ -295,6 +295,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.03.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-05/)
 - [Mitigating leaked personal access tokens (PATs) found on GitHub public repositories](https://devblogs.microsoft.com/devops/mitigating-leaked-personal-access-tokens-pats-found-on-github-public-repositories/)
 - [Top Stories from the Microsoft DevOps Community – 2021.03.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-12/)
+- [DevOps Fireside Chats Feb 2021 – Infrastructure as Code](https://devblogs.microsoft.com/devops/devops-fireside-chats-feb-2021-infrastructure-as-code/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
