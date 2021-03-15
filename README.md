@@ -139,6 +139,7 @@ Microsoft related technologies documentation
 - [Announcing Entity Framework Core 6.0 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-2/)
 - [Investigating a Linux CVE with .NET Images](https://devblogs.microsoft.com/dotnet/investigating-a-linux-cve-with-net-images/)
 - [Announcing .NET 6 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-2/)
+- [ML.NET and Model Builder March Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-march-updates/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
