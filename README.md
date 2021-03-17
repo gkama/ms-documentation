@@ -676,6 +676,7 @@ Microsoft related technologies documentation
 - [Deploy Spring Boot applications by leveraging enterprise best practices – Azure Spring Cloud Reference Architecture](https://devblogs.microsoft.com/java/deploy-spring-boot-applications-by-leveraging-enterprise-best-practices/)
 - [Role of Performance Engineering in Designing Carbon Efficient Applications](https://devblogs.microsoft.com/sustainable-software/role-of-performance-engineering-techniques-in-designing-carbon-efficient-applications/)
 - [SecretStore Release Candidate 3](https://devblogs.microsoft.com/powershell/secretstore-release-candidate-3/)
+- [Python in Visual Studio Code – March 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2021-release/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
