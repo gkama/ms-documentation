@@ -679,6 +679,7 @@ Microsoft related technologies documentation
 - [SecretStore Release Candidate 3](https://devblogs.microsoft.com/powershell/secretstore-release-candidate-3/)
 - [Python in Visual Studio Code – March 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2021-release/)
 - [Performance and Polish with NuGet 5.9](https://devblogs.microsoft.com/nuget/performance-and-polish-with-nuget-5-9/)
+- [Great Looking Settings Screens for Xamarin.Forms](https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
