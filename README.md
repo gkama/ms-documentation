@@ -411,6 +411,7 @@ Microsoft related technologies documentation
 - [Share your notebooks with Azure Cosmos DB public notebooks gallery](https://devblogs.microsoft.com/cosmosdb/cosmos-notebooks-public-gallery/)
 - [Moore’s Law for ToF Pixels](https://devblogs.microsoft.com/azure-depth-platform/moores-law-for-tof-pixels/)
 - [Introducing Configurable Retry Logic in Microsoft.Data.SqlClient v3.0.0-Preview1](https://devblogs.microsoft.com/azure-sql/configurable-retry-logic-for-microsoft-data-sqlclient/)
+- [Azure SDK Release (March 2021)](https://devblogs.microsoft.com/azure-sdk/march-release-2021/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
