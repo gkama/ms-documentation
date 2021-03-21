@@ -301,6 +301,7 @@ Microsoft related technologies documentation
 - [On Prem To the Cloud: Everything As Code (Ep 4)](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/)
 - [Change in Azure Pipelines Grant for Private Projects](https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-private-projects/)
 - [Azure Friday: Best practices for Azure Container Instances (ACI) with GitHub Actions](https://devblogs.microsoft.com/devops/azure-friday-best-practices-for-azure-container-instances-aci-with-github-actions/)
+- [Top Stories from the Microsoft DevOps Community – 2021.03.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-19/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
