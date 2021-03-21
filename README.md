@@ -413,6 +413,7 @@ Microsoft related technologies documentation
 - [Moore’s Law for ToF Pixels](https://devblogs.microsoft.com/azure-depth-platform/moores-law-for-tof-pixels/)
 - [Introducing Configurable Retry Logic in Microsoft.Data.SqlClient v3.0.0-Preview1](https://devblogs.microsoft.com/azure-sql/configurable-retry-logic-for-microsoft-data-sqlclient/)
 - [Azure SDK Release (March 2021)](https://devblogs.microsoft.com/azure-sdk/march-release-2021/)
+- [Announcing the new Azure Event Grid Client Libraries](https://devblogs.microsoft.com/azure-sdk/event-grid-ga/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
