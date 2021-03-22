@@ -415,6 +415,7 @@ Microsoft related technologies documentation
 - [Introducing Configurable Retry Logic in Microsoft.Data.SqlClient v3.0.0-Preview1](https://devblogs.microsoft.com/azure-sql/configurable-retry-logic-for-microsoft-data-sqlclient/)
 - [Azure SDK Release (March 2021)](https://devblogs.microsoft.com/azure-sdk/march-release-2021/)
 - [Announcing the new Azure Event Grid Client Libraries](https://devblogs.microsoft.com/azure-sdk/event-grid-ga/)
+- [Calling a Helper API in an Azure APIM Inbound Policy](https://devblogs.microsoft.com/premier-developer/calling-a-helper-api-in-an-azure-apim-inbound-policy/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
