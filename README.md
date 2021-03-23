@@ -688,6 +688,7 @@ Microsoft related technologies documentation
 - [Great Looking Settings Screens for Xamarin.Forms](https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/)
 - [Quantum developer tools for chemistry](https://devblogs.microsoft.com/qsharp/quantum-developer-tools-for-chemistry/)
 - [How do I start a sustainability community in my organization?](https://devblogs.microsoft.com/sustainable-software/how-do-i-start-a-sustainability-community/)
+- [Dangling DNS and Subdomain Takeovers](https://devblogs.microsoft.com/premier-developer/dangling-dns-and-subdomain-takeovers/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
