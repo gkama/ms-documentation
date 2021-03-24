@@ -690,6 +690,7 @@ Microsoft related technologies documentation
 - [Quantum developer tools for chemistry](https://devblogs.microsoft.com/qsharp/quantum-developer-tools-for-chemistry/)
 - [How do I start a sustainability community in my organization?](https://devblogs.microsoft.com/sustainable-software/how-do-i-start-a-sustainability-community/)
 - [Dangling DNS and Subdomain Takeovers](https://devblogs.microsoft.com/premier-developer/dangling-dns-and-subdomain-takeovers/)
+- [No Batch No Problem](https://devblogs.microsoft.com/premier-developer/no-batch-no-problem/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
