@@ -303,6 +303,7 @@ Microsoft related technologies documentation
 - [Change in Azure Pipelines Grant for Private Projects](https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-private-projects/)
 - [Azure Friday: Best practices for Azure Container Instances (ACI) with GitHub Actions](https://devblogs.microsoft.com/devops/azure-friday-best-practices-for-azure-container-instances-aci-with-github-actions/)
 - [Top Stories from the Microsoft DevOps Community – 2021.03.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-19/)
+- [Introducing Azure DevOps Server 2020.1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2020-1-rc1/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
