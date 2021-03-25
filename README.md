@@ -418,6 +418,7 @@ Microsoft related technologies documentation
 - [Azure SDK Release (March 2021)](https://devblogs.microsoft.com/azure-sdk/march-release-2021/)
 - [Announcing the new Azure Event Grid Client Libraries](https://devblogs.microsoft.com/azure-sdk/event-grid-ga/)
 - [Calling a Helper API in an Azure APIM Inbound Policy](https://devblogs.microsoft.com/premier-developer/calling-a-helper-api-in-an-azure-apim-inbound-policy/)
+- [Dev life is easy with node-mssql](https://devblogs.microsoft.com/azure-sql/dev-life-is-easy-with-node-mssql/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
