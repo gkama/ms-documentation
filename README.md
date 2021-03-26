@@ -142,6 +142,7 @@ Microsoft related technologies documentation
 - [ML.NET and Model Builder March Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-march-updates/)
 - [OpenTelemetry .NET reaches v1.0](https://devblogs.microsoft.com/dotnet/opentelemetry-net-reaches-v1-0/)
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
+- [Loop alignment in .NET 6](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
