@@ -696,6 +696,7 @@ Microsoft related technologies documentation
 - [No Batch No Problem](https://devblogs.microsoft.com/premier-developer/no-batch-no-problem/)
 - [Operationalizing Contact Center efficiency with AI](https://devblogs.microsoft.com/startups/operationalizing-contact-center-efficiency-with-ai/)
 - [Can I Enable the Caps Lock Key?](https://devblogs.microsoft.com/powershell-community/can-i-enable-the-caps-lock-key/)
+- [SecretManagement and SecretStore are Generally Available](https://devblogs.microsoft.com/powershell/secretmanagement-and-secretstore-are-generally-available/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
