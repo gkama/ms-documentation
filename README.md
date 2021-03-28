@@ -700,6 +700,7 @@ Microsoft related technologies documentation
 - [Can I Enable the Caps Lock Key?](https://devblogs.microsoft.com/powershell-community/can-i-enable-the-caps-lock-key/)
 - [SecretManagement and SecretStore are Generally Available](https://devblogs.microsoft.com/powershell/secretmanagement-and-secretstore-are-generally-available/)
 - [Bintray Sunset](https://devblogs.microsoft.com/azure-notification-hubs/bintray-sunset/)
+- [To B2B or to B2C?](https://devblogs.microsoft.com/premier-developer/to-b2b-or-to-b2c/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
