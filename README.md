@@ -306,6 +306,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.03.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-19/)
 - [Introducing Azure DevOps Server 2020.1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2020-1-rc1/)
 - [Top Stories from the Microsoft DevOps Community – 2021.03.26](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-03-26/)
+- [Controlling Release Pipelines with Gates and Azure Policy Compliance](https://devblogs.microsoft.com/devops/controlling-release-pipelines-with-gates-and-azure-policy-compliance/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
