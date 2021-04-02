@@ -425,6 +425,7 @@ Microsoft related technologies documentation
 - [Announcing the new Azure Event Grid Client Libraries](https://devblogs.microsoft.com/azure-sdk/event-grid-ga/)
 - [Calling a Helper API in an Azure APIM Inbound Policy](https://devblogs.microsoft.com/premier-developer/calling-a-helper-api-in-an-azure-apim-inbound-policy/)
 - [Dev life is easy with node-mssql](https://devblogs.microsoft.com/azure-sql/dev-life-is-easy-with-node-mssql/)
+- [Text Analytics for analyzing healthcare entities and multiple actions](https://devblogs.microsoft.com/azure-sdk/text-analytics-healthcare-batching/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
