@@ -428,6 +428,7 @@ Microsoft related technologies documentation
 - [Calling a Helper API in an Azure APIM Inbound Policy](https://devblogs.microsoft.com/premier-developer/calling-a-helper-api-in-an-azure-apim-inbound-policy/)
 - [Dev life is easy with node-mssql](https://devblogs.microsoft.com/azure-sql/dev-life-is-easy-with-node-mssql/)
 - [Text Analytics for analyzing healthcare entities and multiple actions](https://devblogs.microsoft.com/azure-sdk/text-analytics-healthcare-batching/)
+- [Testing the connection to computers in the Active Directory](https://devblogs.microsoft.com/powershell-community/testing-the-connection-to-computers-in-the-active-directory/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
