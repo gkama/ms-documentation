@@ -712,6 +712,7 @@ Microsoft related technologies documentation
 - [Integration with On-Premises Data Sources in Azure Synapse Analytics](https://devblogs.microsoft.com/premier-developer/integration-with-on-premises-data-sources-in-azure-synapse-analytics/)
 - [Using COPY command with Azure Synapse Analytics SQL Dedicated Pool](https://devblogs.microsoft.com/premier-developer/using-copy-command-with-azure-synapse-analytics-sql-dedicated-pool/)
 - [Jupyter in Visual Studio Code – April 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-april-2021-release/)
+- [Windows Community Toolkit for Project Reunion 0.5](https://devblogs.microsoft.com/ifdef-windows/windows-community-toolkit-for-project-reunion-0-5/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
