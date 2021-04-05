@@ -714,6 +714,7 @@ Microsoft related technologies documentation
 - [Using COPY command with Azure Synapse Analytics SQL Dedicated Pool](https://devblogs.microsoft.com/premier-developer/using-copy-command-with-azure-synapse-analytics-sql-dedicated-pool/)
 - [Jupyter in Visual Studio Code – April 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-april-2021-release/)
 - [Windows Community Toolkit for Project Reunion 0.5](https://devblogs.microsoft.com/ifdef-windows/windows-community-toolkit-for-project-reunion-0-5/)
+- [Tuning Servers for Energy Savings](https://devblogs.microsoft.com/sustainable-software/tuning-servers-for-energy-savings/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
