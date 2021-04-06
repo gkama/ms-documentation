@@ -430,6 +430,7 @@ Microsoft related technologies documentation
 - [Dev life is easy with node-mssql](https://devblogs.microsoft.com/azure-sql/dev-life-is-easy-with-node-mssql/)
 - [Text Analytics for analyzing healthcare entities and multiple actions](https://devblogs.microsoft.com/azure-sdk/text-analytics-healthcare-batching/)
 - [Testing the connection to computers in the Active Directory](https://devblogs.microsoft.com/powershell-community/testing-the-connection-to-computers-in-the-active-directory/)
+- [Announcing the new Azure Communication Services Libraries GA](https://devblogs.microsoft.com/azure-sdk/communication-services-ga/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
