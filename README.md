@@ -146,6 +146,7 @@ Microsoft related technologies documentation
 - [Loop alignment in .NET 6](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/)
 - [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/)
 - [Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/)
+- [.NET April 2021 Updates – 5.0.5](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
