@@ -319,6 +319,7 @@ Microsoft related technologies documentation
 - [Delivery Plans 2.0 – We got Style!](https://devblogs.microsoft.com/devops/delivery-plans-2-0-we-got-style/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-02/)
 - [Building Your First GitHub Action](https://devblogs.microsoft.com/devops/building-your-first-github-action/)
+- [Top Stories from the Microsoft DevOps Community – 2021.04.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-09/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
