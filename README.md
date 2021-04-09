@@ -149,6 +149,7 @@ Microsoft related technologies documentation
 - [Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/)
 - [.NET April 2021 Updates – 5.0.5](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/)
 - [.NET 5 NuGet Restore Failures on Linux distributions using NSS or ca-certificates](https://devblogs.microsoft.com/nuget/net-5-nuget-restore-failures-on-linux-distributions-using-nss-or-ca-certificates/)
+- [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
