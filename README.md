@@ -150,6 +150,7 @@ Microsoft related technologies documentation
 - [.NET April 2021 Updates – 5.0.5](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/)
 - [.NET 5 NuGet Restore Failures on Linux distributions using NSS or ca-certificates](https://devblogs.microsoft.com/nuget/net-5-nuget-restore-failures-on-linux-distributions-using-nss-or-ca-certificates/)
 - [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/)
+- [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
