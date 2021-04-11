@@ -39,6 +39,7 @@ Microsoft related technologies documentation
 - [What’s new with GitHub Actions tooling in Visual Studio](https://devblogs.microsoft.com/visualstudio/whats-new-with-github-actions-tooling-in-visual-studio/)
 - [Angular Language Service for Visual Studio Update](https://devblogs.microsoft.com/visualstudio/angular-language-service-for-visual-studio-update/)
 - [Performance Improvements in NuGet](https://devblogs.microsoft.com/visualstudio/performance-improvements-in-nuget/)
+- [Introducing Visual Studio Administrator Updates](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-administrator-updates/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
