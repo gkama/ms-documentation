@@ -729,6 +729,7 @@ Microsoft related technologies documentation
 - [Windows Community Toolkit for Project Reunion 0.5](https://devblogs.microsoft.com/ifdef-windows/windows-community-toolkit-for-project-reunion-0-5/)
 - [Tuning Servers for Energy Savings](https://devblogs.microsoft.com/sustainable-software/tuning-servers-for-energy-savings/)
 - [Remote working: How organizations can achieve their sustainability goals](https://devblogs.microsoft.com/sustainable-software/remote-working-how-organizations-can-achieve-their-sustainability-goals/)
+- [Culture data shouldn’t be considered stable](https://devblogs.microsoft.com/i18n/culture-data-shouldnt-be-considered-stable/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
