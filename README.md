@@ -155,6 +155,7 @@ Microsoft related technologies documentation
 - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/)
 - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/)
 - [ML.NET Survey: Machine Learning in .NET](https://devblogs.microsoft.com/dotnet/ml-net-survey-machine-learning-in-net/)
+- [.NET April 2021 Updates – .NET Core 3.1.14 and .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-core-april-2021-updates/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
