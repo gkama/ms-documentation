@@ -325,6 +325,7 @@ Microsoft related technologies documentation
 - [Building Your First GitHub Action](https://devblogs.microsoft.com/devops/building-your-first-github-action/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-09/)
 - [Azure DevOps Server 2020.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-rc2-now-available/)
+- [April patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-2/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
