@@ -739,6 +739,7 @@ Microsoft related technologies documentation
 - [Tuning Servers for Energy Savings](https://devblogs.microsoft.com/sustainable-software/tuning-servers-for-energy-savings/)
 - [Remote working: How organizations can achieve their sustainability goals](https://devblogs.microsoft.com/sustainable-software/remote-working-how-organizations-can-achieve-their-sustainability-goals/)
 - [Culture data shouldn’t be considered stable](https://devblogs.microsoft.com/i18n/culture-data-shouldnt-be-considered-stable/)
+- [Understanding Indirect ToF Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
