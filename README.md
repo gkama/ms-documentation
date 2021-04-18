@@ -331,6 +331,7 @@ Microsoft related technologies documentation
 - [Azure DevOps Server 2020.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-rc2-now-available/)
 - [April patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-2/)
 - [Personal Access Token Lifecycle APIs now publicly available](https://devblogs.microsoft.com/devops/personal-access-token-lifecycle-apis-now-publicly-available/)
+- [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
