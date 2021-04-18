@@ -41,6 +41,7 @@ Microsoft related technologies documentation
 - [Performance Improvements in NuGet](https://devblogs.microsoft.com/visualstudio/performance-improvements-in-nuget/)
 - [Introducing Visual Studio Administrator Updates](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-administrator-updates/)
 - [Visual Studio 2019 v16.10 Preview 2 Releases Today](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-preview-2/)
+- [Managed Memory Dump Analyzers](https://devblogs.microsoft.com/visualstudio/managed-memory-dump-analyzers/)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
