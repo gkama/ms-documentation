@@ -1,6 +1,7 @@
 Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
 - [Visual Studio Online (browser)](https://docs.microsoft.com/en-us/visualstudio/online/quickstarts/browser)
 - [Visual Studio Online](https://code.visualstudio.com/docs/remote/vsonline)
 - [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
