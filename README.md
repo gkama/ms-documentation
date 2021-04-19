@@ -241,6 +241,7 @@ Microsoft related technologies documentation
 - [What’s next for System.Text.Json?](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 # Azure DevOps
+- [AzureFunBytes Episode 36 – Intro to Chaos Engineering with Ana Margarita Medina!](https://devblogs.microsoft.com/devops/azurefunbytes-episode-36-intro-to-chaos-engineering-with-ana-margarita-medina/)
 - [Introducing the new pull request experience for Azure Repos](https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/)
 - [Top Stories from the Microsoft DevOps Community – 2020.03.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-20/)
 - [Syntax guidance for basic Markdown usage](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
