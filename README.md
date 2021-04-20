@@ -337,6 +337,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [AzureFunBytes Episode 36 – Intro to Chaos Engineering with Ana Margarita Medina!](https://devblogs.microsoft.com/devops/azurefunbytes-episode-36-intro-to-chaos-engineering-with-ana-margarita-medina/)
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
 - [Microsoft: Cloud services demand up 775 percent; prioritization rules in place due to COVID-19](https://www.zdnet.com/article/microsoft-cloud-services-demand-up-775-percent-prioritization-rules-in-place-due-to-covid-19/)
 - [Mock your APIs in Azure API Management and speed up development](https://devblogs.microsoft.com/premier-developer/mock-your-apis-in-azure-api-management-and-speed-up-development/)
