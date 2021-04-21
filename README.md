@@ -747,6 +747,7 @@ Microsoft related technologies documentation
 - [Culture data shouldn’t be considered stable](https://devblogs.microsoft.com/i18n/culture-data-shouldnt-be-considered-stable/)
 - [Understanding Indirect ToF Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 - [Is a User A Local Administrator?](https://devblogs.microsoft.com/powershell-community/is-a-user-a-local-administrator/)
+- [Getting insights from the data in your Cosmos DB databases](https://devblogs.microsoft.com/startups/corlife-insights-cosmosdb/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
