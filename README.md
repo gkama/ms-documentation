@@ -71,6 +71,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [What’s new in dotnet monitor](https://devblogs.microsoft.com/dotnet/whats-new-in-dotnet-monitor/)
 - [Loop alignment in .NET 6](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6-2/)
 - [Announcing .NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 - [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
