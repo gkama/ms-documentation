@@ -750,6 +750,7 @@ Microsoft related technologies documentation
 - [Understanding Indirect ToF Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 - [Is a User A Local Administrator?](https://devblogs.microsoft.com/powershell-community/is-a-user-a-local-administrator/)
 - [Getting insights from the data in your Cosmos DB databases](https://devblogs.microsoft.com/startups/corlife-insights-cosmosdb/)
+- [Introducing EcoQoS](https://devblogs.microsoft.com/performance-diagnostics/introducing-ecoqos/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
