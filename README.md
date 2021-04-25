@@ -341,6 +341,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Deploying an Azure APIM Self-Hosted Gateway](https://devblogs.microsoft.com/premier-developer/deploying-an-azure-apim-self-hosted-gateway/)
 - [Improve your Azure Cosmos DB .NET SDK initialization](https://devblogs.microsoft.com/cosmosdb/improve-net-sdk-initialization/)
 - [AzureFunBytes Episode 36 – Intro to Chaos Engineering with Ana Margarita Medina!](https://devblogs.microsoft.com/devops/azurefunbytes-episode-36-intro-to-chaos-engineering-with-ana-margarita-medina/)
 - [Azure file shares and Azure file sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s)
