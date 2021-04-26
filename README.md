@@ -522,6 +522,7 @@ Microsoft related technologies documentation
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
+- [Usability improvements to the Timing Capture Metrics View](https://devblogs.microsoft.com/pix/usability-improvements-to-the-timing-capture-metrics-view/)
 - [Windows Package Manager v0.3 Preview](https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/)
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
 - [Elephant - cross platform note taking](https://www.ghacks.net/2020/03/13/elephant-is-an-open-source-cross-platform-note-taking-application/)
