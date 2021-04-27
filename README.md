@@ -524,6 +524,7 @@ Microsoft related technologies documentation
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
+- [Workshop Spotlight: Developing Cross-Platform Web Apps with ASP.NET Core](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-developing-cross-platform-web-apps-with-asp-net-core/)
 - [Usability improvements to the Timing Capture Metrics View](https://devblogs.microsoft.com/pix/usability-improvements-to-the-timing-capture-metrics-view/)
 - [Windows Package Manager v0.3 Preview](https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/)
 - [Google docs API overview](https://developers.google.com/docs/api/how-tos/overview)
