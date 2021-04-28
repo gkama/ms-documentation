@@ -343,6 +343,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Help Plan the Next Phase of the Azure SDK](https://devblogs.microsoft.com/azure-sdk/planning-2021/)
 - [AzureFunBytes – Azure Static Web Apps with Anthony Chu!](https://devblogs.microsoft.com/devops/azurefunbytes-azure-static-web-apps-with-nthonychu)
 - [Deploying an Azure APIM Self-Hosted Gateway](https://devblogs.microsoft.com/premier-developer/deploying-an-azure-apim-self-hosted-gateway/)
 - [Improve your Azure Cosmos DB .NET SDK initialization](https://devblogs.microsoft.com/cosmosdb/improve-net-sdk-initialization/)
