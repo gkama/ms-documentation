@@ -344,6 +344,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Help Plan the Next Phase of the Azure SDK](https://devblogs.microsoft.com/azure-sdk/planning-2021/)
 - [Video: Microsoft Azure and Kubernetes—Managed Kubernetes at hyperscale](https://devblogs.microsoft.com/azuregov/video-microsoft-azure-and-kubernetes-managed-kubernetes-at-hyperscale/)
 - [Help Plan the Next Phase of the Azure SDK](https://devblogs.microsoft.com/azure-sdk/planning-2021/)
 - [AzureFunBytes – Azure Static Web Apps with Anthony Chu!](https://devblogs.microsoft.com/devops/azurefunbytes-azure-static-web-apps-with-nthonychu)
