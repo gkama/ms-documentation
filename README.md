@@ -523,6 +523,7 @@ Microsoft related technologies documentation
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 # Blogs
+- [Join us live on Twitch (and YouTube)](https://devblogs.microsoft.com/surface-duo/twitch-youtube-foldable-dual-screen-android-videos/)
 - [Jon Skeet's coding blog](https://codeblog.jonskeet.uk/)
 - [Chris Hanna](http://blog.chaxa.com/)
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
