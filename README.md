@@ -246,6 +246,7 @@ Microsoft related technologies documentation
 - [What’s next for System.Text.Json?](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 # Azure DevOps
+- [Delivery Plans 2.0 is now GA!](https://devblogs.microsoft.com/devops/delivery-plans-2-0-is-now-ga/)
 - [Rearchitecting for MicroServices: Featuring Windows & Linux Containers](https://devblogs.microsoft.com/devops/rearchitecting-for-microservices-featuring-windows-linux-containers/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-23/)
 - [Workshop Spotlight: DevOps Fundamentals](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-devops-fundamentals/)
