@@ -769,6 +769,7 @@ Microsoft related technologies documentation
 - [Is a User A Local Administrator?](https://devblogs.microsoft.com/powershell-community/is-a-user-a-local-administrator/)
 - [Getting insights from the data in your Cosmos DB databases](https://devblogs.microsoft.com/startups/corlife-insights-cosmosdb/)
 - [Introducing EcoQoS](https://devblogs.microsoft.com/performance-diagnostics/introducing-ecoqos/)
+- [Converting previous versions of Timing Captures](https://devblogs.microsoft.com/pix/converting-previous-versions-of-timing-captures/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
