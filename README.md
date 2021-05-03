@@ -771,6 +771,7 @@ Microsoft related technologies documentation
 - [Getting insights from the data in your Cosmos DB databases](https://devblogs.microsoft.com/startups/corlife-insights-cosmosdb/)
 - [Introducing EcoQoS](https://devblogs.microsoft.com/performance-diagnostics/introducing-ecoqos/)
 - [Converting previous versions of Timing Captures](https://devblogs.microsoft.com/pix/converting-previous-versions-of-timing-captures/)
+- [Pure Virtual C++ 2021 is Today](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2021-is-today/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
