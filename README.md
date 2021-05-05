@@ -246,6 +246,7 @@ Microsoft related technologies documentation
 - [What’s next for System.Text.Json?](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 # Azure DevOps
+- [On-Prem To The Cloud (episode 7): Migrating to Azure SQL](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-episode-7-migrating-to-azure-sql/)
 - [IPv6 fencing Conditional Access Policies now supported](https://devblogs.microsoft.com/devops/ipv6-fencing-conditional-access-policies-now-supported/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-30/)
 - [Delivery Plans 2.0 is now GA!](https://devblogs.microsoft.com/devops/delivery-plans-2-0-is-now-ga/)
