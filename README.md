@@ -44,6 +44,7 @@ Microsoft related technologies documentation
 - [Visual Studio 2019 v16.10 Preview 2 Releases Today](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-preview-2/)
 - [Managed Memory Dump Analyzers](https://devblogs.microsoft.com/visualstudio/managed-memory-dump-analyzers/)
 - [Python in Visual Studio Code – April 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2021-release/)
+- [Resolving extension issues with bisect](https://code.visualstudio.com/blogs/2021/02/16/extension-bisect)
 
 # C#
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
