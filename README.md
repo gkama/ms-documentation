@@ -349,6 +349,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Meeting CMMC Level 3 on Azure](https://devblogs.microsoft.com/azuregov/meeting-cmmc-level-3-on-azure/)
 - [Zero Trust in Azure for government](https://devblogs.microsoft.com/azuregov/zero-trust-in-azure-for-government/)
 - [Azure Event Grid, Event Hubs, and Service Bus Library Improvements](https://devblogs.microsoft.com/azure-sdk/messaging-sdks/)
 - [Help Plan the Next Phase of the Azure SDK](https://devblogs.microsoft.com/azure-sdk/planning-2021/)
