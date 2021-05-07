@@ -245,6 +245,7 @@ Microsoft related technologies documentation
 - [Creating a game art asset pipeline in .NET](https://devblogs.microsoft.com/dotnet/creating-a-game-art-asset-pipeline-in-net/)
 - [Localize .NET applications with machine-translation](https://devblogs.microsoft.com/dotnet/localize-net-applications-with-machine-translation/)
 - [What’s next for System.Text.Json?](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
+- [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
 
 # Azure DevOps
 - [On-Prem To The Cloud (episode 7): Migrating to Azure SQL](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-episode-7-migrating-to-azure-sql/)
