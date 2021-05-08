@@ -72,6 +72,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/)
 - [.NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022/)
 - [Conversation about crossgen2](https://devblogs.microsoft.com/dotnet/conversation-about-crossgen2/)
 - [What’s new in dotnet monitor](https://devblogs.microsoft.com/dotnet/whats-new-in-dotnet-monitor/)
