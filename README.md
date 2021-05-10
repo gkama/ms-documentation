@@ -483,6 +483,7 @@ Microsoft related technologies documentation
 - [Announcing Azure STIG solution templates to accelerate compliance for DoD](https://devblogs.microsoft.com/azuregov/announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/)
 - [Azure SDK Release (April 2021)](https://devblogs.microsoft.com/azure-sdk/april-release-2021/)
 - [April 28: Top cloud cyber defense tactics for government](https://devblogs.microsoft.com/azuregov/april-28-top-cloud-cyber-defense-tactics-for-government/)
+- [Cassandra API Recommendations for Java](https://devblogs.microsoft.com/cosmosdb/cassandra-api-java/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
