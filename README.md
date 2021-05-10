@@ -250,6 +250,7 @@ Microsoft related technologies documentation
 - [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2021.05.07](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-05-07/)
 - [Intro of DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)
 - [On-Prem To The Cloud (episode 7): Migrating to Azure SQL](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-episode-7-migrating-to-azure-sql/)
 - [IPv6 fencing Conditional Access Policies now supported](https://devblogs.microsoft.com/devops/ipv6-fencing-conditional-access-policies-now-supported/)
