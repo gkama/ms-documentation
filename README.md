@@ -168,6 +168,7 @@ Microsoft related technologies documentation
 - [ML.NET Survey: Machine Learning in .NET](https://devblogs.microsoft.com/dotnet/ml-net-survey-machine-learning-in-net/)
 - [.NET April 2021 Updates – .NET Core 3.1.14 and .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-core-april-2021-updates/)
 - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework.](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/)
+- [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
