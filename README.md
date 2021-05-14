@@ -794,6 +794,7 @@ Microsoft related technologies documentation
 - [Converting previous versions of Timing Captures](https://devblogs.microsoft.com/pix/converting-previous-versions-of-timing-captures/)
 - [Pure Virtual C++ 2021 is Today](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2021-is-today/)
 - [C++ coroutines: Converting among tasks that use the same promise](https://devblogs.microsoft.com/oldnewthing/20210503-00/?p=105173)
+- [The Pylance language server has reached stable!](https://devblogs.microsoft.com/python/pylance-has-reached-stable/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
