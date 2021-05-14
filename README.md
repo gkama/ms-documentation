@@ -360,6 +360,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Observability for Event Stream Processing with Azure Functions, Event Hubs, and Application Insights](https://devblogs.microsoft.com/cse/2021/05/13/observability-for-event-stream-processing-with-azure-functions-event-hubs-and-application-insights/)
 - [Meeting CMMC Level 3 on Azure](https://devblogs.microsoft.com/azuregov/meeting-cmmc-level-3-on-azure/)
 - [Zero Trust in Azure for government](https://devblogs.microsoft.com/azuregov/zero-trust-in-azure-for-government/)
 - [Azure Event Grid, Event Hubs, and Service Bus Library Improvements](https://devblogs.microsoft.com/azure-sdk/messaging-sdks/)
