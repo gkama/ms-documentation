@@ -362,6 +362,7 @@ Microsoft related technologies documentation
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
 
 # Azure
+- [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
 - [SQL Server 2019 on RHEL8 container now available on Iron Bank-DoD’s Centralized Artifacts Repository](https://devblogs.microsoft.com/azuregov/sql-server-2019-on-rhel8-container-now-available-on-iron-bank-dods-centralized-artifacts-repository/)
 - [Introducing the Azure SDK for Python (Conda) **Preview**](https://devblogs.microsoft.com/azure-sdk/python-conda-sdk-preview/)
 - [Observability for Event Stream Processing with Azure Functions, Event Hubs, and Application Insights](https://devblogs.microsoft.com/cse/2021/05/13/observability-for-event-stream-processing-with-azure-functions-event-hubs-and-application-insights/)
