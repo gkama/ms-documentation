@@ -46,6 +46,7 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – April 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2021-release/)
 - [Python in Visual Studio Code – May 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/)
 - [Resolving extension issues with bisect](https://code.visualstudio.com/blogs/2021/02/16/extension-bisect)
+- [Java on Visual Studio Code Update – April 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-april-2021/)
 
 # C#
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
