@@ -75,6 +75,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Conversation about PGO](https://devblogs.microsoft.com/dotnet/conversation-about-pgo/)
 - [.NET Framework May 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-security-and-quality-rollup-updates/)
 - [.NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28](https://devblogs.microsoft.com/dotnet/net-may-2021/)
 - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/)
