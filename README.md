@@ -803,6 +803,7 @@ Microsoft related technologies documentation
 - [The Pylance language server has reached stable!](https://devblogs.microsoft.com/python/pylance-has-reached-stable/)
 - [Announcing PSDesiredStateConfiguration on PowerShell Gallery](https://devblogs.microsoft.com/powershell/announcing-psdesiredstateconfiguration-on-powershell-gallery/)
 - [Why did Windows 95 keep window coordinates at multiples of 8?](https://devblogs.microsoft.com/oldnewthing/20210517-00/?p=105217)
+- [Foldable SlidingPaneLayout](https://devblogs.microsoft.com/surface-duo/foldable-slidingpanelayout-preview/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
