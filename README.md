@@ -497,6 +497,7 @@ Microsoft related technologies documentation
 - [Azure SDK Release (April 2021)](https://devblogs.microsoft.com/azure-sdk/april-release-2021/)
 - [April 28: Top cloud cyber defense tactics for government](https://devblogs.microsoft.com/azuregov/april-28-top-cloud-cyber-defense-tactics-for-government/)
 - [Cassandra API Recommendations for Java](https://devblogs.microsoft.com/cosmosdb/cassandra-api-java/)
+- [Azure Service Bus Topic filters and actions](https://docs.microsoft.com/en-us/azure/service-bus-messaging/topic-filters)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
