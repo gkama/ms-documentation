@@ -885,3 +885,4 @@ Microsoft related technologies documentation
 
 ## Startup
 - [How we use Nuxt at The NuxtJS Company](https://devblogs.microsoft.com/startups/nuxt/)
+- [Simplifying web apps with Static Web Apps](https://devblogs.microsoft.com/startups/simplifying-web-apps-with-static-web-apps/)
