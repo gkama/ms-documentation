@@ -363,6 +363,7 @@ Microsoft related technologies documentation
 - [April patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-2/)
 - [Personal Access Token Lifecycle APIs now publicly available](https://devblogs.microsoft.com/devops/personal-access-token-lifecycle-apis-now-publicly-available/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-16/)
+- [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
 - [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
