@@ -260,6 +260,7 @@ Microsoft related technologies documentation
 - [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2021.05.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-05-21/)
 - [Top Stories from the Microsoft DevOps Community – 2021.05.14](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-05-14/)
 - [On Prem To the Cloud: Let’s Rub Some DevOps On It! (Ep 3)](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-lets-rub-some-devops-on-it-ep-3/)
 - [AzureFunBytes – Microsoft Identity with Christos Matskas!](https://devblogs.microsoft.com/devops/azurefunbytes-microsoft-identity-with-christos-matskas/)
