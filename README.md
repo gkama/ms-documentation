@@ -504,6 +504,7 @@ Microsoft related technologies documentation
 - [April 28: Top cloud cyber defense tactics for government](https://devblogs.microsoft.com/azuregov/april-28-top-cloud-cyber-defense-tactics-for-government/)
 - [Cassandra API Recommendations for Java](https://devblogs.microsoft.com/cosmosdb/cassandra-api-java/)
 - [Azure Service Bus Topic filters and actions](https://docs.microsoft.com/en-us/azure/service-bus-messaging/topic-filters)
+- [Deploying AI with Azure IoT Hub](https://devblogs.microsoft.com/startups/deploying-ai-with-azure-iot-hub/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
