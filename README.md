@@ -370,6 +370,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Announced at Build: new capabilities for data security and workload optimization](https://devblogs.microsoft.com/cosmosdb/build-2021-secure-and-optimize/)
 - [Announced at Build: new options to build and test apps at any scale](https://devblogs.microsoft.com/cosmosdb/build-2021-apps-at-any-scale/)
 - [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
 - [SQL Server 2019 on RHEL8 container now available on Iron Bank-DoD’s Centralized Artifacts Repository](https://devblogs.microsoft.com/azuregov/sql-server-2019-on-rhel8-container-now-available-on-iron-bank-dods-centralized-artifacts-repository/)
