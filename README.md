@@ -819,6 +819,7 @@ Microsoft related technologies documentation
 - [Why did Windows 95 keep window coordinates at multiples of 8?](https://devblogs.microsoft.com/oldnewthing/20210517-00/?p=105217)
 - [Foldable SlidingPaneLayout](https://devblogs.microsoft.com/surface-duo/foldable-slidingpanelayout-preview/)
 - [Announcing PlatyPS 2.0.0-Preview1](https://devblogs.microsoft.com/powershell/announcing-platyps-2-0-0-preview1/)
+- [Using TensorFlow-DirectML for online courses](https://devblogs.microsoft.com/windowsai/using-tensorflow-directml-for-online-courses/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
