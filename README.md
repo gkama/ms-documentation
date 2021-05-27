@@ -77,6 +77,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/)
 - [Announcing .NET MAUI Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/)
 - [Show dotnet: Investigating Alpine Linux CVEs in .NET container images](https://devblogs.microsoft.com/dotnet/show-dotnet-investigating-alpine-linux-cves-in-net-container-images/)
 - [.NET Framework May 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview/)
