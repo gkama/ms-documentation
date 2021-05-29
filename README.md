@@ -374,6 +374,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure Cosmos DB API for MongoDB in the cloud – now easier than ever](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-api-for-mongodb-in-the-cloud-now-easier-than-ever/)
 - [Announced at Build: new capabilities for data security and workload optimization](https://devblogs.microsoft.com/cosmosdb/build-2021-secure-and-optimize/)
 - [Announced at Build: new options to build and test apps at any scale](https://devblogs.microsoft.com/cosmosdb/build-2021-apps-at-any-scale/)
 - [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
