@@ -823,6 +823,7 @@ Microsoft related technologies documentation
 - [Foldable SlidingPaneLayout](https://devblogs.microsoft.com/surface-duo/foldable-slidingpanelayout-preview/)
 - [Announcing PlatyPS 2.0.0-Preview1](https://devblogs.microsoft.com/powershell/announcing-platyps-2-0-0-preview1/)
 - [Using TensorFlow-DirectML for online courses](https://devblogs.microsoft.com/windowsai/using-tensorflow-directml-for-online-courses/)
+- [Build your own machine learning model and integrate it with Windows ML application!](https://devblogs.microsoft.com/windowsai/build-your-own-machine-learning-model-and-integrate-it-with-windows-ml-application/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
