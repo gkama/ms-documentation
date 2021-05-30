@@ -573,6 +573,7 @@ Microsoft related technologies documentation
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
+- [Time of Flight Camera – System Overview](https://devblogs.microsoft.com/azure-depth-platform/time-of-flight-camera-system-overview/)
 - [How Do I Discover Changes to an AD Group’s Membership](https://devblogs.microsoft.com/powershell-community/how-do-i-discover-changes-to-an-ad-groups-membership/)
 - [2x-3x Performance Improvements for Debug Builds](https://devblogs.microsoft.com/cppblog/2x-3x-performance-improvements-for-debug-builds/)
 - [Connect with Microsoft Remotely at PyCon 2021!](https://devblogs.microsoft.com/python/connect-with-microsoft-remotely-at-pycon-2021/)
