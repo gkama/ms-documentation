@@ -827,6 +827,7 @@ Microsoft related technologies documentation
 - [Announcing PlatyPS 2.0.0-Preview1](https://devblogs.microsoft.com/powershell/announcing-platyps-2-0-0-preview1/)
 - [Using TensorFlow-DirectML for online courses](https://devblogs.microsoft.com/windowsai/using-tensorflow-directml-for-online-courses/)
 - [Build your own machine learning model and integrate it with Windows ML application!](https://devblogs.microsoft.com/windowsai/build-your-own-machine-learning-model-and-integrate-it-with-windows-ml-application/)
+- [Microsoft Quantum challenge at QCHack 2021: Recap](https://devblogs.microsoft.com/qsharp/microsoft-quantum-challenge-at-qchack-2021-recap/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
