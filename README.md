@@ -184,6 +184,7 @@ Microsoft related technologies documentation
 - [.NET April 2021 Updates – .NET Core 3.1.14 and .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-core-april-2021-updates/)
 - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework.](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/)
 - [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/)
+- [Building Contextual Experiences w/ Blazor](https://devblogs.microsoft.com/aspnet/building-contextual-experiences-w-blazor/)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
