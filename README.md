@@ -79,6 +79,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Conversation about .NET interop](https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/)
 - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/)
 - [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/)
 - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/)
