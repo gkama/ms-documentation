@@ -1,6 +1,7 @@
 Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/)
 - [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/)
 - [Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today!](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-and-v16-11-preview-1-are-available-today/)
 - [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
