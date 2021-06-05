@@ -271,6 +271,7 @@ Microsoft related technologies documentation
 - [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
 
 # Azure DevOps
+- [New policies to restrict personal access token scope and lifespan](https://devblogs.microsoft.com/devops/new-policies-to-restrict-personal-access-token-scope-and-lifespan/)
 - [AzureFunBytes – Intro to Bicep](https://devblogs.microsoft.com/devops/azurefunbytes-intro-to-bicep/)
 - [Top Stories from the Microsoft DevOps Community – 2021.05.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-05-21/)
 - [Top Stories from the Microsoft DevOps Community – 2021.05.14](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-05-14/)
