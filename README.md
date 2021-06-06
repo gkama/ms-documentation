@@ -838,6 +838,7 @@ Microsoft related technologies documentation
 - [Microsoft Quantum challenge at QCHack 2021: Recap](https://devblogs.microsoft.com/qsharp/microsoft-quantum-challenge-at-qchack-2021-recap/)
 - [RichEdit HTML Support](https://devblogs.microsoft.com/math-in-office/richedit-html-support/)
 - [Switching from LaTeX to UnicodeMath Input Mode](https://devblogs.microsoft.com/math-in-office/switching-from-latex-to-unicodemath-input-mode/)
+- [Windows ML NuGet Package 1.8.0 official release](https://devblogs.microsoft.com/windowsai/windows-ml-nuget-package-1-8-0-official-release/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
