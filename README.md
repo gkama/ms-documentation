@@ -839,6 +839,7 @@ Microsoft related technologies documentation
 - [RichEdit HTML Support](https://devblogs.microsoft.com/math-in-office/richedit-html-support/)
 - [Switching from LaTeX to UnicodeMath Input Mode](https://devblogs.microsoft.com/math-in-office/switching-from-latex-to-unicodemath-input-mode/)
 - [Windows ML NuGet Package 1.8.0 official release](https://devblogs.microsoft.com/windowsai/windows-ml-nuget-package-1-8-0-official-release/)
+- [The current state of affairs and a roadmap for effective carbon-accounting tooling in AI](https://devblogs.microsoft.com/sustainable-software/the-current-state-of-affairs-and-a-roadmap-for-effective-carbon-accounting-tooling-in-ai/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
