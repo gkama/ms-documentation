@@ -80,6 +80,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/)
 - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/)
 - [Conversation about .NET interop](https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/)
 - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/)
