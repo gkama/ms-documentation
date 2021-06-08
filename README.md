@@ -841,6 +841,7 @@ Microsoft related technologies documentation
 - [Switching from LaTeX to UnicodeMath Input Mode](https://devblogs.microsoft.com/math-in-office/switching-from-latex-to-unicodemath-input-mode/)
 - [Windows ML NuGet Package 1.8.0 official release](https://devblogs.microsoft.com/windowsai/windows-ml-nuget-package-1-8-0-official-release/)
 - [The current state of affairs and a roadmap for effective carbon-accounting tooling in AI](https://devblogs.microsoft.com/sustainable-software/the-current-state-of-affairs-and-a-roadmap-for-effective-carbon-accounting-tooling-in-ai/)
+- [Case Study: Davidovich Group keeps its eyes on inventory with Azure 3D and AI in the cloud.](https://devblogs.microsoft.com/azure-depth-platform/case-study-davidovich-group-keeps-its-eyes-on-inventory-with-azure-3d-and-ai-in-the-cloud/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
