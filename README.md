@@ -80,6 +80,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/)
 - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/)
 - [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/)
 - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/)
