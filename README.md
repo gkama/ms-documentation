@@ -273,6 +273,7 @@ Microsoft related technologies documentation
 - [Localize .NET applications with machine-translation](https://devblogs.microsoft.com/dotnet/localize-net-applications-with-machine-translation/)
 - [What’s next for System.Text.Json?](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 - [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
+- [Show dotnet: Running my .NET nanoFramework for 8 years on a battery](https://devblogs.microsoft.com/dotnet/show-dotnet-running-my-net-nanoframework-for-8-years-on-a-battery/)
 
 # Azure DevOps
 - [Top Stories from the Microsoft DevOps Community – 2021.06.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-04/)
