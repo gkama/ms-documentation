@@ -581,6 +581,7 @@ Microsoft related technologies documentation
 - [Announcing TypeScript 4.3 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/)
 
 # Articles
+- [Do You Really Need Redis? How to Get Away with Just PostgreSQL](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
 - [Microsoft swallows feedback and bangs Visual studio online preview into shape](https://devclass.com/2020/03/02/microsoft-swallows-feedback-bangs-visual-studio-online-preview-into-shape/)
 - [Godot + C# + Visual Studio Code](https://www.youtube.com/watch?v=Do0YZocTu80)
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
