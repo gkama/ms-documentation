@@ -277,6 +277,7 @@ Microsoft related technologies documentation
 - [ML.NET Survey: Model Explainability](https://devblogs.microsoft.com/dotnet/ml-net-survey-model-explainability/)
 
 # Azure DevOps
+- [AzureFunBytes Presents: Migrating Your Data – Create Your Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-create-your-cosmos-db/)
 - [Top Stories from the Microsoft DevOps Community – 2021.06.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-04/)
 - [New policies to restrict personal access token scope and lifespan](https://devblogs.microsoft.com/devops/new-policies-to-restrict-personal-access-token-scope-and-lifespan/)
 - [AzureFunBytes – Intro to Bicep](https://devblogs.microsoft.com/devops/azurefunbytes-intro-to-bicep/)
