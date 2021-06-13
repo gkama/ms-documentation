@@ -853,6 +853,7 @@ Microsoft related technologies documentation
 - [Case Study: Davidovich Group keeps its eyes on inventory with Azure 3D and AI in the cloud.](https://devblogs.microsoft.com/azure-depth-platform/case-study-davidovich-group-keeps-its-eyes-on-inventory-with-azure-3d-and-ai-in-the-cloud/)
 - [Bringing AI to the Edge While Future-Proofing Deployments at Scale](https://devblogs.microsoft.com/startups/bringing-ai-to-the-edge-while-future-proofing-deployments-at-scale/)
 - [CTO Choices – What happens when you need to choose your database?](https://devblogs.microsoft.com/startups/cto-choices-what-happens-when-you-need-to-choose-your-database/)
+- [Case Study: dnata digitally transforms air cargo ground operations with Microsoft 3D technology and Azure.](https://devblogs.microsoft.com/azure-depth-platform/case-study-dnata-digitally-transforms-air-cargo-ground-operations-with-microsoft-3d-technology-and-azure/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
