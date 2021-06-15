@@ -857,6 +857,7 @@ Microsoft related technologies documentation
 - [Case Study: dnata digitally transforms air cargo ground operations with Microsoft 3D technology and Azure.](https://devblogs.microsoft.com/azure-depth-platform/case-study-dnata-digitally-transforms-air-cargo-ground-operations-with-microsoft-3d-technology-and-azure/)
 - [CPU Sample collection issue fixed in a recent Windows Update](https://devblogs.microsoft.com/pix/cpu-sample-collection-issue-fixed-in-a-recent-windows-update/)
 - [Measuring the carbon impact of web browsing](https://devblogs.microsoft.com/sustainable-software/measuring-the-carbon-impact-of-web-browsing/)
+- [Entity Disambiguation Using Search Engine](https://devblogs.microsoft.com/cse/2021/06/14/entity-disambiguation-using-search-engine/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
