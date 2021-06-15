@@ -52,6 +52,7 @@ Microsoft related technologies documentation
 - [Java on Visual Studio Code Update – April 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-april-2021/)
 - [Developing on a M1 Mac with Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/developing-on-a-m1-mac-with-visual-studio-for-mac/)
 - [First look at profiling tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2019)
+- [Jupyter in Visual Studio Code – June 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-june-2021-release/)
 
 # C#
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
