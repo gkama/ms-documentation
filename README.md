@@ -860,6 +860,7 @@ Microsoft related technologies documentation
 - [CPU Sample collection issue fixed in a recent Windows Update](https://devblogs.microsoft.com/pix/cpu-sample-collection-issue-fixed-in-a-recent-windows-update/)
 - [Measuring the carbon impact of web browsing](https://devblogs.microsoft.com/sustainable-software/measuring-the-carbon-impact-of-web-browsing/)
 - [Entity Disambiguation Using Search Engine](https://devblogs.microsoft.com/cse/2021/06/14/entity-disambiguation-using-search-engine/)
+- [Getting Started with Graph API and Graph Explorer](https://devblogs.microsoft.com/premier-developer/getting-started-with-graph-api-and-graph-explorer/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
