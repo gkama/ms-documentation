@@ -393,6 +393,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Announcing the new Azure Data Tables Libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-data-tables-libraries/)
 - [Introducing the new Azure Function Extension Libraries **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-function-extension-libraries-beta/)
 - [Azure Cosmos DB API for MongoDB in the cloud – now easier than ever](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-api-for-mongodb-in-the-cloud-now-easier-than-ever/)
 - [Announced at Build: new capabilities for data security and workload optimization](https://devblogs.microsoft.com/cosmosdb/build-2021-secure-and-optimize/)
