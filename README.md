@@ -276,6 +276,7 @@ Microsoft related technologies documentation
 - [Add a README to Your NuGet Package](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/)
 - [Show dotnet: Running my .NET nanoFramework for 8 years on a battery](https://devblogs.microsoft.com/dotnet/show-dotnet-running-my-net-nanoframework-for-8-years-on-a-battery/)
 - [ML.NET Survey: Model Explainability](https://devblogs.microsoft.com/dotnet/ml-net-survey-model-explainability/)
+- [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
 - [AzureFunBytes – Intro to Azure Data Factory with @KromerBigData](https://devblogs.microsoft.com/devops/azurefunbytes-intro-to-azure-data-factory-with-kromerbigdata/)
