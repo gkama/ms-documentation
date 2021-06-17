@@ -394,6 +394,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Introducing new Azure Monitor libraries for querying Logs and Metrics **Beta**](https://devblogs.microsoft.com/azure-sdk/new-azure-monitor-libraries-query/)
 - [Getting acquainted with Azure Synapse SQL Serverless](https://devblogs.microsoft.com/premier-developer/getting-acquainted-with-azure-synapse-sql-serverless/)
 - [Announcing the new Azure Data Tables Libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-data-tables-libraries/)
 - [Introducing the new Azure Function Extension Libraries **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-function-extension-libraries-beta/)
