@@ -57,6 +57,7 @@ Microsoft related technologies documentation
 - [Jupyter in Visual Studio Code – June 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-june-2021-release/)
 
 # C#
+- [Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
 - [Walkthrough: Creating and Using Dynamic Objects (C# and Visual Basic)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/walkthrough-creating-and-using-dynamic-objects)
