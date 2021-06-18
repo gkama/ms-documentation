@@ -1,6 +1,7 @@
 Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/)
 - [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/)
 - [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/)
 - [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/)
