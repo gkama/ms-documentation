@@ -285,6 +285,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2021.06.18](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-18/)
 - [AzureFunBytes – Intro to Azure Data Factory with @KromerBigData](https://devblogs.microsoft.com/devops/azurefunbytes-intro-to-azure-data-factory-with-kromerbigdata/)
 - [Top Stories from the Microsoft DevOps Community – 2021.06.11](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-11/)
 - [AzureFunBytes Presents: Migrating Your Data – Create Your Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-create-your-cosmos-db/)
