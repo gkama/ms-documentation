@@ -402,6 +402,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Accelerating authorization: DoD mission owners can now coordinate with Microsoft on eMASS](https://devblogs.microsoft.com/azuregov/accelerating-authorization-dod-mission-owners-can-now-coordinate-with-microsoft-on-emass/)
 - [Introducing new Azure Monitor libraries for querying Logs and Metrics **Beta**](https://devblogs.microsoft.com/azure-sdk/new-azure-monitor-libraries-query/)
 - [Getting acquainted with Azure Synapse SQL Serverless](https://devblogs.microsoft.com/premier-developer/getting-acquainted-with-azure-synapse-sql-serverless/)
 - [Announcing the new Azure Data Tables Libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-data-tables-libraries/)
