@@ -402,6 +402,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [AzureFunBytes – @Azure Data Factory Security with @narainabhishek](https://devblogs.microsoft.com/devops/azurefunbytes-azure-data-factory-security-with-narainabhishek/)
 - [Azure SDK Release (June 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2021/)
 - [Accelerating authorization: DoD mission owners can now coordinate with Microsoft on eMASS](https://devblogs.microsoft.com/azuregov/accelerating-authorization-dod-mission-owners-can-now-coordinate-with-microsoft-on-emass/)
 - [Introducing new Azure Monitor libraries for querying Logs and Metrics **Beta**](https://devblogs.microsoft.com/azure-sdk/new-azure-monitor-libraries-query/)
