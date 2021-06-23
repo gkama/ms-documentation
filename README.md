@@ -877,6 +877,7 @@ Microsoft related technologies documentation
 - [Measuring the carbon impact of web browsing](https://devblogs.microsoft.com/sustainable-software/measuring-the-carbon-impact-of-web-browsing/)
 - [Entity Disambiguation Using Search Engine](https://devblogs.microsoft.com/cse/2021/06/14/entity-disambiguation-using-search-engine/)
 - [Getting Started with Graph API and Graph Explorer](https://devblogs.microsoft.com/premier-developer/getting-started-with-graph-api-and-graph-explorer/)
+- [How to Change the Start Page for the Edge Browser](https://devblogs.microsoft.com/powershell-community/how-to-change-the-start-page-for-the-edge-browser/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
