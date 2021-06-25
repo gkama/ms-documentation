@@ -83,6 +83,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview-2/)
 - [Package Validation](https://devblogs.microsoft.com/dotnet/package-validation/)
 - [ML.NET June Updates](https://devblogs.microsoft.com/dotnet/ml-net-june-updates-model-builder/)
 - [Announcing .NET MAUI Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/)
