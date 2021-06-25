@@ -405,6 +405,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure SDK management library highlights from Microsoft Build](https://devblogs.microsoft.com/azure-sdk/azure-sdk-management-libraries-highlights/)
 - [Optimizing costs with the Azure Cosmos DB integrated cache](https://devblogs.microsoft.com/cosmosdb/optimizing-costs-with-integrated-cache/)
 - [AzureFunBytes – @Azure Data Factory Security with @narainabhishek](https://devblogs.microsoft.com/devops/azurefunbytes-azure-data-factory-security-with-narainabhishek/)
 - [Azure SDK Release (June 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2021/)
