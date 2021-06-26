@@ -406,6 +406,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [How to create your personal blog with Gatsby & Azure Static Web Apps – Azure Tips & Tricks](https://devblogs.microsoft.com/devops/how-to-create-your-personal-blog-with-gatsby-azure-static-web-apps-azure-tips-tricks/)
 - [Azure SDK management library highlights from Microsoft Build](https://devblogs.microsoft.com/azure-sdk/azure-sdk-management-libraries-highlights/)
 - [Optimizing costs with the Azure Cosmos DB integrated cache](https://devblogs.microsoft.com/cosmosdb/optimizing-costs-with-integrated-cache/)
 - [AzureFunBytes – @Azure Data Factory Security with @narainabhishek](https://devblogs.microsoft.com/devops/azurefunbytes-azure-data-factory-security-with-narainabhishek/)
