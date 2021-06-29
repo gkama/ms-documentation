@@ -409,6 +409,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [WPA: Table & Graph Configurations (Part 2)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-2/)
 - [How to create your personal blog with Gatsby & Azure Static Web Apps – Azure Tips & Tricks](https://devblogs.microsoft.com/devops/how-to-create-your-personal-blog-with-gatsby-azure-static-web-apps-azure-tips-tricks/)
 - [Azure SDK management library highlights from Microsoft Build](https://devblogs.microsoft.com/azure-sdk/azure-sdk-management-libraries-highlights/)
 - [Optimizing costs with the Azure Cosmos DB integrated cache](https://devblogs.microsoft.com/cosmosdb/optimizing-costs-with-integrated-cache/)
