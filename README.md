@@ -409,7 +409,6 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
-- [WPA: Table & Graph Configurations (Part 2)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-2/)
 - [How to create your personal blog with Gatsby & Azure Static Web Apps – Azure Tips & Tricks](https://devblogs.microsoft.com/devops/how-to-create-your-personal-blog-with-gatsby-azure-static-web-apps-azure-tips-tricks/)
 - [Azure SDK management library highlights from Microsoft Build](https://devblogs.microsoft.com/azure-sdk/azure-sdk-management-libraries-highlights/)
 - [Optimizing costs with the Azure Cosmos DB integrated cache](https://devblogs.microsoft.com/cosmosdb/optimizing-costs-with-integrated-cache/)
@@ -888,6 +887,7 @@ Microsoft related technologies documentation
 - [Getting Started with Graph API and Graph Explorer](https://devblogs.microsoft.com/premier-developer/getting-started-with-graph-api-and-graph-explorer/)
 - [How to Change the Start Page for the Edge Browser](https://devblogs.microsoft.com/powershell-community/how-to-change-the-start-page-for-the-edge-browser/)
 - [Developing for Android on Windows](https://devblogs.microsoft.com/surface-duo/android-developers-windows/)
+- [WPA: Table & Graph Configurations (Part 2)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
