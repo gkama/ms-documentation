@@ -953,7 +953,10 @@ Microsoft related technologies documentation
 - [Getting Started with Docker: Facts You Should Know](https://itnext.io/getting-started-with-docker-facts-you-should-know-d000e5815598)
 - [Dockerize Your Development Environment in VS Code](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
 - [Dockerfile Security Best Practices](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
-
+  
+## Creating startups
+- [How to build a Multi Aspect Sentiment Insights engine](https://devblogs.microsoft.com/startups/how-to-build-a-multi-aspect-sentiment-insights-engine/)
+  
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
 - [Entity GraphQL](https://github.com/lukemurray/EntityGraphQL)
