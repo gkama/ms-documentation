@@ -293,6 +293,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2021.07.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-02/)
 - [AzureFunBytes Episode 45 – Observing @Azure with @DatadogHQ, with guest @ryan_maclean](https://devblogs.microsoft.com/devops/azurefunbytes-episode-45-observing-azure-with-datadoghq-with-guest-ryan_maclean/)
 - [Top Stories from the Microsoft DevOps Community – 2021.06.25](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-25/)
 - [DevOps Dojo – Experiential Learning](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
