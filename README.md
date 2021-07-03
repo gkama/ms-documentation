@@ -611,6 +611,7 @@ Microsoft related technologies documentation
 - [Announcing the New TypeScript Handbook](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-handbook/)
 - [Announcing TypeScript 4.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/)
 - [Announcing TypeScript 4.3 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/)
+- [Announcing TypeScript 4.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-beta/)
 
 # Articles
 - [Do You Really Need Redis? How to Get Away with Just PostgreSQL](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
