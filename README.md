@@ -961,6 +961,7 @@ Microsoft related technologies documentation
   
 ## Creating startups
 - [How to build a Multi Aspect Sentiment Insights engine](https://devblogs.microsoft.com/startups/how-to-build-a-multi-aspect-sentiment-insights-engine/)
+- [Building CorLife’s “Lockdown Countdown” website using Azure Static Web Apps](https://devblogs.microsoft.com/startups/corlife-aswa/)
   
 ## GraphQL
 - [GraphQL Code](https://graphql.org/code/#c-net)
