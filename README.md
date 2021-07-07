@@ -599,6 +599,7 @@ Microsoft related technologies documentation
   
 ## Engineering@Microsoft Blog
 - [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
+- [Separating the signal from the noise](https://devblogs.microsoft.com/engineering-at-microsoft/separating-the-signal-from-the-noise/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
