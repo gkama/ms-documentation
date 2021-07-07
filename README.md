@@ -596,6 +596,9 @@ Microsoft related technologies documentation
 - [Announcing PowerShell 7.1](https://devblogs.microsoft.com/powershell/announcing-powershell-7-1/)
 - [New way to learn](https://docs.microsoft.com/en-us/learn/)
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
+  
+## Engineering@Microsoft Blog
+- [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
