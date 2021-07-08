@@ -416,6 +416,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure Form Recognizer now processes IDs in Azure Government](https://devblogs.microsoft.com/azuregov/azure-form-recognizer-now-processes-ids-in-azure-government/)
 - [Getting started with Kafka Connector for Azure Cosmos DB using Docker](https://devblogs.microsoft.com/cosmosdb/kafka-azure-cosmos-db-docker/)
 - [Announcing availability of end-to-end Azure Notification Hubs samples using React native](https://devblogs.microsoft.com/azure-notification-hubs/announcing-availability-of-end-to-end-azure-notification-hubs-samples-using-react-native/)
 - [How to create your personal blog with Gatsby & Azure Static Web Apps – Azure Tips & Tricks](https://devblogs.microsoft.com/devops/how-to-create-your-personal-blog-with-gatsby-azure-static-web-apps-azure-tips-tricks/)
