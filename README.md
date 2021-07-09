@@ -905,6 +905,7 @@ Microsoft related technologies documentation
 - [Developing for Android on Windows](https://devblogs.microsoft.com/surface-duo/android-developers-windows/)
 - [WPA: Table & Graph Configurations (Part 2)](https://devblogs.microsoft.com/performance-diagnostics/wpa-table-graph-configurations-part-2/)
 - [Symbol loading improvements to PIX Timing Captures](https://devblogs.microsoft.com/pix/symbol-loading-improvements-to-pix-timing-captures/)
+- [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
