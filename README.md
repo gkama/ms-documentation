@@ -86,6 +86,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [API versioning extension with ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/api-versioning-extension-with-asp-net-core-odata-8/)
 - [What’s new in Windows Forms in .NET 6.0 Preview 5](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0-preview-5/)
 - [Setting up an autologger with WPR](https://devblogs.microsoft.com/performance-diagnostics/setting-up-an-autologger-with-wpr/)
 - [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview-2/)
