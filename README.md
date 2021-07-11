@@ -908,6 +908,7 @@ Microsoft related technologies documentation
 - [Symbol loading improvements to PIX Timing Captures](https://devblogs.microsoft.com/pix/symbol-loading-improvements-to-pix-timing-captures/)
 - [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions/)
 - [Hover-ink over dual-screens](https://devblogs.microsoft.com/surface-duo/pen-ink-sdk-hover/)
+- [On the perils of holding a lock across a coroutine suspension point, part 2: Nonrecursive mutexes](https://devblogs.microsoft.com/oldnewthing/20210708-00/?p=105420)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
