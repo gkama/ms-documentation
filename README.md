@@ -926,6 +926,7 @@ Microsoft related technologies documentation
 - [Linux Foundation offering Kubernetes certifications courses and exams as demand spikes](https://www.techrepublic.com/article/linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/)
 - [Using Vision AI to extract data from complex documents](https://devblogs.microsoft.com/startups/using-vision-ai-to-extract-data-from-complex-documents/)
 - [Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel](https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/)
+- [Why do smart pointers null out the wrapped pointer before destroying it?](https://devblogs.microsoft.com/oldnewthing/20210712-00/?p=105429)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
