@@ -297,6 +297,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-09/)
 - [AzureFunBytes Episode 37 – Microsoft Power Apps with @98codes](https://devblogs.microsoft.com/devops/azurefunbytes-episode-37-microsoft-power-apps-with-98codes/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-02/)
