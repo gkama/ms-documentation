@@ -1,6 +1,7 @@
 Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Design your Web Forms apps with Web Live Preview in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/)
 - [Debug code with force run to cursor](https://devblogs.microsoft.com/visualstudio/debug-with-force-run-to-cursor/)
 - [Visual Studio 2022 Preview 2 is out!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-2-is-out/)
 - [Let’s make Visual Studio even more accessible together.](https://devblogs.microsoft.com/visualstudio/lets-make-visual-studio-even-more-accessible-together/)
