@@ -920,6 +920,7 @@ Microsoft related technologies documentation
 - [On the perils of holding a lock across a coroutine suspension point, part 2: Nonrecursive mutexes](https://devblogs.microsoft.com/oldnewthing/20210708-00/?p=105420)
 - [The AutoSubstitution rewrite step](https://devblogs.microsoft.com/qsharp/the-autosubstitution-rewrite-step/)
 - [DirectStorage Developer Preview now available!](https://devblogs.microsoft.com/directx/directstorage-developer-preview-now-available/)
+- [Windows Graphics News – 2021 Q2](https://devblogs.microsoft.com/directx/windowsgraphicsnews2021q2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
