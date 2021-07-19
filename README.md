@@ -921,6 +921,7 @@ Microsoft related technologies documentation
 - [The AutoSubstitution rewrite step](https://devblogs.microsoft.com/qsharp/the-autosubstitution-rewrite-step/)
 - [DirectStorage Developer Preview now available!](https://devblogs.microsoft.com/directx/directstorage-developer-preview-now-available/)
 - [Windows Graphics News – 2021 Q2](https://devblogs.microsoft.com/directx/windowsgraphicsnews2021q2/)
+- [New TwoPaneLayout Compose library preview](https://devblogs.microsoft.com/surface-duo/jetpack-compose-twopanelayout-preview/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
