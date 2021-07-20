@@ -1009,3 +1009,6 @@ Microsoft related technologies documentation
 - [Introducing EcoQoS](https://devblogs.microsoft.com/sustainable-software/introducing-ecoqos/)
 - [How we use Nuxt at The NuxtJS Company](https://devblogs.microsoft.com/startups/nuxt/)
 - [Simplifying web apps with Static Web Apps](https://devblogs.microsoft.com/startups/simplifying-web-apps-with-static-web-apps/)
+  
+## Engineering @ Microsoft
+- [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
