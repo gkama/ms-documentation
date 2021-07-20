@@ -89,6 +89,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Conversation about skills and learning](https://devblogs.microsoft.com/dotnet/conversation-about-skills-and-learning/)
 - [.NET July 2021 Updates – 5.0.8 and 3.1.17](https://devblogs.microsoft.com/dotnet/net-july-2021/)
 - [Up & Running w/ OData in ASP.NET 6](https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/)
 - [API versioning extension with ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/api-versioning-extension-with-asp-net-core-odata-8/)
