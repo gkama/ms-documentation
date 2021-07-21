@@ -924,6 +924,7 @@ Microsoft related technologies documentation
 - [DirectStorage Developer Preview now available!](https://devblogs.microsoft.com/directx/directstorage-developer-preview-now-available/)
 - [Windows Graphics News – 2021 Q2](https://devblogs.microsoft.com/directx/windowsgraphicsnews2021q2/)
 - [New TwoPaneLayout Compose library preview](https://devblogs.microsoft.com/surface-duo/jetpack-compose-twopanelayout-preview/)
+- [Getting Started with GPT-3 in Power Platform](https://devblogs.microsoft.com/premier-developer/getting-started-with-gpt-3-in-power-platform/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
