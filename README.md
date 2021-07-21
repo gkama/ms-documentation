@@ -990,6 +990,9 @@ Microsoft related technologies documentation
 - [Dockerfile Security Best Practices](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
   
 ## Creating startups
+- [Introducing EcoQoS](https://devblogs.microsoft.com/sustainable-software/introducing-ecoqos/)
+- [How we use Nuxt at The NuxtJS Company](https://devblogs.microsoft.com/startups/nuxt/)
+- [Simplifying web apps with Static Web Apps](https://devblogs.microsoft.com/startups/simplifying-web-apps-with-static-web-apps/)
 - [How to build a Multi Aspect Sentiment Insights engine](https://devblogs.microsoft.com/startups/how-to-build-a-multi-aspect-sentiment-insights-engine/)
 - [Building CorLife’s “Lockdown Countdown” website using Azure Static Web Apps](https://devblogs.microsoft.com/startups/corlife-aswa/)
   
@@ -1005,11 +1008,6 @@ Microsoft related technologies documentation
 - [Pluralsight](https://www.pluralsight.com/)
 - [Braincert](https://www.braincert.com/)
 - [A Cloud Guru: Introduction to Azure](https://learn.acloud.guru/course/intro-to-azure/dashboard)
-
-## Startup
-- [Introducing EcoQoS](https://devblogs.microsoft.com/sustainable-software/introducing-ecoqos/)
-- [How we use Nuxt at The NuxtJS Company](https://devblogs.microsoft.com/startups/nuxt/)
-- [Simplifying web apps with Static Web Apps](https://devblogs.microsoft.com/startups/simplifying-web-apps-with-static-web-apps/)
   
 ## Engineering @ Microsoft
 - [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
