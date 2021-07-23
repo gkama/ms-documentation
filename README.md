@@ -90,6 +90,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [Conversation about skills and learning](https://devblogs.microsoft.com/dotnet/conversation-about-skills-and-learning/)
 - [.NET July 2021 Updates – 5.0.8 and 3.1.17](https://devblogs.microsoft.com/dotnet/net-july-2021/)
 - [Up & Running w/ OData in ASP.NET 6](https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/)
