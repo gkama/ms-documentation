@@ -928,6 +928,7 @@ Microsoft related technologies documentation
 - [New TwoPaneLayout Compose library preview](https://devblogs.microsoft.com/surface-duo/jetpack-compose-twopanelayout-preview/)
 - [Getting Started with GPT-3 in Power Platform](https://devblogs.microsoft.com/premier-developer/getting-started-with-gpt-3-in-power-platform/)
 - [Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/)
+- [eBook sample with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/jetpack-window-manager-ebook-sample/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
