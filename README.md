@@ -584,6 +584,7 @@ Microsoft related technologies documentation
 - [Azure Service Bus Topic filters and actions](https://docs.microsoft.com/en-us/azure/service-bus-messaging/topic-filters)
 - [Deploying AI with Azure IoT Hub](https://devblogs.microsoft.com/startups/deploying-ai-with-azure-iot-hub/)
 - [Video | Better together for US government: Azure Security Center + Azure Sentinel](https://devblogs.microsoft.com/azuregov/video-better-together-for-us-government-azure-security-center-azure-sentinel/)
+- [Schema reference guide for trigger and action types in Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
