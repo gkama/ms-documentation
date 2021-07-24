@@ -218,6 +218,7 @@ Microsoft related technologies documentation
 - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework.](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/)
 - [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/)
 - [Building Contextual Experiences w/ Blazor](https://devblogs.microsoft.com/aspnet/building-contextual-experiences-w-blazor/)
+- [TOP 5 .NET MAUI new features](https://dev.to/dotnetsafer/top-5-net-maui-new-features-1mlb)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
