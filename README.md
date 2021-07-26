@@ -933,6 +933,7 @@ Microsoft related technologies documentation
 - [Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/)
 - [eBook sample with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/jetpack-window-manager-ebook-sample/)
 - [The history of passing a null pointer as the key name to Reg­Open­Key­Ex](https://devblogs.microsoft.com/oldnewthing/20210723-00/?p=105479)
+- [RichEdit Font Binding](https://devblogs.microsoft.com/math-in-office/richedit-font-binding/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
