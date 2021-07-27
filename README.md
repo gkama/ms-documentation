@@ -967,6 +967,7 @@ Microsoft related technologies documentation
 - [Creating Modules](https://www.terraform.io/docs/language/modules/develop/index.html)
   
 ## Bicep
+- [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 - [az bicep](https://docs.microsoft.com/en-us/cli/azure/bicep?view=azure-cli-latest)
 
 ## GitHub repositories
