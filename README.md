@@ -935,6 +935,7 @@ Microsoft related technologies documentation
 - [eBook sample with Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/jetpack-window-manager-ebook-sample/)
 - [The history of passing a null pointer as the key name to Reg­Open­Key­Ex](https://devblogs.microsoft.com/oldnewthing/20210723-00/?p=105479)
 - [RichEdit Font Binding](https://devblogs.microsoft.com/math-in-office/richedit-font-binding/)
+- [Twitter misdetected the 2011 Build conference keynote as a denial-of-service attack](https://devblogs.microsoft.com/oldnewthing/20210727-00/?p=105485)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
@@ -964,6 +965,9 @@ Microsoft related technologies documentation
 - [Announcing Databricks Labs Terraform integration on AWS and Azure](https://databricks.com/blog/2020/09/11/announcing-databricks-labs-terraform-integration-on-aws-and-azure.html)
 - [Rapid cloud foundation buildout and workload deployment using Terraform](https://cloudblog-withgoogle-com.cdn.ampproject.org/v/s/cloudblog.withgoogle.com/products/devops-sre/using-the-cloud-foundation-toolkit-with-terraform/amp/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
 - [Creating Modules](https://www.terraform.io/docs/language/modules/develop/index.html)
+  
+## Bicep
+- [az bicep](https://docs.microsoft.com/en-us/cli/azure/bicep?view=azure-cli-latest)
 
 ## GitHub repositories
 - [Swashbuckle.AspNetCore.Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcoreswagger)
