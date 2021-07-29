@@ -306,6 +306,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
 - [AzureFunBytes – @Azure Arc Enabled Data Services with @sqldbawithbeard](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16/)
