@@ -943,6 +943,7 @@ Microsoft related technologies documentation
 - [Twitter misdetected the 2011 Build conference keynote as a denial-of-service attack](https://devblogs.microsoft.com/oldnewthing/20210727-00/?p=105485)
 - [Workshop Spotlight: Secure DevOps – Application Security Principles and Practices](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-secure-devops-application-security-principles-and-practices/)
 - [How to Update or Add a Registry Key Value with PowerShell](https://devblogs.microsoft.com/powershell-community/how-to-update-or-add-a-registry-key-value-with-powershell/)
+- [Install WSL with a single command now available in Windows 10 version 2004 and higher](https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
