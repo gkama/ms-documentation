@@ -942,6 +942,7 @@ Microsoft related technologies documentation
 - [RichEdit Font Binding](https://devblogs.microsoft.com/math-in-office/richedit-font-binding/)
 - [Twitter misdetected the 2011 Build conference keynote as a denial-of-service attack](https://devblogs.microsoft.com/oldnewthing/20210727-00/?p=105485)
 - [Workshop Spotlight: Secure DevOps – Application Security Principles and Practices](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-secure-devops-application-security-principles-and-practices/)
+- [How to Update or Add a Registry Key Value with PowerShell](https://devblogs.microsoft.com/powershell-community/how-to-update-or-add-a-registry-key-value-with-powershell/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
