@@ -945,6 +945,7 @@ Microsoft related technologies documentation
 - [Workshop Spotlight: Secure DevOps – Application Security Principles and Practices](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-secure-devops-application-security-principles-and-practices/)
 - [How to Update or Add a Registry Key Value with PowerShell](https://devblogs.microsoft.com/powershell-community/how-to-update-or-add-a-registry-key-value-with-powershell/)
 - [Install WSL with a single command now available in Windows 10 version 2004 and higher](https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher/)
+- [How can I figure out which object is being hosted in an instance of dllhost?](https://devblogs.microsoft.com/oldnewthing/20210802-00/?p=105510)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
