@@ -309,6 +309,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [AzureFunBytes Episode 49 – Intro to @Azure SQL with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-49-intro-to-azure-sql-with-stevenmurawski/)
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
 - [AzureFunBytes – @Azure Arc Enabled Data Services with @sqldbawithbeard](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard/)
