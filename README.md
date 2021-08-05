@@ -1040,3 +1040,4 @@ Microsoft related technologies documentation
   
 ## Engineering @ Microsoft
 - [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
+- [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
