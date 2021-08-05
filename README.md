@@ -310,6 +310,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [AzureFunBytes Presents: Migrating Your Data – Migrate your MongoDB data to Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-migrate-your-mongodb-data-to-cosmos-db/)
 - [AzureFunBytes Episode 49 – Intro to @Azure SQL with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-49-intro-to-azure-sql-with-stevenmurawski/)
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
