@@ -952,6 +952,7 @@ Microsoft related technologies documentation
 - [How can I figure out which object is being hosted in an instance of dllhost?](https://devblogs.microsoft.com/oldnewthing/20210802-00/?p=105510)
 - [Announcing SecretManagement 1.1 GA](https://devblogs.microsoft.com/powershell/announcing-secretmanagement-1-1-ga/)
 - [What is a static Windows Runtime class, how should I express it, and when should I use it?](https://devblogs.microsoft.com/oldnewthing/20210804-00/?p=105516)
+- [Introducing Microsoft GCToolkit](https://devblogs.microsoft.com/java/introducing-microsoft-gctoolkit/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
