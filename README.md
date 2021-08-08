@@ -971,6 +971,7 @@ Microsoft related technologies documentation
 - [Using Vision AI to extract data from complex documents](https://devblogs.microsoft.com/startups/using-vision-ai-to-extract-data-from-complex-documents/)
 - [Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel](https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/)
 - [Why do smart pointers null out the wrapped pointer before destroying it?](https://devblogs.microsoft.com/oldnewthing/20210712-00/?p=105429)
+- [Quantum software development using the QDK](https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
