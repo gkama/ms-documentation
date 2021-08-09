@@ -599,6 +599,7 @@ Microsoft related technologies documentation
 - [Deploying AI with Azure IoT Hub](https://devblogs.microsoft.com/startups/deploying-ai-with-azure-iot-hub/)
 - [Video | Better together for US government: Azure Security Center + Azure Sentinel](https://devblogs.microsoft.com/azuregov/video-better-together-for-us-government-azure-security-center-azure-sentinel/)
 - [Schema reference guide for trigger and action types in Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
+- [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
@@ -631,6 +632,7 @@ Microsoft related technologies documentation
 ## Engineering@Microsoft Blog
 - [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
 - [Separating the signal from the noise](https://devblogs.microsoft.com/engineering-at-microsoft/separating-the-signal-from-the-noise/)
+- [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
 
 # Windows Blog
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
@@ -1045,7 +1047,3 @@ Microsoft related technologies documentation
 - [Pluralsight](https://www.pluralsight.com/)
 - [Braincert](https://www.braincert.com/)
 - [A Cloud Guru: Introduction to Azure](https://learn.acloud.guru/course/intro-to-azure/dashboard)
-  
-## Engineering @ Microsoft
-- [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
-- [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
