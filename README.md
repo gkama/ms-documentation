@@ -959,6 +959,7 @@ Microsoft related technologies documentation
 - [Introducing Microsoft GCToolkit](https://devblogs.microsoft.com/java/introducing-microsoft-gctoolkit/)
 - [Python in Visual Studio Code – August 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2021-release/)
 - [Windows Community Toolkit 7.1 Preview Release!](https://devblogs.microsoft.com/ifdef-windows/windows-community-toolkit-7-1-preview-release/)
+- [PowerShell for Visual Studio Code August 2021 Update](https://devblogs.microsoft.com/powershell/powershell-for-visual-studio-code-august-2021-update/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
