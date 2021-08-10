@@ -64,6 +64,7 @@ Microsoft related technologies documentation
 - [First look at profiling tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2019)
 - [Jupyter in Visual Studio Code – June 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-june-2021-release/)
 - [Gain +10 Debugging for Unity with Visual Studio](https://devblogs.microsoft.com/visualstudio/gain-10-debugging-for-unity-with-visual-studio/)
+- [Java on Visual Studio Code Update – July 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2021/)
 
 # C#
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
