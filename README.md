@@ -93,6 +93,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/)
 - [.NET Framework July 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-cumulative-update-preview/)
 - [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/)
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
