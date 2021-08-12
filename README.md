@@ -1,6 +1,7 @@
 Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Multi-repo Support in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-repo-support-in-visual-studio/)
 - [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/)
 - [Load Only the Projects You Need with Solution Filters](https://devblogs.microsoft.com/visualstudio/load-only-the-projects-you-need-with-solution-filters/)
 - [Speed up your .NET and C++ development with Hot Reload in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/speed-up-your-dotnet-and-cplusplus-development-with-hot-reload-in-visual-studio-2022/)
