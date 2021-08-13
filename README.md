@@ -95,6 +95,7 @@ Microsoft related technologies documentation
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/)
 - [.NET August 2021 Updates – 5.0.9, 3.1.18, 2.1.29](https://devblogs.microsoft.com/dotnet/net-august-2021/)
 - [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/)
 - [.NET Framework July 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-cumulative-update-preview/)
