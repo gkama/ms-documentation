@@ -451,6 +451,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Now Generally Available – Azure Cosmos DB Kafka Source & Sink Connectors](https://devblogs.microsoft.com/cosmosdb/now-generally-available-azure-cosmos-db-kafka-source-sink-connectors/)
 - [Targeting Random Users](https://devblogs.microsoft.com/azure-notification-hubs/targeting-random-users/)
 - [Azure SDK Release (July 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2021/)
 - [STIG solution templates now available in Azure Government Secret for Windows, Linux, and more](https://devblogs.microsoft.com/azuregov/stig-solution-templates-now-available-in-azure-government-secret-for-windows-linux-and-more/)
