@@ -453,6 +453,7 @@ Microsoft related technologies documentation
 
 # Azure
 - [Now Generally Available – Azure Cosmos DB Kafka Source & Sink Connectors](https://devblogs.microsoft.com/cosmosdb/now-generally-available-azure-cosmos-db-kafka-source-sink-connectors/)
+- [How Do ToF Based Depth Cameras Improve Our Lives?](https://devblogs.microsoft.com/azure-depth-platform/how-do-tof-based-depth-cameras-improve-our-lives/)
 - [Targeting Random Users](https://devblogs.microsoft.com/azure-notification-hubs/targeting-random-users/)
 - [Azure SDK Release (July 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2021/)
 - [STIG solution templates now available in Azure Government Secret for Windows, Linux, and more](https://devblogs.microsoft.com/azuregov/stig-solution-templates-now-available-in-azure-government-secret-for-windows-linux-and-more/)
