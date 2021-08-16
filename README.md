@@ -4,6 +4,7 @@ Microsoft related technologies documentation
 - [Multi-repo Support in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-repo-support-in-visual-studio/)
 - [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/)
 - [Load Only the Projects You Need with Solution Filters](https://devblogs.microsoft.com/visualstudio/load-only-the-projects-you-need-with-solution-filters/)
+- [The New JavaScript/TypeScript Experience in Visual Studio 2022 Preview 3](https://devblogs.microsoft.com/visualstudio/the-new-javascript-typescript-experience-in-vs-2022-preview-3/)
 - [Speed up your .NET and C++ development with Hot Reload in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/speed-up-your-dotnet-and-cplusplus-development-with-hot-reload-in-visual-studio-2022/)
 - [Join the Visual Studio 2022 for Mac Private Preview](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview/)
 - [Design your Web Forms apps with Web Live Preview in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/)
