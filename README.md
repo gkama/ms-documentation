@@ -273,10 +273,11 @@ Microsoft related technologies documentation
 - [Web host fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-3.1)
 - [.NET Core March 2020 Updates – 2.1.17 and 3.1.3](https://devblogs.microsoft.com/dotnet/net-core-march-2020/)
 
-### .NET Core 3.0
+### .NET Core 3.0 or earlier
 - [3.0 end of life](https://devblogs.microsoft.com/dotnet/net-core-3-0-end-of-life/)
 - [3.0.3 release notes](https://github.com/dotnet/core/blob/master/release-notes/3.0/3.0.3/3.0.3.md)
 - [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio)
+- [.NET Core 2.1 container images will be deleted from Docker Hub](https://devblogs.microsoft.com/dotnet/net-core-2-1-container-images-will-be-deleted-from-docker-hub/)
 
 # Entity Framework Core
 - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/)
