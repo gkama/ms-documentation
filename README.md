@@ -455,6 +455,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure Service Bus for .NET deep dive resources](https://devblogs.microsoft.com/azure-sdk/azure-service-bus-for-net-deep-dive-resources/)
 - [Now Generally Available – Azure Cosmos DB Kafka Source & Sink Connectors](https://devblogs.microsoft.com/cosmosdb/now-generally-available-azure-cosmos-db-kafka-source-sink-connectors/)
 - [How Do ToF Based Depth Cameras Improve Our Lives?](https://devblogs.microsoft.com/azure-depth-platform/how-do-tof-based-depth-cameras-improve-our-lives/)
 - [Targeting Random Users](https://devblogs.microsoft.com/azure-notification-hubs/targeting-random-users/)
