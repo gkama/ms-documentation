@@ -71,6 +71,7 @@ Microsoft related technologies documentation
 - [Java on Visual Studio Code Update – July 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2021/)
 
 # C#
+- [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
 - [Walkthrough: Creating and Using Dynamic Objects (C# and Visual Basic)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/walkthrough-creating-and-using-dynamic-objects)
