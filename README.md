@@ -325,6 +325,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20/)
 - [Developer Best Practices – Structuring Your Repository for Static Web Apps](https://devblogs.microsoft.com/devops/developer-best-practices-structuring-your-repository-for-static-web-apps/)
 - [Top Stories from the Microsoft DevOps Community – 2021.08.06](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-06/)
 - [AzureFunBytes Presents: Migrating Your Data – Migrate your MongoDB data to Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-migrate-your-mongodb-data-to-cosmos-db/)
