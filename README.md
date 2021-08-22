@@ -982,7 +982,8 @@ Microsoft related technologies documentation
 - [Python in Visual Studio Code – August 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2021-release/)
 - [Windows Community Toolkit 7.1 Preview Release!](https://devblogs.microsoft.com/ifdef-windows/windows-community-toolkit-7-1-preview-release/)
 - [PowerShell for Visual Studio Code August 2021 Update](https://devblogs.microsoft.com/powershell/powershell-for-visual-studio-code-august-2021-update/)
-- [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops/
+- [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops/)
+- [PIX 2108.18: New programmatic capture APIs and much more](https://devblogs.microsoft.com/pix/pix-2108-18/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
