@@ -650,6 +650,7 @@ Microsoft related technologies documentation
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
   
 ## Engineering@Microsoft Blog
+- [Large-scale distributed builds with Microsoft Build Accelerator](https://devblogs.microsoft.com/engineering-at-microsoft/large-scale-distributed-builds-with-microsoft-build-accelerator/)
 - [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
 - [Separating the signal from the noise](https://devblogs.microsoft.com/engineering-at-microsoft/separating-the-signal-from-the-noise/)
 - [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
