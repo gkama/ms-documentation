@@ -985,6 +985,7 @@ Microsoft related technologies documentation
 - [PowerShell for Visual Studio Code August 2021 Update](https://devblogs.microsoft.com/powershell/powershell-for-visual-studio-code-august-2021-update/)
 - [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops/)
 - [PIX 2108.18: New programmatic capture APIs and much more](https://devblogs.microsoft.com/pix/pix-2108-18/)
+- [Build a Machine Learning Data Analysis Application](https://devblogs.microsoft.com/windowsai/build-a-machine-learning-data-analysis-application/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
