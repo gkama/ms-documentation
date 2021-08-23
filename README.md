@@ -986,6 +986,9 @@ Microsoft related technologies documentation
 - [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops/)
 - [PIX 2108.18: New programmatic capture APIs and much more](https://devblogs.microsoft.com/pix/pix-2108-18/)
 - [Build a Machine Learning Data Analysis Application](https://devblogs.microsoft.com/windowsai/build-a-machine-learning-data-analysis-application/)
+- [Why do smart pointers null out the wrapped pointer before destroying it?](https://devblogs.microsoft.com/oldnewthing/20210712-00/?p=105429)
+- [Quantum software development using the QDK](https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/)
+- [The Journey to Accessible Apps: Making Visual Text Accessible](https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
@@ -1001,8 +1004,6 @@ Microsoft related technologies documentation
 - [Linux Foundation offering Kubernetes certifications courses and exams as demand spikes](https://www.techrepublic.com/article/linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/)
 - [Using Vision AI to extract data from complex documents](https://devblogs.microsoft.com/startups/using-vision-ai-to-extract-data-from-complex-documents/)
 - [Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel](https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/)
-- [Why do smart pointers null out the wrapped pointer before destroying it?](https://devblogs.microsoft.com/oldnewthing/20210712-00/?p=105429)
-- [Quantum software development using the QDK](https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
