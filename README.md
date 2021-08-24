@@ -326,6 +326,7 @@ Microsoft related technologies documentation
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
 
 # Azure DevOps
+- [AzureFunBytes Episode 52 – Intro to @GraphQL with @Adron of @HasuraHQ](https://devblogs.microsoft.com/devops/azurefunbytes-episode-52-intro-to-graphql-with-adron-of-hasurahq/)
 - [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20/)
 - [Developer Best Practices – Structuring Your Repository for Static Web Apps](https://devblogs.microsoft.com/devops/developer-best-practices-structuring-your-repository-for-static-web-apps/)
 - [Top Stories from the Microsoft DevOps Community – 2021.08.06](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-06/)
