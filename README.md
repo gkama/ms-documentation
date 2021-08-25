@@ -460,6 +460,7 @@ Microsoft related technologies documentation
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure SDK Release (August 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2021/)
 - [New and updated regulatory compliance policy initiatives for NIST, FedRAMP, DoD in Azure, Azure Government](https://devblogs.microsoft.com/azuregov/new-and-updated-regulatory-compliance-policy-initiatives-for-nist-fedramp-dod-in-azure-azure-government/)
 - [Azure Service Bus for .NET deep dive resources](https://devblogs.microsoft.com/azure-sdk/azure-service-bus-for-net-deep-dive-resources/)
 - [Now Generally Available – Azure Cosmos DB Kafka Source & Sink Connectors](https://devblogs.microsoft.com/cosmosdb/now-generally-available-azure-cosmos-db-kafka-source-sink-connectors/)
