@@ -993,6 +993,7 @@ Microsoft related technologies documentation
 - [Why do smart pointers null out the wrapped pointer before destroying it?](https://devblogs.microsoft.com/oldnewthing/20210712-00/?p=105429)
 - [Quantum software development using the QDK](https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/)
 - [The Journey to Accessible Apps: Making Visual Text Accessible](https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/)
+- [GitHub Actions: Reduce duplication with action composition](https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
