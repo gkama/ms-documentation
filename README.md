@@ -326,6 +326,7 @@
 - [Show dotnet: Running my .NET nanoFramework for 8 years on a battery](https://devblogs.microsoft.com/dotnet/show-dotnet-running-my-net-nanoframework-for-8-years-on-a-battery/)
 - [ML.NET Survey: Model Explainability](https://devblogs.microsoft.com/dotnet/ml-net-survey-model-explainability/)
 - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/)
+- [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
 - [Top Stories from the Microsoft DevOps Community – 2021.08.27](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-27/)
