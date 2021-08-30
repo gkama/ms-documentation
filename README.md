@@ -455,4 +455,4 @@
 - [Unit Testing Azure DevOps UI Extensions](https://devblogs.microsoft.com/cse/2021/03/29/unit-testing-azure-devops-ui-extensions/)
 - [Delivery Plans 2.0 – We got Style!](https://devblogs.microsoft.com/devops/delivery-plans-2-0-we-got-style/)
 - [Top Stories from the Microsoft DevOps Community – 2021.04.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-04-02/)
-- [Building Your First GitHub Action](https://devblogs.microsoft.com/devops/build
+- [Building Your First GitHub Action](https://devblogs.microsoft.com/devops/build)
