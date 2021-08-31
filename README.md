@@ -69,6 +69,7 @@
 - [Jupyter in Visual Studio Code – June 2021 Release](https://devblogs.microsoft.com/python/jupyter-in-visual-studio-code-june-2021-release/)
 - [Gain +10 Debugging for Unity with Visual Studio](https://devblogs.microsoft.com/visualstudio/gain-10-debugging-for-unity-with-visual-studio/)
 - [Java on Visual Studio Code Update – July 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2021/)
+- [Optimizing toolbars for your workflow](https://devblogs.microsoft.com/visualstudio/optimizing-toolbars-for-your-workflow/)
 
 # C#
 - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
