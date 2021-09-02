@@ -469,6 +469,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Text Analytics for Extractive Summarization](https://devblogs.microsoft.com/azure-sdk/extractive-summarization-preview/)
 - [Announcing private preview of authorized DoD Cloud Infrastructure as Code for Azure](https://devblogs.microsoft.com/azuregov/announcing-private-preview-of-authorized-dod-cloud-infrastructure-as-code-for-azure/)
 - [Azure SDK Release (August 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2021/)
 - [New and updated regulatory compliance policy initiatives for NIST, FedRAMP, DoD in Azure, Azure Government](https://devblogs.microsoft.com/azuregov/new-and-updated-regulatory-compliance-policy-initiatives-for-nist-fedramp-dod-in-azure-azure-government/)
