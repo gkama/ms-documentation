@@ -1006,6 +1006,7 @@
 - [In C#, how do I get the descriptive text for an HRESULT?](https://devblogs.microsoft.com/oldnewthing/20210826-00/?p=105609)
 - [Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit](https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/)
 - [Workshop Spotlight: GitHub](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-github/)
+- [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
