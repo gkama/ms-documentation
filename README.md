@@ -1012,6 +1012,7 @@
 - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 - [Python in Visual Studio Code – September 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2021-release/)
 - [I declared my Windows Runtime method as accepting an array by reference, but it always arrives empty](https://devblogs.microsoft.com/oldnewthing/20210903-00/?p=105644)
+- [Deconstructing Azure PowerShell APIs with Fiddler](https://devblogs.microsoft.com/premier-developer/deconstructing-azure-powershell-apis-with-fiddler/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
