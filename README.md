@@ -1,4 +1,4 @@
-# AMicrosoft related technologies documentation
+# Microsoft related technologies documentation
 
 # Visual Studio (Code)
 - [Revamped Project Properties UI](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/)
