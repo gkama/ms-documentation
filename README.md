@@ -1015,6 +1015,7 @@
 - [I declared my Windows Runtime method as accepting an array by reference, but it always arrives empty](https://devblogs.microsoft.com/oldnewthing/20210903-00/?p=105644)
 - [Deconstructing Azure PowerShell APIs with Fiddler](https://devblogs.microsoft.com/premier-developer/deconstructing-azure-powershell-apis-with-fiddler/)
 - [Windows Terminal Preview 1.11 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-11-release/)
+- [Ordering asynchronous updates with coroutines, part 2: Restart with hand-off](https://devblogs.microsoft.com/oldnewthing/20210907-00/?p=105659)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
