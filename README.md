@@ -469,6 +469,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/)
 - [Introducing the new Azure SDK Resource Management Libraries for JavaScript and Go](https://devblogs.microsoft.com/azure-sdk/new-azure-sdk-resource-management-libraries-for-javascript-and-go/)
 - [AzureFunBytes Episode 53 – Intro to @PulumiCorp with @mattstratton](https://devblogs.microsoft.com/devops/azurefunbytes-episode-53-intro-to-pulumicorp-with-mattstratton/)
 - [Text Analytics for Extractive Summarization](https://devblogs.microsoft.com/azure-sdk/extractive-summarization-preview/)
