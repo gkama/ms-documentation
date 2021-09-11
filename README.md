@@ -1020,6 +1020,7 @@
 - [Windows Terminal Preview 1.11 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-11-release/)
 - [Ordering asynchronous updates with coroutines, part 2: Restart with hand-off](https://devblogs.microsoft.com/oldnewthing/20210907-00/?p=105659)
 - [Train your machine learning models on any GPU with TensorFlow-DirectML](https://devblogs.microsoft.com/windowsai/train-your-machine-learning-models-on-any-gpu-with-tensorflow-directml/)
+- [Ordering asynchronous updates with coroutines, part 5: Bowing out via cancellation](https://devblogs.microsoft.com/oldnewthing/20210910-00/?p=105669)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
