@@ -249,6 +249,7 @@
 - [Tune in July 29 for .NET Conf: Focus on F#](https://devblogs.microsoft.com/dotnet/tune-in-july-29-for-net-conf-focus-on-f/)
 - [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/)
 - [Learn to build applications with F#](https://devblogs.microsoft.com/dotnet/learn-to-build-applications-with-fsharp/)
+- [dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 
 # .NET Core
 - [.NET Core November 2020 Updates – 3.1.10](https://devblogs.microsoft.com/dotnet/net-core-november-2020/)
