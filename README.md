@@ -104,6 +104,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Update on .NET Multi-platform App UI (.NET MAUI)](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
 - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/)
 - [Support for fetching nested paths in OData Web API](https://devblogs.microsoft.com/odata/support-for-fetching-nested-paths-in-odata-web-api/)
 - [Adding support for $count segment in $filter collections in OData WebAPI](https://devblogs.microsoft.com/odata/adding-support-for-count-segment-in-filter-collections-in-odata-webapi/)
