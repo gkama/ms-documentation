@@ -104,6 +104,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET September 2021 Updates – 5.0.10 and 3.1.19](https://devblogs.microsoft.com/dotnet/september-2021-updates/)
 - [Update on .NET Multi-platform App UI (.NET MAUI)](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
 - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/)
 - [Support for fetching nested paths in OData Web API](https://devblogs.microsoft.com/odata/support-for-fetching-nested-paths-in-odata-web-api/)
