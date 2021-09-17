@@ -104,6 +104,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/)
 - [Announcing .NET 6 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-1/)
 - [.NET September 2021 Updates – 5.0.10 and 3.1.19](https://devblogs.microsoft.com/dotnet/september-2021-updates/)
 - [Update on .NET Multi-platform App UI (.NET MAUI)](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
