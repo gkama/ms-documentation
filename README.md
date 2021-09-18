@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/)
 - [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/)
 - [The Future of Visual Studio Extensibility is Here!](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/)
 - [Revamped Project Properties UI](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/)
