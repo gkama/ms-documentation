@@ -487,6 +487,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure SDK Release (September 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2021/)
 - [Join us: AI in government](https://devblogs.microsoft.com/azuregov/join-us-ai-in-government/)
 - [Getting started with Azure Cosmos DB – end to end example](https://devblogs.microsoft.com/cosmosdb/getting-started-end-to-end-example-1/)
 - [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/)
