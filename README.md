@@ -1043,6 +1043,7 @@
 - [Train your machine learning models on any GPU with TensorFlow-DirectML](https://devblogs.microsoft.com/windowsai/train-your-machine-learning-models-on-any-gpu-with-tensorflow-directml/)
 - [Ordering asynchronous updates with coroutines, part 5: Bowing out via cancellation](https://devblogs.microsoft.com/oldnewthing/20210910-00/?p=105669)
 - [Unity and Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/unity-jetpack-window-manager-beta/)
+- [Gradle  – Deploy Java web apps to Azure in one step!](https://devblogs.microsoft.com/java/gradle-deploy-java-web-apps-to-azure-in-one-step/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
