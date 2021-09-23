@@ -1044,6 +1044,7 @@
 - [Ordering asynchronous updates with coroutines, part 5: Bowing out via cancellation](https://devblogs.microsoft.com/oldnewthing/20210910-00/?p=105669)
 - [Unity and Jetpack Window Manager](https://devblogs.microsoft.com/surface-duo/unity-jetpack-window-manager-beta/)
 - [Gradle  – Deploy Java web apps to Azure in one step!](https://devblogs.microsoft.com/java/gradle-deploy-java-web-apps-to-azure-in-one-step/)
+- [How to Make Use Of PowerShell Profile Files](https://devblogs.microsoft.com/powershell-community/how-to-make-use-of-powershell-profile-files/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
