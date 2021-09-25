@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/)
 - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/)
 - [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/)
 - [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/)
