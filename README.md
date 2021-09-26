@@ -1049,6 +1049,7 @@
 - [Gradle  – Deploy Java web apps to Azure in one step!](https://devblogs.microsoft.com/java/gradle-deploy-java-web-apps-to-azure-in-one-step/)
 - [How to Make Use Of PowerShell Profile Files](https://devblogs.microsoft.com/powershell-community/how-to-make-use-of-powershell-profile-files/)
 - [Introducing the New NuGet.org Package Details Page](https://devblogs.microsoft.com/nuget/introducing-the-new-nuget-org-package-details-page/)
+- [Android emulator multi-touch support](https://devblogs.microsoft.com/surface-duo/android-emulator-multi-touch-support/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
