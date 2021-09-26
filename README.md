@@ -693,6 +693,7 @@
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 ## Engineering@Microsoft Blog
+- [You can’t have security for DevOps until you have DevOps for security](https://devblogs.microsoft.com/engineering-at-microsoft/you-cant-have-security-for-devops-until-you-have-devops-for-security/)
 - [Large-scale distributed builds with Microsoft Build Accelerator](https://devblogs.microsoft.com/engineering-at-microsoft/large-scale-distributed-builds-with-microsoft-build-accelerator/)
 - [Welcome to the Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
 - [Separating the signal from the noise](https://devblogs.microsoft.com/engineering-at-microsoft/separating-the-signal-from-the-noise/)
