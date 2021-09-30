@@ -491,6 +491,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Planning Azure Cosmos DB capacity using vCores, vCPUs, and request rates](https://devblogs.microsoft.com/cosmosdb/cap-planning-vcore/)
 - [New and recently updated documentation for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-and-recently-updated-documentation-for-azure-cosmos-db/)
 - [Enhance local development experience using the Azure Cosmos DB Linux emulator and VS Code](https://devblogs.microsoft.com/cosmosdb/linux-emulator-and-vs-code/)
 - [Azure SDK Release (September 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2021/)
