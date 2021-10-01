@@ -1057,6 +1057,7 @@
 - [Android emulator multi-touch support](https://devblogs.microsoft.com/surface-duo/android-emulator-multi-touch-support/)
 - [SizeBench: a new tool for analyzing Windows binary size](https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/)
 - [My Crescendo journey](https://devblogs.microsoft.com/powershell-community/my-crescendo-journey/)
+- [LineServices](https://devblogs.microsoft.com/math-in-office/lineservices/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
