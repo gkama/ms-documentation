@@ -725,6 +725,7 @@
 - [Announcing TypeScript 4.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-beta/)
 - [Announcing TypeScript 4.4 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-rc/)
 - [Announcing the New TypeScript Homepage](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-homepage/)
+- [Announcing TypeScript 4.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-beta/)
 
 # Articles
 - [Do You Really Need Redis? How to Get Away with Just PostgreSQL](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
