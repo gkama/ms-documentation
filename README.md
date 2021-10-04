@@ -1063,6 +1063,7 @@
 - [LineServices](https://devblogs.microsoft.com/math-in-office/lineservices/)
 - [Celebrating Hacktoberfest 2021](https://devblogs.microsoft.com/qsharp/celebrating-hacktoberfest-2021/)
 - [Why is there trailing garbage when I try to decode the bytes of a HttpContent object?](https://devblogs.microsoft.com/oldnewthing/20210923-00/?p=105723)
+- [Converting string output to objects](https://devblogs.microsoft.com/powershell-community/converting-string-output-to-objects/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
