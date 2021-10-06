@@ -1066,6 +1066,7 @@
 - [Why is there trailing garbage when I try to decode the bytes of a HttpContent object?](https://devblogs.microsoft.com/oldnewthing/20210923-00/?p=105723)
 - [Converting string output to objects](https://devblogs.microsoft.com/powershell-community/converting-string-output-to-objects/)
 - [ML.NET and Model Builder October Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/)
+- [GPU accelerated ML workflows broadly available in the Windows Subsystem for Linux](https://devblogs.microsoft.com/windowsai/gpu-accelerated-ml-workflows-broadly-available-in-the-windows-subsystem-for-linux/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
