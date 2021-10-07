@@ -494,6 +494,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Use Indexes for blazing-fast queries on your API for MongoDB Data](https://devblogs.microsoft.com/cosmosdb/indexes-for-blazing-fast-queries-on-your-api-for-mongodb-data/)
 - [Azure REST API Guidelines Update](https://devblogs.microsoft.com/azure-sdk/azure-rest-api-guidelines-update/)
 - [AzureFunBytes Episode 58 – Improve your Open Source Security with @WhiteSourceSoft](https://devblogs.microsoft.com/devops/azurefunbytes-episode-58-improve-your-open-source-security-with-whitesourcesoft/)
 - [AzureFunBytes Episode 57 – Securing @Azure with @shehackspurple](https://devblogs.microsoft.com/devops/azurefunbytes-episode-57-securing-azure-with-shehackspurple/)
