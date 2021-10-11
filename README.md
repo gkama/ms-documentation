@@ -110,6 +110,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/)
 - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/)
 - [HTTP/3 support in .NET 6](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/)
 - [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/)
