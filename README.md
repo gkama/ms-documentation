@@ -110,6 +110,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Prime your flux capacitor: SQL Server temporal tables in EF Core 6.0](https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/)
 - [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/)
 - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/)
 - [HTTP/3 support in .NET 6](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/)
