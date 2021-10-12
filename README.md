@@ -1078,6 +1078,7 @@
 - [GPU accelerated ML workflows broadly available in the Windows Subsystem for Linux](https://devblogs.microsoft.com/windowsai/gpu-accelerated-ml-workflows-broadly-available-in-the-windows-subsystem-for-linux/)
 - [Improved Null Pointer Dereference Detection in Visual Studio 2022 version 17.0 Preview 4](https://devblogs.microsoft.com/cppblog/improved-null-pointer-dereference-detection-in-visual-studio-2022-version-17-0-preview-4/)
 - [Erase pen handling code with the Ink SDK](https://devblogs.microsoft.com/surface-duo/pen-ink-sdk-sample/)
+- [Building great bots for Microsoft Teams with Azure Bot Framework Composer](https://devblogs.microsoft.com/microsoft365dev/building-great-bots-for-microsoft-teams-with-azure-bot-framework-composer/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
