@@ -498,6 +498,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Modern application development with Prisma, GraphQL (or REST) and Azure SQL](https://devblogs.microsoft.com/azure-sql/modern-application-development-with-prisma-graphql-rest-and-azure-sql/)
 - [Introducing experimental OpenTelemetry support in the Azure SDK for .NET](https://devblogs.microsoft.com/azure-sdk/introducing-experimental-opentelemetry-support-in-the-azure-sdk-for-net/)
 - [Announcing the new Azure Monitor Query client libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-monitor-query-client-libraries/)
 - [Use Indexes for blazing-fast queries on your API for MongoDB Data](https://devblogs.microsoft.com/cosmosdb/indexes-for-blazing-fast-queries-on-your-api-for-mongodb-data/)
