@@ -353,6 +353,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Hosted Pipelines Image Deprecation](https://devblogs.microsoft.com/devops/hosted-pipelines-image-deprecation/)
 - [Azure DevOps Response to GitKraken SSH Bug](https://devblogs.microsoft.com/devops/azure-devops-response-to-gitkraken-ssh-bug/)
 - [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update/)
 - [Top Stories from the Microsoft DevOps Community – 2021.10.01](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-01/)
