@@ -110,6 +110,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/)
 - [Prime your flux capacitor: SQL Server temporal tables in EF Core 6.0](https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/)
 - [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/)
 - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/)
