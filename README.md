@@ -110,6 +110,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Contributing to .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/)
 - [Introducing the new Azure SDK Resource Management Libraries for .NET](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-sdk-resource-management-libraries-for-net/)
 - [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/)
 - [Prime your flux capacitor: SQL Server temporal tables in EF Core 6.0](https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/)
