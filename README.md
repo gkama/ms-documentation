@@ -1089,6 +1089,7 @@
 - [Announcing SharePoint Framework 1.13 Release Candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-release-candidate/)
 - [Microsoft Teams ISV app monetization capabilities now available in developer preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-isv-app-monetization-capabilities-now-available-in-developer-preview/)
 - [A Race Condition in .NET Finalization and its Mitigation for C++/CLI](https://devblogs.microsoft.com/cppblog/a-race-condition-in-net-finalization-and-its-mitigation-for-cpp-cli/)
+- [Using ML to monitor coral reef bleaching](https://devblogs.microsoft.com/sustainable-software/using-ml-to-monitor-coral-reef-bleaching/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
