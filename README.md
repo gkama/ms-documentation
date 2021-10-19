@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [We’ve upgraded the UI in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/weve-upgraded-the-ui-in-visual-studio-2022/)
 - [Bring VS Code themes to Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/vs-code-themes-in-vs/)
 - [Python in Visual Studio Code – October 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2021-release/)
 - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/)
