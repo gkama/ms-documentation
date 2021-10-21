@@ -111,6 +111,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/)
 - [Contributing to .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/)
 - [Introducing the new Azure SDK Resource Management Libraries for .NET](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-sdk-resource-management-libraries-for-net/)
 - [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/)
