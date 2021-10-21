@@ -506,6 +506,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Join us Oct. 27, 2021: Key strategies + tech for agencies to improve the nation’s cybersecurity](https://devblogs.microsoft.com/azuregov/join-us-oct-27-2021-key-strategies-tech-for-agencies-to-improve-the-nations-cybersecurity/)
 - [Defending federal information systems with Azure Sentinel threat intelligence workbook](https://devblogs.microsoft.com/azuregov/defending-federal-information-systems-with-azure-sentinel-threat-intelligence-workbook/)
 - [Modern application development with Prisma, GraphQL (or REST) and Azure SQL](https://devblogs.microsoft.com/azure-sql/modern-application-development-with-prisma-graphql-rest-and-azure-sql/)
 - [Introducing experimental OpenTelemetry support in the Azure SDK for .NET](https://devblogs.microsoft.com/azure-sdk/introducing-experimental-opentelemetry-support-in-the-azure-sdk-for-net/)
