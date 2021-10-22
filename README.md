@@ -727,6 +727,7 @@
 - [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
 
 # Windows Blog
+- [Introducing PyTorch-DirectML: Train your machine learning models on any GPU](https://devblogs.microsoft.com/windowsai/introducing-pytorch-directml-train-your-machine-learning-models-on-any-gpu/)
 - [Building Your First UWP Application](https://devblogs.microsoft.com/ifdef-windows/building-your-first-uwp-application/)
 - [Get started building a Progressive Web App!](https://devblogs.microsoft.com/ifdef-windows/get-started-building-a-progressive-web-app/)
 - [Protecting users from potentially unwated apps in Microsoft Edge](https://blogs.windows.com/msedgedev/2020/02/27/protecting-users-potentially-unwanted-apps/)
