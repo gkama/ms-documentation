@@ -729,6 +729,7 @@
 
 # Windows Blog
 - [Windows Terminal Preview 1.12 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-12-release/)
+- [Announcing SharePoint Framework 1.13 – Extending Microsoft Viva Connections](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-extending-microsoft-viva-connections/)
 - [Introducing PyTorch-DirectML: Train your machine learning models on any GPU](https://devblogs.microsoft.com/windowsai/introducing-pytorch-directml-train-your-machine-learning-models-on-any-gpu/)
 - [Building Your First UWP Application](https://devblogs.microsoft.com/ifdef-windows/building-your-first-uwp-application/)
 - [Get started building a Progressive Web App!](https://devblogs.microsoft.com/ifdef-windows/get-started-building-a-progressive-web-app/)
