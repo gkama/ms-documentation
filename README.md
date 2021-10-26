@@ -695,6 +695,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [OData property changes to Microsoft 365 usage reports API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-microsoft-365-usage-reports-api-in-microsoft-graph/)
 - [Technical debt - the anti DevOps culture](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
 - [Top stories from the Microsoft DevOps community](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-03-13/)
 - [Visual Studio version 16.5](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-version-16-5/)
