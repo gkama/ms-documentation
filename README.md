@@ -723,6 +723,7 @@
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 ## Engineering@Microsoft Blog
+- [CloudTest: A multi-tenant, scalable, performant and extensible verification service](https://devblogs.microsoft.com/engineering-at-microsoft/cloudtest-a-multi-tenant-scalable-performant-and-extensible-verification-service/)
 - [Caesar, standards, and SAST: The road to SARIF](https://devblogs.microsoft.com/engineering-at-microsoft/caesar-standards-and-sast-the-road-to-sarif/)
 - [You can’t have security for DevOps until you have DevOps for security](https://devblogs.microsoft.com/engineering-at-microsoft/you-cant-have-security-for-devops-until-you-have-devops-for-security/)
 - [Large-scale distributed builds with Microsoft Build Accelerator](https://devblogs.microsoft.com/engineering-at-microsoft/large-scale-distributed-builds-with-microsoft-build-accelerator/)
