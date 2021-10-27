@@ -510,6 +510,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure Red Hat OpenShift now in preview in Azure Government](https://devblogs.microsoft.com/azuregov/azure-red-hat-openshift-now-in-preview-in-azure-government/)
 - [Announcing the Azure Identity 2.0 client library and plugin packages for JavaScript](https://devblogs.microsoft.com/azure-sdk/announcing-the-azure-identity-2-0-client-library-and-plugin-packages-for-javascript/)
 - [Join us Oct. 27, 2021: Key strategies + tech for agencies to improve the nation’s cybersecurity](https://devblogs.microsoft.com/azuregov/join-us-oct-27-2021-key-strategies-tech-for-agencies-to-improve-the-nations-cybersecurity/)
 - [Defending federal information systems with Azure Sentinel threat intelligence workbook](https://devblogs.microsoft.com/azuregov/defending-federal-information-systems-with-azure-sentinel-threat-intelligence-workbook/)
