@@ -112,6 +112,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/)
 - [Women IC engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/)
 - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
 - [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/)
