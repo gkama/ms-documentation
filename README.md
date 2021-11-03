@@ -701,6 +701,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Microsoft Graph @ Ignite 2021](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-ignite-2021/)
 - [Ignite 2021: Building apps for collaboration in a hybrid world](https://devblogs.microsoft.com/microsoft365dev/ignite-2021-building-apps-for-collaboration-in-a-hybrid-world/)
 - [Learn how to extend Microsoft Viva Connections](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-extend-microsoft-viva-connections/)
 - [OData property changes to Microsoft 365 usage reports API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-microsoft-365-usage-reports-api-in-microsoft-graph/)
