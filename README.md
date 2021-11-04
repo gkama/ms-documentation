@@ -113,6 +113,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/)
 - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/)
 - [Women IC engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/)
 - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
