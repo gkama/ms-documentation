@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [More flexible and inclusive ways to manage your documents](https://devblogs.microsoft.com/visualstudio/personalize-docs/)
 - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/)
 - [We’ve upgraded the UI in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/weve-upgraded-the-ui-in-visual-studio-2022/)
 - [Bring VS Code themes to Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/vs-code-themes-in-vs/)
