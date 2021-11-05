@@ -1124,6 +1124,7 @@
 - [Using ML to monitor coral reef bleaching](https://devblogs.microsoft.com/sustainable-software/using-ml-to-monitor-coral-reef-bleaching/)
 - [A closer look at the Crescendo configuration](https://devblogs.microsoft.com/powershell-community/a-closer-look-at-the-crescendo-configuration/)
 - [Testing RPC ports with PowerShell (and yes, it’s as much fun as it sounds!) New and Improved!!](https://devblogs.microsoft.com/scripting/testing-rpc-ports-with-powershell-and-yes-its-as-much-fun-as-it-sounds/)
+- [Connecting USB devices to WSL](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
