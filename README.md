@@ -364,6 +364,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [DevOps Dojo – Customers & Trust](https://devblogs.microsoft.com/devops/devops-dojo-customers-trust/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-05/)
 - [Top Stories from the Microsoft DevOps Community – 2021.10.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-29/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server/)
