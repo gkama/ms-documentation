@@ -1130,6 +1130,7 @@
 - [How to Use $FormatEnumerationLimit](https://devblogs.microsoft.com/powershell-community/how-to-use-formatenumerationlimit/)
 - [Connecting USB devices to WSL](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
 - [Jetpack Compose Navigation Rail](https://devblogs.microsoft.com/surface-duo/jetpack-compose-navigation-rail/)
+- [RichEdit Stories](https://devblogs.microsoft.com/math-in-office/richedit-stories/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
