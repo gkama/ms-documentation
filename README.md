@@ -114,6 +114,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 - [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/)
 - [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/)
 - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/)
