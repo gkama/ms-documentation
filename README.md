@@ -1135,6 +1135,7 @@
 - [Jetpack Compose Navigation Rail](https://devblogs.microsoft.com/surface-duo/jetpack-compose-navigation-rail/)
 - [RichEdit Stories](https://devblogs.microsoft.com/math-in-office/richedit-stories/)
 - [Q# Advent Calendar 2021](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2021/)
+- [Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
