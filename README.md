@@ -114,6 +114,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework November 2021 Cumulative Update](https://devblogs.microsoft.com/dotnet/net-framework-november-2021-cumulative-update/)
 - [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 - [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/)
 - [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/)
