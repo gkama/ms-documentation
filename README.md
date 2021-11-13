@@ -524,6 +524,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Introducing the new Azure Form Recognizer libraries **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-form-recognizer-libraries-beta/)
 - [Announcing a faster release cadence for the Azure client SDK BOM for Java](https://devblogs.microsoft.com/azure-sdk/announcing-a-faster-release-cadence-for-the-azure-client-sdk-bom-for-java/)
 - [Time-of-flight camera characterization with functional modeling for synthetic scene generation](https://devblogs.microsoft.com/azure-depth-platform/time-of-flight-camera-characterization-with-functional-modeling-for-synthetic-scene-generation/)
 - [Azure Red Hat OpenShift now in preview in Azure Government](https://devblogs.microsoft.com/azuregov/azure-red-hat-openshift-now-in-preview-in-azure-government/)
