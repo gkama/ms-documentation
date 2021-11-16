@@ -717,6 +717,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Guidance on implementing partner offerings for Viva Connections with ACEs and custom APIs](https://devblogs.microsoft.com/microsoft365dev/guidance-on-implementing-partner-offerings-for-viva-connections-with-aces-and-custom-apis/)
 - [Announcing Teams JS SDK v2 in public preview: Extend Teams apps across Microsoft 365](https://devblogs.microsoft.com/microsoft365dev/announcing-teams-js-sdk-v2-in-public-preview-extend-teams-apps-across-microsoft-365/)
 - [Microsoft Graph @ Ignite 2021](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-ignite-2021/)
 - [Ignite 2021: Building apps for collaboration in a hybrid world](https://devblogs.microsoft.com/microsoft365dev/ignite-2021-building-apps-for-collaboration-in-a-hybrid-world/)
