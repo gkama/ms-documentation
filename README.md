@@ -115,6 +115,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/)
 - [Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
 - [MSBuild and 64-bit Visual Studio 2022](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/)
 - [Authoring Custom Profile – Part 3](https://devblogs.microsoft.com/performance-diagnostics/authoring-custom-profile-part3/)
