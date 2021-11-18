@@ -529,6 +529,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Azure SDK Release (November 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2021/)
 - [Introducing the new Azure Form Recognizer libraries **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-form-recognizer-libraries-beta/)
 - [Announcing a faster release cadence for the Azure client SDK BOM for Java](https://devblogs.microsoft.com/azure-sdk/announcing-a-faster-release-cadence-for-the-azure-client-sdk-bom-for-java/)
 - [Time-of-flight camera characterization with functional modeling for synthetic scene generation](https://devblogs.microsoft.com/azure-depth-platform/time-of-flight-camera-characterization-with-functional-modeling-for-synthetic-scene-generation/)
