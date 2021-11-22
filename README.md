@@ -1156,6 +1156,7 @@
 - [New release of PowerShell Preview for Visual Studio Code!](https://devblogs.microsoft.com/powershell/new-release-of-powershell-preview-for-visual-studio-code/)
 - [Design Kit 2.1](https://devblogs.microsoft.com/surface-duo/design-kit-2-1/)
 - [Embedding Q# in your favorite languages and platforms](https://devblogs.microsoft.com/qsharp/embedding-qsharp/)
+- [Get started with Jetpack Compose](https://devblogs.microsoft.com/surface-duo/get-started-with-jetpack-compose/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
