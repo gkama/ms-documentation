@@ -1157,6 +1157,7 @@
 - [Design Kit 2.1](https://devblogs.microsoft.com/surface-duo/design-kit-2-1/)
 - [Embedding Q# in your favorite languages and platforms](https://devblogs.microsoft.com/qsharp/embedding-qsharp/)
 - [Get started with Jetpack Compose](https://devblogs.microsoft.com/surface-duo/get-started-with-jetpack-compose/)
+- [A reminder about the correct way of accessing and manipulating the position of icons on the desktop](https://devblogs.microsoft.com/oldnewthing/20211122-00/?p=105948)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
