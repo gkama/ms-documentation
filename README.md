@@ -1159,6 +1159,7 @@
 - [Get started with Jetpack Compose](https://devblogs.microsoft.com/surface-duo/get-started-with-jetpack-compose/)
 - [A reminder about the correct way of accessing and manipulating the position of icons on the desktop](https://devblogs.microsoft.com/oldnewthing/20211122-00/?p=105948)
 - [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022/)
+- [A practical use for GetHGlobal­FromStream when sharing was never your intention](https://devblogs.microsoft.com/oldnewthing/20211115-00/?p=105922)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
