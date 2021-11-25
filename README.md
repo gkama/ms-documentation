@@ -1161,6 +1161,7 @@
 - [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022/)
 - [A practical use for GetHGlobal­FromStream when sharing was never your intention](https://devblogs.microsoft.com/oldnewthing/20211115-00/?p=105922)
 - [Foldable CSS and JavaScript update for web developers](https://devblogs.microsoft.com/surface-duo/foldable-css-javascript-edge-96/)
+- [Java on Visual Studio Code Update – October 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-october-2021/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
