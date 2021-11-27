@@ -1163,6 +1163,7 @@
 - [A practical use for GetHGlobal­FromStream when sharing was never your intention](https://devblogs.microsoft.com/oldnewthing/20211115-00/?p=105922)
 - [Foldable CSS and JavaScript update for web developers](https://devblogs.microsoft.com/surface-duo/foldable-css-javascript-edge-96/)
 - [Java on Visual Studio Code Update – October 2021](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-october-2021/)
+- [Microspeak: Righteous](https://devblogs.microsoft.com/oldnewthing/20211116-00/?p=105927)
 - [How do I pass an array of variable-sized PROPSHEETPAGE structures to PropertySheet?](https://devblogs.microsoft.com/oldnewthing/20211125-00/?p=105967)
 - [Foldable CSS and JavaScript update for web developers](https://devblogs.microsoft.com/surface-duo/foldable-css-javascript-edge-96/)
 
