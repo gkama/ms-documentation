@@ -375,6 +375,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Azure Boards Ux Modernization – Public Preview](https://devblogs.microsoft.com/devops/azure-boards-ux-modernization-public-preview/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.26](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-26/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-19/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
