@@ -376,6 +376,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Deprecating weak cryptographic standards (TLS 1.0 and TLS 1.1) in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops/)
 - [Azure Boards Ux Modernization – Public Preview](https://devblogs.microsoft.com/devops/azure-boards-ux-modernization-public-preview/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.26](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-26/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-19/)
