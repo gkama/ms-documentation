@@ -535,6 +535,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [AzureFunBytes Episode 62 – Supercharge your Java Apps on Azure with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-62-supercharge-your-java-apps-on-azure-with-rorypreddy/)
 - [Tuning your uploads and downloads with the Azure Storage client library for .NET](https://devblogs.microsoft.com/azure-sdk/tuning-your-uploads-and-downloads-with-the-azure-storage-client-library-for-net/)
 - [Azure SDK Release (November 2021)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2021/)
 - [Introducing the new Azure Form Recognizer libraries **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-the-new-azure-form-recognizer-libraries-beta/)
