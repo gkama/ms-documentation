@@ -727,6 +727,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Let’s decode: Single Sign On (SSO) in Microsoft Teams Tabs](https://devblogs.microsoft.com/microsoft365dev/lets-decode-single-sign-on-sso-in-microsoft-teams-tabs/)
 - [Go developers can now access Microsoft Graph with streamlined authentication and more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/)
 - [Microsoft Teams development: All you need to know](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-development-all-you-need-to-know/)
 - [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub ](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github-2/)
