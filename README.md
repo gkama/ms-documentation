@@ -1178,6 +1178,7 @@
 - [I called AdjustTokenPrivileges, but I was still told that a necessary privilege was not held, redux](https://devblogs.microsoft.com/oldnewthing/20211126-00/?p=105973)
 - [Community is one variable of the Certification equation](https://devblogs.microsoft.com/premier-developer/community-is-one-variable-of-the-certification-equation/)
 - [Android foldable support on Uno Platform](https://devblogs.microsoft.com/surface-duo/uno-platform-android-foldable/)
+- [Say goodbye to “.project” files in Language Support for Java™ 1.1.0](https://devblogs.microsoft.com/java/say-goodbye-to-project-files-in-1-1-0/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
