@@ -1182,6 +1182,7 @@
 - [Android foldable support on Uno Platform](https://devblogs.microsoft.com/surface-duo/uno-platform-android-foldable/)
 - [Say goodbye to “.project” files in Language Support for Java™ 1.1.0](https://devblogs.microsoft.com/java/say-goodbye-to-project-files-in-1-1-0/)
 - [DevOps for Quantum Computing](https://devblogs.microsoft.com/qsharp/devops-for-quantum-computing/)
+- [Say goodbye to “.project” files in Language Support for Java™ 1.1.0](https://devblogs.microsoft.com/java/say-goodbye-to-project-files-in-1-1-0/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
