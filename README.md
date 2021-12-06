@@ -117,6 +117,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
 - [.NET Conf 2021 Recap – Videos, Slides, Demos, and More](https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more/)
 - [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/)
 - [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/)
