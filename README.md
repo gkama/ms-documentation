@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [How Can We Improve Extensibility in Visual Studio?](https://devblogs.microsoft.com/visualstudio/how-can-we-improve-extensibility-in-visual-studio/)
 - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/)
 - [Where Are My Favorite Extensions in Visual Studio 2022?](https://devblogs.microsoft.com/visualstudio/where-are-my-favorite-extensions-in-visual-studio-2022/)
 - [Python in Visual Studio Code – November 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2021-release/)
