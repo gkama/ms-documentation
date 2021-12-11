@@ -1190,8 +1190,9 @@
 - [DevOps for Quantum Computing](https://devblogs.microsoft.com/qsharp/devops-for-quantum-computing/)
 - [Say goodbye to “.project” files in Language Support for Java™ 1.1.0](https://devblogs.microsoft.com/java/say-goodbye-to-project-files-in-1-1-0/)
 - [New tools for analyzing Android, Linux, and Chromium browser performance – Microsoft-Performance-Tools for Linux-Android](https://devblogs.microsoft.com/performance-diagnostics/new-tools-for-analyzing-android-linux-and-chromium-browser-performance/)
- - [Announcing HLSL 2021](https://devblogs.microsoft.com/directx/announcing-hlsl-2021/)
- - [Project Natick](https://natick.research.microsoft.com/)
+- [Announcing HLSL 2021](https://devblogs.microsoft.com/directx/announcing-hlsl-2021/)
+- [Project Natick](https://natick.research.microsoft.com/)
+- [Four Years of Q#](https://devblogs.microsoft.com/qsharp/four-years-of-q/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
