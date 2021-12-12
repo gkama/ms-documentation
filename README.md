@@ -1193,6 +1193,7 @@
 - [Announcing HLSL 2021](https://devblogs.microsoft.com/directx/announcing-hlsl-2021/)
 - [Project Natick](https://natick.research.microsoft.com/)
 - [Four Years of Q#](https://devblogs.microsoft.com/qsharp/four-years-of-q/)
+- [UnicodeMath Color](https://devblogs.microsoft.com/math-in-office/unicodemath-color/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
