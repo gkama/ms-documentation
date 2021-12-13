@@ -381,6 +381,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Deploy Bicep files by using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-bicep-files-by-using-github-actions/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.10](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-10/)
 - [Automating Azure Static Web Apps in Azure Pipelines](https://devblogs.microsoft.com/devops/automating-azure-static-web-apps-in-azure-pipelines/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.03](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-03/)
