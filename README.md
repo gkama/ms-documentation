@@ -4,7 +4,7 @@
 - [VS 2022 Launch Recap: Extensibility](https://devblogs.microsoft.com/visualstudio/vs-2022-launch-recap-extensibility/)
 - [How Can We Improve Extensibility in Visual Studio?](https://devblogs.microsoft.com/visualstudio/how-can-we-improve-extensibility-in-visual-studio/)
 - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/)
-- [Where Are My Favorite Extensions in Visual Studio 2022?](https://devblogs.microsoft.com/visualstudio/where-are-my-favorite-extensions-in-visual-studio-2022/)
+- [Where Are My Favorite Extensions in Visual Studio 2022?](https://devblogs.microsoft.com/visualstudio/where-are-my-favorite-extensions-in-visual-studio-2022/)F
 - [Python in Visual Studio Code – November 2021 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2021-release/)
 - [More flexible and inclusive ways to manage your documents](https://devblogs.microsoft.com/visualstudio/personalize-docs/)
 - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/)
@@ -777,6 +777,7 @@
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 ## Engineering@Microsoft Blog
+- [Accessibility Insights for Windows](https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-windows/)
 - [CloudTest: A multi-tenant, scalable, performant and extensible verification service](https://devblogs.microsoft.com/engineering-at-microsoft/cloudtest-a-multi-tenant-scalable-performant-and-extensible-verification-service/)
 - [Caesar, standards, and SAST: The road to SARIF](https://devblogs.microsoft.com/engineering-at-microsoft/caesar-standards-and-sast-the-road-to-sarif/)
 - [You can’t have security for DevOps until you have DevOps for security](https://devblogs.microsoft.com/engineering-at-microsoft/you-cant-have-security-for-devops-until-you-have-devops-for-security/)
