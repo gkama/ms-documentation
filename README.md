@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/)
 - [VS 2022 Launch Recap: Extensibility](https://devblogs.microsoft.com/visualstudio/vs-2022-launch-recap-extensibility/)
 - [How Can We Improve Extensibility in Visual Studio?](https://devblogs.microsoft.com/visualstudio/how-can-we-improve-extensibility-in-visual-studio/)
 - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/)
