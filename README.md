@@ -550,6 +550,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Introducing the next generation of the Conversational Language Understanding client library](https://devblogs.microsoft.com/azure-sdk/introducing-the-next-generation-of-the-conversational-language-understanding-client-library/)
 - [Async IO for the Python SDK is now in preview!](https://devblogs.microsoft.com/cosmosdb/async-python-sdk-preview/)
 - [Building and monitoring Zero Trust (TIC 3.0) workloads for federal information systems with Microsoft Sentinel](https://devblogs.microsoft.com/azuregov/building-and-monitoring-zero-trust-tic-3-0-workloads-for-federal-information-systems-with-microsoft-sentinel/)
 - [AzureFunBytes Episode 62 – Supercharge your Java Apps on Azure with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-62-supercharge-your-java-apps-on-azure-with-rorypreddy/)
