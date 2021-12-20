@@ -746,6 +746,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Microsoft Graph Data Connect: Demystifying User Scopes](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-data-connect-demystifying-user-scopes/)
 - [Teams JS SDK v2 public preview update: Teams apps in Outlook Web](https://devblogs.microsoft.com/microsoft365dev/teams-js-sdk-v2-public-preview-update-teams-apps-in-outlook-web/)
 - [Let’s decode: Single Sign On (SSO) in Microsoft Teams Tabs](https://devblogs.microsoft.com/microsoft365dev/lets-decode-single-sign-on-sso-in-microsoft-teams-tabs/)
 - [Go developers can now access Microsoft Graph with streamlined authentication and more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/)
