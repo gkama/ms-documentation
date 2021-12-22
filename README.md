@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Your Visual Studio Dashboard](https://devblogs.microsoft.com/visualstudio/your-visual-studio-dashboard/)
 - [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/)
 - [We’re upgrading Visual Studio’s feedback!](https://devblogs.microsoft.com/visualstudio/were-upgrading-visual-studios-feedback/)
 - [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/)
