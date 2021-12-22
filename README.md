@@ -748,6 +748,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [New features in Microsoft Graph Bookings APIs provide enhanced booking infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/)
 - [Unofficial Windows 10 and 11 Audio Workstation build and tweak guide – Part 3](https://devblogs.microsoft.com/windows-music-dev/unofficial-windows-10-and-11-audio-workstation-build-and-tweak-guide-part-3/)
 - [Microsoft Graph Data Connect: Demystifying User Scopes](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-data-connect-demystifying-user-scopes/)
 - [Teams JS SDK v2 public preview update: Teams apps in Outlook Web](https://devblogs.microsoft.com/microsoft365dev/teams-js-sdk-v2-public-preview-update-teams-apps-in-outlook-web/)
