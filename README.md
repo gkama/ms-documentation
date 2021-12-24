@@ -1214,6 +1214,7 @@
 - [UnicodeMath Color](https://devblogs.microsoft.com/math-in-office/unicodemath-color/)
 - [Hybrid Quantum Applications with Azure Functions](https://devblogs.microsoft.com/qsharp/hybrid-quantum-applications-with-azure-functions/)
 - [Windows Wednesday](https://devblogs.microsoft.com/commandline/windows-wednesday/)
+- [Happy holidays](https://devblogs.microsoft.com/surface-duo/happy-holidays-2021/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
