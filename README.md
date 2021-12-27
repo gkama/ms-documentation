@@ -1216,6 +1216,7 @@
 - [Windows Wednesday](https://devblogs.microsoft.com/commandline/windows-wednesday/)
 - [Happy holidays](https://devblogs.microsoft.com/surface-duo/happy-holidays-2021/)
 - [The Thanksgiving to Christmas sales nationwide of the VIS could be tabulated in an unsigned char](https://devblogs.microsoft.com/oldnewthing/20211224-08/?p=106052)
+- [How do I add custom controls to the common file open or file save dialogs?](https://devblogs.microsoft.com/oldnewthing/20211227-00/?p=106054)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
