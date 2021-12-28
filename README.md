@@ -123,6 +123,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [Announcing the Plan for EF7](https://devblogs.microsoft.com/dotnet/announcing-the-plan-for-ef7/)
 - [.NET December 2021 Updates – 6.0.1, 5.0.13 and 3.1.22](https://devblogs.microsoft.com/dotnet/december-2021-updates/)
 - [.NET 6 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-6-networking-improvements/)
 - [Announcing dot.net in Japanese and Simplified Chinese](https://devblogs.microsoft.com/dotnet/dotnet-website-translation-updates/)
