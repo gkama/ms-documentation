@@ -802,6 +802,7 @@
 - [Shifting accessibility left with Accessibility Insights](https://devblogs.microsoft.com/engineering-at-microsoft/shifting-accessibility-left-with-accessibility-insights/)
 
 # Windows Blog
+- [Astrophotography with Windows, Tiny PCs, and WPF](https://devblogs.microsoft.com/ifdef-windows/astrophotography-with-windows-tiny-pcs-and-wpf/)
 - [Unofficial Windows 10 and 11 Audio Workstation build and tweak guide – Part 3](https://devblogs.microsoft.com/windows-music-dev/unofficial-windows-10-and-11-audio-workstation-build-and-tweak-guide-part-3/)
 - [Introducing the Windows ML Samples Gallery](https://devblogs.microsoft.com/windowsai/introducing-the-windows-ml-samples-gallery/)
 - [Windows Terminal Preview 1.12 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-12-release/)
