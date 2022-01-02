@@ -1223,6 +1223,7 @@
 - [How do I add custom controls to the common file open or file save dialogs?](https://devblogs.microsoft.com/oldnewthing/20211227-00/?p=106054)
 - [You can’t copy code with memcpy; code is more complicated than that](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 - [2021 year-end link clearance](https://devblogs.microsoft.com/oldnewthing/20211231-01/?p=106067)
+- [2021 dual-screen year in review](https://devblogs.microsoft.com/surface-duo/2021-year-in-review/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
