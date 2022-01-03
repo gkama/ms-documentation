@@ -1239,6 +1239,7 @@
 - [Linux Foundation offering Kubernetes certifications courses and exams as demand spikes](https://www.techrepublic.com/article/linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/)
 - [Using Vision AI to extract data from complex documents](https://devblogs.microsoft.com/startups/using-vision-ai-to-extract-data-from-complex-documents/)
 - [Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel](https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/)
+- [Speculation on the design decisions that led to the common ABI for C++ coroutines](https://devblogs.microsoft.com/oldnewthing/20220103-00/?p=106109)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
