@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Integrated Chat in Live Share for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/integrated-chat-in-live-share-for-visual-studio-2022/)
 - [Visual Studio 17.1 Preview 2 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available/)
 - [Your Visual Studio Dashboard](https://devblogs.microsoft.com/visualstudio/your-visual-studio-dashboard/)
 - [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/)
