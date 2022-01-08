@@ -1232,6 +1232,7 @@
 - [You can’t copy code with memcpy; code is more complicated than that](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 - [2021 year-end link clearance](https://devblogs.microsoft.com/oldnewthing/20211231-01/?p=106067)
 - [2021 dual-screen year in review](https://devblogs.microsoft.com/surface-duo/2021-year-in-review/)
+- [How do I upgrade a 32-bit tick count to a 64-bit one?](https://devblogs.microsoft.com/oldnewthing/20220107-00/?p=106130)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
