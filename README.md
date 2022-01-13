@@ -127,6 +127,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework January 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-security-and-quality-rollup-updates/)
 - [$compute and $search in ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/compute-and-search-in-asp-net-core-odata-8/)
 - [Announcing .NET MAUI Preview 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11/)
 - [The Future of OData (OData NxT)](https://devblogs.microsoft.com/odata/the-future-of-odata-odata-nxt/)
