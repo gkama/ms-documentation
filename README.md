@@ -566,6 +566,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Distributed tracing with Azure Functions Event Grid triggers](https://devblogs.microsoft.com/azure-sdk/distributed-tracing-with-azure-functions-event-grid-triggers/)
 - [Build a Node.js app with Azure Cosmos DB’s API for MongoDB](https://devblogs.microsoft.com/cosmosdb/build-a-node-js-app-with-azure-cosmos-dbs-api-for-mongodb/)
 - [Introducing the next generation of the Conversational Language Understanding client library](https://devblogs.microsoft.com/azure-sdk/introducing-the-next-generation-of-the-conversational-language-understanding-client-library/)
 - [Async IO for the Python SDK is now in preview!](https://devblogs.microsoft.com/cosmosdb/async-python-sdk-preview/)
