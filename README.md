@@ -100,6 +100,7 @@
 - [Color coded tabs in Visual Studio](https://tabsstudio.com/documentation/color-coded-tabs-in-visual-studio.html)
 
 # C#
+- [New Android logcat support available in Microsoft Performance Tools for Linux & Android](https://devblogs.microsoft.com/performance-diagnostics/new-android-logcat-support-available-in-microsoft-performance-tools-for-linux-android/)
 - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
 - [5 Ways to Improve the Performance of C# Code for Free](https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da)
 - [C# 8 nullable reference types](https://developers.redhat.com/blog/2020/03/05/c-8-nullable-reference-types/)
