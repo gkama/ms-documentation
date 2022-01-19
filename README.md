@@ -569,6 +569,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Automatic GraphQL and REST endpoint for Azure SQL with Directus](https://devblogs.microsoft.com/azure-sql/automatic-graphql-and-rest-endpoint-for-azure-sql-with-directus/)
 - [Protecting federal information systems and critical infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://devblogs.microsoft.com/azuregov/protecting-federal-information-systems-and-critical-infrastructure-with-the-microsoft-sentinel-it-ot-threat-monitoring-solution/)
 - [Distributed tracing with Azure Functions Event Grid triggers](https://devblogs.microsoft.com/azure-sdk/distributed-tracing-with-azure-functions-event-grid-triggers/)
 - [Build a Node.js app with Azure Cosmos DB’s API for MongoDB](https://devblogs.microsoft.com/cosmosdb/build-a-node-js-app-with-azure-cosmos-dbs-api-for-mongodb/)
