@@ -1244,6 +1244,7 @@
 - [How do I upgrade a 32-bit tick count to a 64-bit one?](https://devblogs.microsoft.com/oldnewthing/20220107-00/?p=106130)
 - [Filling in some gaps in the story of Space Cadet Pinball on 64-bit Windows](https://devblogs.microsoft.com/oldnewthing/20220106-00/?p=106122)
 - [Marketplace Office Hours (Business and Technical)- Register Now](https://devblogs.microsoft.com/premier-developer/marketplace-office-hours-business-and-technical-register-now/)
+- [Sustainable Software Engineering (SSE) and the role and responsibilities of a Sustainable Software Engineer](https://devblogs.microsoft.com/sustainable-software/sustainable-software-engineering-sse-and-the-role-and-responsibilities-of-a-sustainable-software-engineer/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
