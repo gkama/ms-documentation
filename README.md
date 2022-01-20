@@ -569,6 +569,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Read many items fast with the Java SDK for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/read-many-items-fast-with-the-java-sdk-for-azure-cosmos-db/)
 - [Automatic GraphQL and REST endpoint for Azure SQL with Directus](https://devblogs.microsoft.com/azure-sql/automatic-graphql-and-rest-endpoint-for-azure-sql-with-directus/)
 - [Protecting federal information systems and critical infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://devblogs.microsoft.com/azuregov/protecting-federal-information-systems-and-critical-infrastructure-with-the-microsoft-sentinel-it-ot-threat-monitoring-solution/)
 - [Distributed tracing with Azure Functions Event Grid triggers](https://devblogs.microsoft.com/azure-sdk/distributed-tracing-with-azure-functions-event-grid-triggers/)
