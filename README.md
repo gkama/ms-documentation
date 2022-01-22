@@ -839,6 +839,7 @@
 - [Windows Terminal Preview 1.2 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-2-release/)
 
 # TypeScript
+- [Announcing TypeScript 4.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/)
 - [Type | Treat – Wrap-up](https://devblogs.microsoft.com/typescript/type-treat-wrap-up/)
 - [Type | Treat – Day 5](https://devblogs.microsoft.com/typescript/type-treat-day-5/)
 - [Type | Treat 2021 – Day 4](https://devblogs.microsoft.com/typescript/type-treat-2021-day-4/)
