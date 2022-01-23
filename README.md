@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Java on Visual Studio Code Update – January 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-january-2022/)
 - [Bringing Code Cleanup on Save To Visual Studio 2022 17.1 Preview 2](https://devblogs.microsoft.com/visualstudio/bringing-code-cleanup-on-save-to-visual-studio-2022-17-1-preview-2/)
 - [Introducing new Git features to Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/introducing-new-git-features-to-visual-studio-2022/)
 - [Integrated Chat in Live Share for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/integrated-chat-in-live-share-for-visual-studio-2022/)
