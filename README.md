@@ -1251,6 +1251,7 @@
 - [Marketplace Office Hours (Business and Technical)- Register Now](https://devblogs.microsoft.com/premier-developer/marketplace-office-hours-business-and-technical-register-now/)
 - [Sustainable Software Engineering (SSE) and the role and responsibilities of a Sustainable Software Engineer](https://devblogs.microsoft.com/sustainable-software/sustainable-software-engineering-sse-and-the-role-and-responsibilities-of-a-sustainable-software-engineer/)
 - [Function to get Unicode Fractions](https://devblogs.microsoft.com/math-in-office/function-to-get-unicode-fractions/)
+- [Fixing the crash that seems to be on a std::move operation](https://devblogs.microsoft.com/oldnewthing/20220121-20/?p=106182)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
