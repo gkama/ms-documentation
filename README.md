@@ -129,6 +129,7 @@
 - [Introducing the OData Web API Authorization library](https://devblogs.microsoft.com/odata/introducing-the-odata-web-api-authorization-library/)
 
 # .NET
+- [.NET Framework January 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-cumulative-update-preview/)
 - [Announcing .NET Community Toolkit v8.0.0 Preview 1](https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/)
 - [.NET Framework January 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-security-and-quality-rollup-updates/)
 - [$compute and $search in ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/compute-and-search-in-asp-net-core-odata-8/)
