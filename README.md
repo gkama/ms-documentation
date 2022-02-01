@@ -1277,6 +1277,7 @@
 - [Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel](https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/)
 - [Speculation on the design decisions that led to the common ABI for C++ coroutines](https://devblogs.microsoft.com/oldnewthing/20220103-00/?p=106109)
 - [Jetpack Window Manager release candidate](https://devblogs.microsoft.com/surface-duo/jetpack-window-manager-release-candidate/)
+- [PSReadLine 2.2 RC](https://devblogs.microsoft.com/powershell/psreadline-2-2-rc/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
