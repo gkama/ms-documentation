@@ -821,6 +821,7 @@
 - [Leveraging XML with New Employee PowerShell Scripts](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 ## Engineering@Microsoft Blog
+- [Improving developer productivity via flaky test management](https://devblogs.microsoft.com/engineering-at-microsoft/improving-developer-productivity-via-flaky-test-management/)
 - [Accessibility Insights for Windows](https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-windows/)
 - [CloudTest: A multi-tenant, scalable, performant and extensible verification service](https://devblogs.microsoft.com/engineering-at-microsoft/cloudtest-a-multi-tenant-scalable-performant-and-extensible-verification-service/)
 - [Caesar, standards, and SAST: The road to SARIF](https://devblogs.microsoft.com/engineering-at-microsoft/caesar-standards-and-sast-the-road-to-sarif/)
