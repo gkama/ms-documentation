@@ -1262,6 +1262,7 @@
 - [Fixing the crash that seems to be on a std::move operation](https://devblogs.microsoft.com/oldnewthing/20220121-20/?p=106182)
 - [Marketplace Office Hours (Business and Technical)- Register Now for February Sessions](https://devblogs.microsoft.com/premier-developer/marketplace-office-hours-business-and-technical-register-now-for-february-sessions/)
 - [How can I recognize whether two handles refer to the same underlying file?](https://devblogs.microsoft.com/oldnewthing/20220128-00/?p=106201)
+- [Explore Quantum Hardware for Free with Azure Quantum](https://devblogs.microsoft.com/qsharp/explore-quantum-hardware-for-free-with-azure-quantum/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
