@@ -778,6 +778,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Breaking changes to the addToReviewSet action in the Microsoft Graph API for eDiscovery (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-to-the-addtoreviewset-action-in-the-microsoft-graph-api-for-ediscovery-beta/)
 - [Updated public preview of SharePoint Framework 1.14 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/updated-public-preview-of-sharepoint-framework-1-14-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/)
 - [Microsoft Graph Bookings APIs now available on the v1 endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 - [New features in Microsoft Graph Bookings APIs provide enhanced booking infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/)
