@@ -402,6 +402,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Copy Dashboard Public Preview Part 3](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-part-3/)
 - [Top Stories from the Microsoft DevOps Community – 2022.02.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-04/)
 - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/)
 - [Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches/)
