@@ -578,6 +578,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Azure
+- [Saving Bot Activities in Azure SQL Database](https://devblogs.microsoft.com/azure-sql/saving-bot-activities-in-azure-sql-database/)
 - [Introducing Azure Identity support in the Azure Functions SignalR extension **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-azure-identity-support-in-the-azure-functions-signalr-extension-beta/)
 - [Read many items fast with the Java SDK for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/read-many-items-fast-with-the-java-sdk-for-azure-cosmos-db/)
 - [Automatic GraphQL and REST endpoint for Azure SQL with Directus](https://devblogs.microsoft.com/azure-sql/automatic-graphql-and-rest-endpoint-for-azure-sql-with-directus/)
