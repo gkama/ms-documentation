@@ -1269,6 +1269,7 @@
 - [How can I recognize whether two handles refer to the same underlying file?](https://devblogs.microsoft.com/oldnewthing/20220128-00/?p=106201)
 - [Explore Quantum Hardware for Free with Azure Quantum](https://devblogs.microsoft.com/qsharp/explore-quantum-hardware-for-free-with-azure-quantum/)
 - [Python in Visual Studio Code – February 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2022-release/)
+- [Dual-screen app design walkthrough](https://devblogs.microsoft.com/surface-duo/dual-screen-app-design-walkthrough/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
