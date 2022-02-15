@@ -783,6 +783,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Updated design guidance for Viva Connections custom cards and quick views](https://devblogs.microsoft.com/microsoft365dev/updated-design-guidance-for-viva-connections-custom-cards/)
 - [Client Secret expiration now limited to a maximum of two years](https://devblogs.microsoft.com/microsoft365dev/client-secret-expiration-now-limited-to-a-maximum-of-two-years/)
 - [Breaking changes to the addToReviewSet action in the Microsoft Graph API for eDiscovery (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-to-the-addtoreviewset-action-in-the-microsoft-graph-api-for-ediscovery-beta/)
 - [Updated public preview of SharePoint Framework 1.14 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/updated-public-preview-of-sharepoint-framework-1-14-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/)
