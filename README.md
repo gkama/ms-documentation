@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Visual Studio 2022 for Mac Preview 6](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/)
 - [Java on Visual Studio Code Update – January 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-january-2022/)
 - [Bringing Code Cleanup on Save To Visual Studio 2022 17.1 Preview 2](https://devblogs.microsoft.com/visualstudio/bringing-code-cleanup-on-save-to-visual-studio-2022-17-1-preview-2/)
 - [Introducing new Git features to Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/introducing-new-git-features-to-visual-studio-2022/)
