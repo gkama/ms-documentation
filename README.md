@@ -784,6 +784,7 @@
 - [A tour of Always Encrypted for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/always-encrypted/)
 
 # Microsoft Blog
+- [Breaking changes in the Microsoft Graph Tasks API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-in-the-microsoft-graph-tasks-api-beta/)
 - [Updated design guidance for Viva Connections custom cards and quick views](https://devblogs.microsoft.com/microsoft365dev/updated-design-guidance-for-viva-connections-custom-cards/)
 - [Client Secret expiration now limited to a maximum of two years](https://devblogs.microsoft.com/microsoft365dev/client-secret-expiration-now-limited-to-a-maximum-of-two-years/)
 - [Breaking changes to the addToReviewSet action in the Microsoft Graph API for eDiscovery (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-to-the-addtoreviewset-action-in-the-microsoft-graph-api-for-ediscovery-beta/)
