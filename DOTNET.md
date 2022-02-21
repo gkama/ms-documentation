@@ -2,6 +2,7 @@
 
 - [.NET Framework February 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-cumulative-update-preview/)
 - [ASP.NET Core updates in .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-7-preview-1/)
+- [Announcing Entity Framework 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-1/)
 - [Announcing .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-7-preview-1/)
 - [Happy 20th Anniversary, .NET!](https://devblogs.microsoft.com/dotnet/happy-20th-anniversary-net/)
 - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
