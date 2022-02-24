@@ -403,6 +403,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [AzureFunBytes Episode 68 – Progressive Delivery with @SplitSoftware and @AzureDevOps](https://devblogs.microsoft.com/devops/azurefunbytes-episode-68-progressive-delivery-with-splitsoftware-and-azuredevops/)
 - [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions/)
 - []()
 - [Copy Dashboard Public Preview Part 3](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-part-3/)
