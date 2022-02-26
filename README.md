@@ -1279,6 +1279,7 @@
 - [Dual-screen app design walkthrough](https://devblogs.microsoft.com/surface-duo/dual-screen-app-design-walkthrough/)
 - [COM asynchronous interfaces, part 5: The unreliable server](OM async)
 - [Windows 11 Notepad](https://devblogs.microsoft.com/math-in-office/windows-11-notepad/)
+- [PyTorch-DirectML: Preview Release 2](https://devblogs.microsoft.com/windowsai/pytorch-directml-preview-release-2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
