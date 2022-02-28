@@ -1280,6 +1280,7 @@
 - [COM asynchronous interfaces, part 5: The unreliable server](OM async)
 - [Windows 11 Notepad](https://devblogs.microsoft.com/math-in-office/windows-11-notepad/)
 - [PyTorch-DirectML: Preview Release 2](https://devblogs.microsoft.com/windowsai/pytorch-directml-preview-release-2/)
+- [How can I monitor changes to the reference count of a C++/WinRT object?](https://devblogs.microsoft.com/oldnewthing/20220225-00/?p=106291)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
