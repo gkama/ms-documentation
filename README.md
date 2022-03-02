@@ -403,6 +403,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [AzureFunBytes Episode 69 – What’s New In @AzureStaticApps with @simona_cotin and @nthonyChu](https://devblogs.microsoft.com/devops/azurefunbytes-episode-69-whats-new-in-azurestaticapps-with-simona_cotin-and-nthonychu/)
 - [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
 - [AzureFunBytes Episode 68 – Progressive Delivery with @SplitSoftware and @AzureDevOps](https://devblogs.microsoft.com/devops/azurefunbytes-episode-68-progressive-delivery-with-splitsoftware-and-azuredevops/)
 - [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions/)
