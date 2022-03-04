@@ -1,5 +1,6 @@
 # .NET
 
+- [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/)
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 - [Customizing $filter for spatial data in ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/customizing-filter-for-spatial-data-in-asp-net-core-odata-8/)
 - [.NET Framework February 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-cumulative-update-preview/)
