@@ -1057,6 +1057,7 @@
 - [PyTorch-DirectML: Preview Release 2](https://devblogs.microsoft.com/windowsai/pytorch-directml-preview-release-2/)
 - [How can I monitor changes to the reference count of a C++/WinRT object?](https://devblogs.microsoft.com/oldnewthing/20220225-00/?p=106291)
 - [Windows Package Manager 1.2](https://devblogs.microsoft.com/commandline/windows-package-manager-1-2/)
+- [PowerShell and OpenSSH team investments for 2022](https://devblogs.microsoft.com/powershell/powershell-and-openssh-team-investments-for-2022/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
