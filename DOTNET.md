@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET March 2022 Updates – .NET 6.0.3, .NET 5.0.15 and, .NET 3.1.23](https://devblogs.microsoft.com/dotnet/march-2022-updates/)
 - [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/)
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 - [Customizing $filter for spatial data in ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/customizing-filter-for-spatial-data-in-asp-net-core-odata-8/)
