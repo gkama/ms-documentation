@@ -1,5 +1,6 @@
 # Azure
 
+- [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [Create REST API in Python with Django, using the Django REST Framework and Azure SQL](https://devblogs.microsoft.com/azure-sql/create-rest-api-in-python-with-django-using-the-django-rest-framework-and-azure-sql/)
 - [Saving Bot Activities in Azure SQL Database](https://devblogs.microsoft.com/azure-sql/saving-bot-activities-in-azure-sql-database/)
 - [Introducing Azure Identity support in the Azure Functions SignalR extension **Beta**](https://devblogs.microsoft.com/azure-sdk/introducing-azure-identity-support-in-the-azure-functions-signalr-extension-beta/)
