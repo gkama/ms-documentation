@@ -1,5 +1,6 @@
 # Azure
 
+- [Azure export controls white paper updates](https://devblogs.microsoft.com/azuregov/azure-export-controls-white-paper-updates/)
 - [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [Create REST API in Python with Django, using the Django REST Framework and Azure SQL](https://devblogs.microsoft.com/azure-sql/create-rest-api-in-python-with-django-using-the-django-rest-framework-and-azure-sql/)
