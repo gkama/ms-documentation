@@ -1,5 +1,6 @@
 # Azure
 
+- [Join us: Art of the possible: AI in government – March 30, 2022](https://devblogs.microsoft.com/azuregov/join-us-art-of-the-possible-ai-in-government-march-30-2022/)
 - [Azure export controls white paper updates](https://devblogs.microsoft.com/azuregov/azure-export-controls-white-paper-updates/)
 - [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
