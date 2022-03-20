@@ -1066,6 +1066,7 @@
 - [Join us at Microsoft JDConf 2022](https://devblogs.microsoft.com/java/microsoft-jdconf-2022-java-conference/)
 - [Microsoft Edge dual-screen web APIs](https://devblogs.microsoft.com/surface-duo/dual-screen-web-edge/)
 - [Optimizing code to darken a bitmap, part 5](https://devblogs.microsoft.com/oldnewthing/20220311-00/?p=106340)
+- [C++ Modules in CMake with Visual Studio](https://devblogs.microsoft.com/cppblog/cpp20-modules-in-cmake-with-vs/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
