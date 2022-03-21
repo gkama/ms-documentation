@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Java on Visual Studio Code Update – March 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-march-2022/)
 - [Live Unit Testing Preview: Better and Faster](https://devblogs.microsoft.com/visualstudio/live-unit-testing-preview-better-and-faster/)
 - [Visual Studio 2022 for Mac Preview 7](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7/)
 - [Python in Visual Studio Code – March 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2022-release/)
