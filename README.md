@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Suffer from Ctrl+S fatigue? We have a feature for you](https://devblogs.microsoft.com/visualstudio/suffer-from-ctrls-fatigue-we-have-a-feature-for-you/)
 - [Java on Visual Studio Code Update – March 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-march-2022/)
 - [Live Unit Testing Preview: Better and Faster](https://devblogs.microsoft.com/visualstudio/live-unit-testing-preview-better-and-faster/)
 - [Visual Studio 2022 for Mac Preview 7](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7/)
