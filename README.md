@@ -408,6 +408,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
 - [Azure Artifacts feed continues to make product accessible to everyone](https://devblogs.microsoft.com/devops/azure-artifacts-feed-continues-to-make-product-accessible-to-everyone/)
 - [AzureFunBytes Episode 69 – What’s New In @AzureStaticApps with @simona_cotin and @nthonyChu](https://devblogs.microsoft.com/devops/azurefunbytes-episode-69-whats-new-in-azurestaticapps-with-simona_cotin-and-nthonychu/)
 - [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
