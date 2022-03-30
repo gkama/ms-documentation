@@ -591,6 +591,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Microsoft Blog
+- [Get inspired with Microsoft 365 apps at Microsoft Tech Days](https://devblogs.microsoft.com/microsoft365dev/get-inspired-with-microsoft-365-apps-at-microsoft-tech-days/)
 - [Learn from the Community: Microsoft MVPs digitize knowledge in a Community Bot for OneDrive](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-microsoft-mvps-digitize-knowledge-in-community-bot-for-onedrive/)
 - [Breaking changes in the Microsoft Graph Tasks API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-in-the-microsoft-graph-tasks-api-beta/)
 - [Updated design guidance for Viva Connections custom cards and quick views](https://devblogs.microsoft.com/microsoft365dev/updated-design-guidance-for-viva-connections-custom-cards/)
