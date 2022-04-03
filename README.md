@@ -409,6 +409,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
 - [DevOps Dojo: Lean Product – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
 - [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
 - [Azure Artifacts feed continues to make product accessible to everyone](https://devblogs.microsoft.com/devops/azure-artifacts-feed-continues-to-make-product-accessible-to-everyone/)
@@ -416,7 +417,6 @@
 - [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
 - [AzureFunBytes Episode 68 – Progressive Delivery with @SplitSoftware and @AzureDevOps](https://devblogs.microsoft.com/devops/azurefunbytes-episode-68-progressive-delivery-with-splitsoftware-and-azuredevops/)
 - [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions/)
-- []()
 - [Copy Dashboard Public Preview Part 3](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-part-3/)
 - [Top Stories from the Microsoft DevOps Community – 2022.02.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-04/)
 - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/)
