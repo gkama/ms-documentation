@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing .NET Community Toolkit v8.0.0 Preview 3](https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-3/)
 - [.NET 5.0 will reach End of Support on May 08, 2022](https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/)
 - [Go To Definition improvements for external source in Roslyn](https://devblogs.microsoft.com/dotnet/go-to-definition-improvements-for-external-source-in-roslyn/)
 - [Announcing .NET MAUI Preview 14](https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/)
