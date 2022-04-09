@@ -15,7 +15,7 @@
 - [Announcing TypeScript 3.9](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/)
 - [Announcing TypeScript 4.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/)
 - [Announcing TypeScript 4.1 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-rc/)
-- [Announcing TypeScript 4.2 RC](- [](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-rc/))
+- [Announcing TypeScript 4.2 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-rc/)
 - [Announcing the New TypeScript Handbook](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-handbook/)
 - [Announcing TypeScript 4.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/)
 - [Announcing TypeScript 4.3 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/)
