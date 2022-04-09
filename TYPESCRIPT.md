@@ -1,5 +1,6 @@
 # TypeScript
 
+- [Announcing TypeScript 4.7 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/)
 - [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 - [Announcing TypeScript 4.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/)
 - [Type | Treat – Wrap-up](https://devblogs.microsoft.com/typescript/type-treat-wrap-up/)
