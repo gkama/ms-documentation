@@ -1,5 +1,6 @@
 # Azure
 
+- [Azure REST libraries for JavaScript](https://devblogs.microsoft.com/azure-sdk/azure-rest-libraries-for-javascript/)
 - [What’s new in the Azure Functions Tables extension for .NET **Beta**](https://devblogs.microsoft.com/azure-sdk/whats-new-in-the-azure-functions-tables-extension-for-net-beta/)
 - [Join us: Art of the possible: AI in government – March 30, 2022](https://devblogs.microsoft.com/azuregov/join-us-art-of-the-possible-ai-in-government-march-30-2022/)
 - [Azure export controls white paper updates](https://devblogs.microsoft.com/azuregov/azure-export-controls-white-paper-updates/)
