@@ -596,6 +596,7 @@
 - [Connect Azure Boards to GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops)
 
 # Microsoft Blog
+- [Java 17 and Tomcat 10.0 available on Azure App Service](https://devblogs.microsoft.com/java/java-17-and-tomcat-10-0-available-on-azure-app-service/)
 - [From 0 to hero: connecting your web app to Microsoft Teams using Azure Communication Services ](https://devblogs.microsoft.com/microsoft365dev/from-0-to-hero-connecting-your-web-app-to-microsoft-teams-using-azure-communication-services/)
 - [Get inspired with Microsoft 365 apps at Microsoft Tech Days](https://devblogs.microsoft.com/microsoft365dev/get-inspired-with-microsoft-365-apps-at-microsoft-tech-days/)
 - [Learn from the Community: Microsoft MVPs digitize knowledge in a Community Bot for OneDrive](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-microsoft-mvps-digitize-knowledge-in-community-bot-for-onedrive/)
