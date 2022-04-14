@@ -1,6 +1,7 @@
 # .NET
 
 - [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
+- [Announcing Entity Framework Core 7 (EF7) Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-3/)
 - [Announcing .NET Community Toolkit v8.0.0 Preview 3](https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-3/)
 - [.NET 5.0 will reach End of Support on May 08, 2022](https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/)
 - [Go To Definition improvements for external source in Roslyn](https://devblogs.microsoft.com/dotnet/go-to-definition-improvements-for-external-source-in-roslyn/)
