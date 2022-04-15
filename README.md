@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Supercharge your Git experience in VS](https://devblogs.microsoft.com/visualstudio/supercharge-your-git-experience-in-vs/)
 - [CPU Usage Tool Improvements](https://devblogs.microsoft.com/visualstudio/cpu-usage-tool-improvements/)
 - [Python in Visual Studio Code – April 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2022-release/)
 - [Suffer from Ctrl+S fatigue? We have a feature for you](https://devblogs.microsoft.com/visualstudio/suffer-from-ctrls-fatigue-we-have-a-feature-for-you/)
