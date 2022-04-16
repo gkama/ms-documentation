@@ -1,5 +1,6 @@
 # Azure
 
+- [Inside the making of the Azure SDK management libraries](https://devblogs.microsoft.com/azure-sdk/inside-the-making-of-the-azure-sdk-management-libraries/)
 - [Azure SDK Release (April 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2022/)
 - [Azure REST libraries for JavaScript](https://devblogs.microsoft.com/azure-sdk/azure-rest-libraries-for-javascript/)
 - [What’s new in the Azure Functions Tables extension for .NET **Beta**](https://devblogs.microsoft.com/azure-sdk/whats-new-in-the-azure-functions-tables-extension-for-net-beta/)
