@@ -687,6 +687,7 @@
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
+- [How can I co_await on a Windows Runtime async action or operation with a timeout?](https://devblogs.microsoft.com/oldnewthing/20220415-00/?p=106486)
 - [quantum-viz.js: a quantum circuits visualization library](https://devblogs.microsoft.com/qsharp/quantum-viz-js-a-quantum-circuits-visualization-library/)
 - [Time of Flight Camera – System Overview](https://devblogs.microsoft.com/azure-depth-platform/time-of-flight-camera-system-overview/)
 - [How Do I Discover Changes to an AD Group’s Membership](https://devblogs.microsoft.com/powershell-community/how-do-i-discover-changes-to-an-ad-groups-membership/)
