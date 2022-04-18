@@ -1084,6 +1084,7 @@
 - [Announcing Azure Quantum challenge at QCHack 2022](https://devblogs.microsoft.com/qsharp/announcing-azure-quantum-challenge-at-qchack-2022/)
 - [Write foldable tests quickly with Test Kit](https://devblogs.microsoft.com/surface-duo/foldable-ui-test-kit/)
 - [On Preferences and Scopes](https://devblogs.microsoft.com/powershell-community/how-to-have-more-control-of-preferences-in-functions-and-the-role-of-modules-on-inheritance/)
+- [isSeparating: the field that unites all foldables](https://devblogs.microsoft.com/surface-duo/isseparating-foldable-jetpack-window-manager/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
