@@ -1,5 +1,6 @@
 # .NET
 
+- [Tutorial: Build gRPC & OData in ASP.NET Core](https://devblogs.microsoft.com/odata/tutorial-build-grpc-odata-in-asp-net-core/)
 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more!](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
 - [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 - [Announcing Entity Framework Core 7 (EF7) Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-3/)
