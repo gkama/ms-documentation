@@ -1,5 +1,6 @@
 # Azure
 
+- [Introducing the latest beta versions of the Azure SDK for Go management modules](https://devblogs.microsoft.com/azure-sdk/introducing-the-latest-beta-versions-of-the-azure-sdk-for-go-management-modules/)
 - [Larger document sizes, unique index improvements, $expr support in Azure Cosmos DB API for MongoDB](https://devblogs.microsoft.com/cosmosdb/larger-document-sizes-unique-index-improvements-expr-support-in-azure-cosmos-db-api-for-mongodb/)
 - [Inside the making of the Azure SDK management libraries](https://devblogs.microsoft.com/azure-sdk/inside-the-making-of-the-azure-sdk-management-libraries/)
 - [Azure SDK Release (April 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2022/)
