@@ -1105,6 +1105,7 @@
 - [Speculation on the design decisions that led to the common ABI for C++ coroutines](https://devblogs.microsoft.com/oldnewthing/20220103-00/?p=106109)
 - [Jetpack Window Manager release candidate](https://devblogs.microsoft.com/surface-duo/jetpack-window-manager-release-candidate/)
 - [PSReadLine 2.2 RC](https://devblogs.microsoft.com/powershell/psreadline-2-2-rc/)
+- [vcpkg April 2022 Release is Now Available](https://devblogs.microsoft.com/cppblog/vcpkg-april-2022-release-is-now-available/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
