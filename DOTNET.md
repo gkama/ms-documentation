@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET MAUI Release Candidate 2 – With 100% More Tizen](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2/)
 - [View .NET collections with the new IEnumerable Debugger Visualizer](https://devblogs.microsoft.com/visualstudio/view-net-collections-with-the-new-ienumerable-debugger-visualizer/)
 - [Tutorial: Build gRPC & OData in ASP.NET Core](https://devblogs.microsoft.com/odata/tutorial-build-grpc-odata-in-asp-net-core/)
 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more!](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
