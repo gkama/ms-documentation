@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing General Availability of Change Data Capture (CDC) on Azure SQL Database](https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-change-data-capture-cdc-on-azure-sql-database/)
 - [Azure Cosmos DB Cassandra API: A true differentiator with Autoscale](https://devblogs.microsoft.com/cosmosdb/cassandra-autoscale/)
 - [Securing Defense Industrial Base workloads with the Microsoft Sentinel: CMMC 2.0 Solution](https://devblogs.microsoft.com/azuregov/securing-defense-industrial-base-workloads-with-the-microsoft-sentinel-cmmc-2-0-solution/)
 - [Introducing the latest beta versions of the Azure SDK for Go management modules](https://devblogs.microsoft.com/azure-sdk/introducing-the-latest-beta-versions-of-the-azure-sdk-for-go-management-modules/)
