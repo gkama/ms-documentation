@@ -11,7 +11,6 @@
 - [What’s new in the Azure Functions Tables extension for .NET **Beta**](https://devblogs.microsoft.com/azure-sdk/whats-new-in-the-azure-functions-tables-extension-for-net-beta/)
 - [Join us: Art of the possible: AI in government – March 30, 2022](https://devblogs.microsoft.com/azuregov/join-us-art-of-the-possible-ai-in-government-march-30-2022/)
 - [Azure export controls white paper updates](https://devblogs.microsoft.com/azuregov/azure-export-controls-white-paper-updates/)
- is herei!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [The new Microsoft Azure Cosmos DB Developer Specialty Certification is here!](https://devblogs.microsoft.com/cosmosdb/the-new-microsoft-azure-cosmos-db-developer-specialty-certification-is-here/)
 - [Create REST API in Python with Django, using the Django REST Framework and Azure SQL](https://devblogs.microsoft.com/azure-sql/create-rest-api-in-python-with-django-using-the-django-rest-framework-and-azure-sql/)
 - [Saving Bot Activities in Azure SQL Database](https://devblogs.microsoft.com/azure-sql/saving-bot-activities-in-azure-sql-database/)
