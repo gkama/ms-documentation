@@ -689,6 +689,7 @@
 - [Unity C#: Improved Out Parameters (C# 7.0)](https://www.gamasutra.com/blogs/RubenTorresBonet/20200330/360305/Unity_C_Improved_Out_Parameters_C_70.php)
 
 # Other
+- [Windows Graphics News – 2022 Q1](https://devblogs.microsoft.com/directx/windows-graphics-news-2022-q1/)
 - [How can I co_await on a Windows Runtime async action or operation with a timeout?](https://devblogs.microsoft.com/oldnewthing/20220415-00/?p=106486)
 - [quantum-viz.js: a quantum circuits visualization library](https://devblogs.microsoft.com/qsharp/quantum-viz-js-a-quantum-circuits-visualization-library/)
 - [Time of Flight Camera – System Overview](https://devblogs.microsoft.com/azure-depth-platform/time-of-flight-camera-system-overview/)
