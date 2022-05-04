@@ -1110,7 +1110,8 @@
 - [PSReadLine 2.2 RC](https://devblogs.microsoft.com/powershell/psreadline-2-2-rc/)
 - [vcpkg April 2022 Release is Now Available](https://devblogs.microsoft.com/cppblog/vcpkg-april-2022-release-is-now-available/)
 - [Office Math](https://devblogs.microsoft.com/math-in-office/officemath/)
-
+- [Major update to the PowerShell Extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/major-update-to-the-powershell-extension-for-visual-studio-code/)
+  
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
