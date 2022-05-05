@@ -1,5 +1,6 @@
 # .NET
 
+- [Quickly Map Your NuGet Packages to Sources](https://devblogs.microsoft.com/nuget/quickly-map-your-nuget-packages-to-sources/)
 - [YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
 - [.NET MAUI Release Candidate 2 – With 100% More Tizen](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2/)
 - [View .NET collections with the new IEnumerable Debugger Visualizer](https://devblogs.microsoft.com/visualstudio/view-net-collections-with-the-new-ienumerable-debugger-visualizer/)
