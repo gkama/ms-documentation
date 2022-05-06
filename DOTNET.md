@@ -1,5 +1,6 @@
 # .NET
 
+- [Upgrading a WCF service to .NET 6 with CoreWCF](https://devblogs.microsoft.com/dotnet/upgrading-a-wcf-service-to-dotnet-6/)
 - [Quickly Map Your NuGet Packages to Sources](https://devblogs.microsoft.com/nuget/quickly-map-your-nuget-packages-to-sources/)
 - [YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
 - [.NET MAUI Release Candidate 2 – With 100% More Tizen](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2/)
