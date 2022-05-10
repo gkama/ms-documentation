@@ -1,5 +1,6 @@
 # Azure
 
+- [Create and connect to an Azure SQL DB in 6 easy steps](https://devblogs.microsoft.com/azure-sql/create-and-connect-to-an-azure-sql-db/)
 - [Azure Toolkit for IntelliJ Update – April 2022](https://devblogs.microsoft.com/java/azure-toolkit-for-intellij-update-april-2022/)
 - [Announcing General Availability of Change Data Capture (CDC) on Azure SQL Database](https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-change-data-capture-cdc-on-azure-sql-database/)
 - [Azure Cosmos DB Cassandra API: A true differentiator with Autoscale](https://devblogs.microsoft.com/cosmosdb/cassandra-autoscale/)
