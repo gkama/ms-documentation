@@ -2,6 +2,7 @@
 
 - [The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/)
 - [Regular Expression Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/)
+- [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/)
 - [.NET May 2022 Updates – .NET 6.0.5, .NET 5.0.17 and, .NET Core 3.1.25](https://devblogs.microsoft.com/dotnet/may-2022-updates/)
 - [Upgrading a WCF service to .NET 6 with CoreWCF](https://devblogs.microsoft.com/dotnet/upgrading-a-wcf-service-to-dotnet-6/)
 - [Quickly Map Your NuGet Packages to Sources](https://devblogs.microsoft.com/nuget/quickly-map-your-nuget-packages-to-sources/)
