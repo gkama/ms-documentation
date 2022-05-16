@@ -1,5 +1,6 @@
 # Azure
 
+- [Join Us! Azure Cosmos DB at Microsoft Build 2022](https://devblogs.microsoft.com/cosmosdb/join-us-azure-cosmos-db-at-microsoft-build-2022/)
 - [Create and connect to an Azure SQL DB in 6 easy steps](https://devblogs.microsoft.com/azure-sql/create-and-connect-to-an-azure-sql-db/)
 - [Azure Toolkit for IntelliJ Update – April 2022](https://devblogs.microsoft.com/java/azure-toolkit-for-intellij-update-april-2022/)
 - [Announcing General Availability of Change Data Capture (CDC) on Azure SQL Database](https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-change-data-capture-cdc-on-azure-sql-database/)
