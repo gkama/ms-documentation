@@ -413,6 +413,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Azure DevOps
+- [Top Stories from the Microsoft DevOps Community – 13.05.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)
 - [Top Stories from the Microsoft DevOps Community – 2022.06.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-06-05/)
 - [Reconfigure Azure DevOps Server to use Kerberos instead of NTLM](https://devblogs.microsoft.com/devops/reconfigure-azure-devops-server-to-use-kerberos-instead-of-ntlm/)
 - [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
