@@ -1093,6 +1093,7 @@
 - [On Preferences and Scopes](https://devblogs.microsoft.com/powershell-community/how-to-have-more-control-of-preferences-in-functions-and-the-role-of-modules-on-inheritance/)
 - [isSeparating: the field that unites all foldables](https://devblogs.microsoft.com/surface-duo/isseparating-foldable-jetpack-window-manager/)
 - [Windows Graphics News – 2022 Q1](https://devblogs.microsoft.com/directx/windows-graphics-news-2022-q1/)
+- [Google I/O 2022 recap](https://devblogs.microsoft.com/surface-duo/google-io-2022-foldable-recap/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
