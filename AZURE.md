@@ -1,5 +1,6 @@
 # Azure
 
+- [Watch Now! Azure Cosmos DB Essentials Season 3](https://devblogs.microsoft.com/cosmosdb/watch-now-azure-cosmos-db-essentials-season-3/)
 - [Join Us! Azure Cosmos DB at Microsoft Build 2022](https://devblogs.microsoft.com/cosmosdb/join-us-azure-cosmos-db-at-microsoft-build-2022/)
 - [Create and connect to an Azure SQL DB in 6 easy steps](https://devblogs.microsoft.com/azure-sql/create-and-connect-to-an-azure-sql-db/)
 - [Azure Toolkit for IntelliJ Update – April 2022](https://devblogs.microsoft.com/java/azure-toolkit-for-intellij-update-april-2022/)
