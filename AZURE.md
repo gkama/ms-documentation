@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing the stable release of the Azure Schema Registry client libraries](https://devblogs.microsoft.com/azure-sdk/nnouncing-the-stable-release-of-the-azure-schema-registry-client-libraries/)
 - [Azure SQL Database Change Stream with Debezium](https://devblogs.microsoft.com/azure-sql/azure-sql-change-stream-with-debezium/)
 - [Watch Now! Azure Cosmos DB Essentials Season 3](https://devblogs.microsoft.com/cosmosdb/watch-now-azure-cosmos-db-essentials-season-3/)
 - [Join Us! Azure Cosmos DB at Microsoft Build 2022](https://devblogs.microsoft.com/cosmosdb/join-us-azure-cosmos-db-at-microsoft-build-2022/)
