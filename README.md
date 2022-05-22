@@ -925,6 +925,7 @@
 - [vcpkg April 2022 Release is Now Available](https://devblogs.microsoft.com/cppblog/vcpkg-april-2022-release-is-now-available/)
 - [Office Math](https://devblogs.microsoft.com/math-in-office/officemath/)
 - [Major update to the PowerShell Extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/major-update-to-the-powershell-extension-for-visual-studio-code/)
+- [The journey of moving from C++/WinRT to C# in the Microsoft Store](https://devblogs.microsoft.com/ifdef-windows/the-journey-of-moving-from-cpp-winrt-to-csharp-in-the-microsoft-store/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
