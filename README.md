@@ -110,6 +110,7 @@
 - [Static Analysis Fixes in Visual Studio 2019 version 16.11](https://devblogs.microsoft.com/cppblog/static%e2%80%afanalysis-fixes-in-visual-studio-2019-version-16-11/)
 - [Optimizing toolbars for your workflow](https://devblogs.microsoft.com/visualstudio/optimizing-toolbars-for-your-workflow/)
 - [Color coded tabs in Visual Studio](https://tabsstudio.com/documentation/color-coded-tabs-in-visual-studio.html)
+- [Java on Visual Studio Code Update – May 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-may-2022/)
 
 # C#
 - [New Android logcat support available in Microsoft Performance Tools for Linux & Android](https://devblogs.microsoft.com/performance-diagnostics/new-android-logcat-support-available-in-microsoft-performance-tools-for-linux-android/)
