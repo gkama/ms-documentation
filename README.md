@@ -906,6 +906,7 @@
 - [Windows Graphics News – 2022 Q1](https://devblogs.microsoft.com/directx/windows-graphics-news-2022-q1/)
 - [Google I/O 2022 recap](https://devblogs.microsoft.com/surface-duo/google-io-2022-foldable-recap/)
 - [Exploring Service Bus with Fantasy Football](https://devblogs.microsoft.com/premier-developer/exploring-service-bus-with-fantasy-football/)
+- [Performance regression tests at Microsoft Security](https://devblogs.microsoft.com/premier-developer/performance-regression-tests-at-microsoft-security/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
