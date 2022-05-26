@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Introducing the private preview of port tunneling in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/introducing-private-preview-port-tunneling-visual-studio-for-asp-net-core-projects/)
 - [Visual Studio 2022 for Mac is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available/)
 - [Visual Studio on an ultra-wide monitor](https://devblogs.microsoft.com/visualstudio/visual-studio-on-an-ultra-wide-monitor/)
 - [Python in Visual Studio Code – May 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2022-release/)
