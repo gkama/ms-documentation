@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET Framework May 2022 Cumulative Update](https://devblogs.microsoft.com/dotnet/net-framework-may-2022-cumulative-update/)
 - [The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/)
 - [Regular Expression Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/)
 - [.NET MAUI Release Candidate 3](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/)
