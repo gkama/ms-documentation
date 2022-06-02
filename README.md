@@ -934,6 +934,7 @@
 - [Major update to the PowerShell Extension for Visual Studio Code](https://devblogs.microsoft.com/powershell/major-update-to-the-powershell-extension-for-visual-studio-code/)
 - [The journey of moving from C++/WinRT to C# in the Microsoft Store](https://devblogs.microsoft.com/ifdef-windows/the-journey-of-moving-from-cpp-winrt-to-csharp-in-the-microsoft-store/)
 - [Software Carbon Intensity?](https://devblogs.microsoft.com/premier-developer/software-carbon-intensity/)
+- [Java on Azure Tooling Update – June 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2022/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
