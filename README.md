@@ -417,6 +417,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Microsoft Blog
+- [Upcoming billing changes for Microsoft Graph APIs for Teams messages](https://devblogs.microsoft.com/microsoft365dev/upcoming-billing-changes-for-microsoft-graph-apis-for-teams-messages/)
 - [Breaking changes for the Insights API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-insights-api-beta/)
 - [Java 17 and Tomcat 10.0 available on Azure App Service](https://devblogs.microsoft.com/java/java-17-and-tomcat-10-0-available-on-azure-app-service/)
 - [From 0 to hero: connecting your web app to Microsoft Teams using Azure Communication Services ](https://devblogs.microsoft.com/microsoft365dev/from-0-to-hero-connecting-your-web-app-to-microsoft-teams-using-azure-communication-services/)
