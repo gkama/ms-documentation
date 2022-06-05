@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing JSON Enhancements in Azure SQL Database, Azure SQL Managed Instance and SQL Server 2022](https://devblogs.microsoft.com/azure-sql/announcing-json-enhancements-in-azure-sql-database-azure-sql-managed-instance-and-sql-server-2022/)
 - [Announcing the stable release of the Azure Schema Registry client libraries](https://devblogs.microsoft.com/azure-sdk/nnouncing-the-stable-release-of-the-azure-schema-registry-client-libraries/)
 - [Azure SQL Database Change Stream with Debezium](https://devblogs.microsoft.com/azure-sql/azure-sql-change-stream-with-debezium/)
 - [Watch Now! Azure Cosmos DB Essentials Season 3](https://devblogs.microsoft.com/cosmosdb/watch-now-azure-cosmos-db-essentials-season-3/)
