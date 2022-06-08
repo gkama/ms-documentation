@@ -1,5 +1,6 @@
 # .NET
 
+- [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/)
 - [Incremental ASP.NET to ASP.NET Core Migration](https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/)
 - [Introducing the private preview of port tunneling in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/introducing-private-preview-port-tunneling-visual-studio-for-asp-net-core-projects/)
 - [.NET Framework May 2022 Cumulative Update](https://devblogs.microsoft.com/dotnet/net-framework-may-2022-cumulative-update/)
