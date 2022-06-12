@@ -1,4 +1,6 @@
 # Azure DevOps
+
+- [Copy a work item type using Azure DevOps API’s](https://devblogs.microsoft.com/devops/copy-a-work-item-type-using-azure-devops-apis-undocumented/)
 - [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
 - [DevOps Nirvana – Part 1](https://devblogs.microsoft.com/premier-developer/devops-nirvana-part-1/)
 - [Azure Artifacts introduces new Upstreaming capabilities](https://devblogs.microsoft.com/devops/azure-artifacts-introduces-new-upstreaming-capabilities/)
