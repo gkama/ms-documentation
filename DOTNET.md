@@ -1,5 +1,6 @@
 # .NET
 
+- [OneService Journey to .NET 6](https://devblogs.microsoft.com/dotnet/one-service-journey-to-dotnet-6/)
 - [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)
 - [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/)
 - [Incremental ASP.NET to ASP.NET Core Migration](https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/)
