@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Arm64 Visual Studio](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio/)
 - [New Profiler feature in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-profiler-feature-in-visual-studio/)
 - [Visual Studio at Microsoft Build 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022/)
 - [Introducing the private preview of port tunneling in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/introducing-private-preview-port-tunneling-visual-studio-for-asp-net-core-projects/)
