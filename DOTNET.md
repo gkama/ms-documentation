@@ -1,5 +1,6 @@
 # .NET
 
+- [New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)
 - [.NET Framework June 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2022-security-and-quality-rollup-updates/)
 - [OneService Journey to .NET 6](https://devblogs.microsoft.com/dotnet/one-service-journey-to-dotnet-6/)
 - [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)
