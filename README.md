@@ -419,6 +419,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Microsoft Blog
+- [Java on Visual Studio Code Update – June 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-june-2022/)
 - [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/)
 - [DevOps Fragility, Antipatterns, and Consequences](https://devblogs.microsoft.com/premier-developer/devops-fragility-antipatterns-and-consequences/)
 - [Upcoming billing changes for Microsoft Graph APIs for Teams messages](https://devblogs.microsoft.com/microsoft365dev/upcoming-billing-changes-for-microsoft-graph-apis-for-teams-messages/)
