@@ -1,5 +1,6 @@
 # .NET
 
+- [Incremental ASP.NET Migration Tooling Preview 2](https://devblogs.microsoft.com/dotnet/incremental-asp-net-migration-tooling-preview-2/)
 - [New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)
 - [.NET Framework June 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2022-security-and-quality-rollup-updates/)
 - [Introducing the ML.NET Text Classification API (preview)](https://devblogs.microsoft.com/dotnet/introducing-the-ml-dotnet-text-classification-api-preview/)
