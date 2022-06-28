@@ -1,6 +1,7 @@
 # Microsoft related technologies documentation
 
 # Visual Studio (Code)
+- [Sneak Peek and Edit Your Code While You Search](https://devblogs.microsoft.com/visualstudio/sneak-peek-and-edit-your-code-while-you-search/)
 - [Listen Up, Visual Studio has a new feature you need to hear about!](https://devblogs.microsoft.com/visualstudio/audio-cues-in-visual-studio-2022-17-3-preview-2/)
 - [Arm64 Visual Studio](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio/)
 - [New Profiler feature in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-profiler-feature-in-visual-studio/)
