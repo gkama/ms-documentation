@@ -1,5 +1,6 @@
 # Azure
 
+- [Azure AD OAuth client credential flow with custom certificate walk-through](https://devblogs.microsoft.com/premier-developer/azure-ad-oauth-client-credential-flow-with-custom-certificate-walk-through/)
 - [Introducing a new system function and optimized query operators](https://devblogs.microsoft.com/cosmosdb/introducing-a-new-system-function-and-optimized-query-operators/)
 - [Azure SDK Release (June 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2022/)
 - [Azure Cosmos DB at Microsoft Build 2022 Review – Episode 45](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-at-microsoft-build-2022-review-episode-45/)
