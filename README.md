@@ -921,6 +921,7 @@
 - [Exploring Service Bus with Fantasy Football](https://devblogs.microsoft.com/premier-developer/exploring-service-bus-with-fantasy-football/)
 - [Performance regression tests at Microsoft Security](https://devblogs.microsoft.com/premier-developer/performance-regression-tests-at-microsoft-security/)
 - [How To Batch Importing Azure DevOps Work Items Using Azure DevOps APIs and C#](https://devblogs.microsoft.com/premier-developer/how-to-batch-importing-azure-devops-work-items-using-azure-devops-apis-and-c/)
+- [Azure AD OAuth client credential flow with custom certificate walk-through](https://devblogs.microsoft.com/premier-developer/azure-ad-oauth-client-credential-flow-with-custom-certificate-walk-through/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
