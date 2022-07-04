@@ -421,6 +421,7 @@
 - [How can I break down a shell item in the same way as the breadcrumb bar?](https://devblogs.microsoft.com/oldnewthing/20210827-00/?p=105612)
 
 # Microsoft Blog
+- [Video+Chat and Calculator samples for Jetpack Compose](https://devblogs.microsoft.com/surface-duo/jetpack-compose-video-calculator-samples/)
 - [Introducing apps in Microsoft Teams Voice over IP (VoIP) calls](https://devblogs.microsoft.com/microsoft365dev/introducing-apps-in-microsoft-teams-voice-over-ip-voip-calls/)
 - [Changes to Microsoft 365 Apps usage reports API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/changes-to-microsoft-365-apps-usage-reports-api-in-microsoft-graph/)
 - [PIX 2206.20: Servicing release with new AMD plugin](https://devblogs.microsoft.com/pix/pix-2206-20/)
