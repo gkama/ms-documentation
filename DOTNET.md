@@ -1,5 +1,6 @@
 # .NET
 
+- [CoreWCF 1.1.0 and project templates](https://devblogs.microsoft.com/dotnet/corewcf-1-1-0-and-project-templates/)
 - [Getting Started with DevOps and .NET MAUI](https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/)
 - [Incremental ASP.NET Migration Tooling Preview 2](https://devblogs.microsoft.com/dotnet/incremental-asp-net-migration-tooling-preview-2/)
 - [New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)
