@@ -854,6 +854,7 @@
 - [How To Batch Importing Azure DevOps Work Items Using Azure DevOps APIs and C#](https://devblogs.microsoft.com/premier-developer/how-to-batch-importing-azure-devops-work-items-using-azure-devops-apis-and-c/)
 - [Azure AD OAuth client credential flow with custom certificate walk-through](https://devblogs.microsoft.com/premier-developer/azure-ad-oauth-client-credential-flow-with-custom-certificate-walk-through/)
 - [Video+Chat and Calculator samples for Jetpack Compose](https://devblogs.microsoft.com/surface-duo/jetpack-compose-video-calculator-samples/)
+- [Windows Runtime observable collections don’t mix well with multithreading](https://devblogs.microsoft.com/oldnewthing/20220708-00/?p=106847)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
