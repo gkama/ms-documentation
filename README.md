@@ -881,6 +881,7 @@
 - [Java on Azure Tooling Update – June 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2022/)
 - [PowerShell Extension for Visual Studio Code June 2022 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-june-2022-update/)
 - [Windows Terminal Preview 1.15 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-15-release/)
+- [Cheat Sheet – Console Experience](https://devblogs.microsoft.com/powershell-community/cheat-sheet-console-experience/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
