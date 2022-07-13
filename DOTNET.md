@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET Framework July 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-security-and-quality-rollup-updates/)
 - [CoreWCF 1.1.0 and project templates](https://devblogs.microsoft.com/dotnet/corewcf-1-1-0-and-project-templates/)
 - [Getting Started with DevOps and .NET MAUI](https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/)
 - [Incremental ASP.NET Migration Tooling Preview 2](https://devblogs.microsoft.com/dotnet/incremental-asp-net-migration-tooling-preview-2/)
