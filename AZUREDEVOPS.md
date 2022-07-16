@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
 - [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
 - [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
 - [Copy a work item type using Azure DevOps API’s](https://devblogs.microsoft.com/devops/copy-a-work-item-type-using-azure-devops-apis-undocumented/)
