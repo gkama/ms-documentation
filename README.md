@@ -885,6 +885,7 @@
 - [PowerShell Extension for Visual Studio Code June 2022 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-june-2022-update/)
 - [Windows Terminal Preview 1.15 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-15-release/)
 - [Cheat Sheet – Console Experience](https://devblogs.microsoft.com/powershell-community/cheat-sheet-console-experience/)
+- [Preview Agility SDK 1.706.3-preview: SM 6.7, Enhanced Barriers and more](https://devblogs.microsoft.com/directx/preview-agility-sdk-1-706-3-preview-sm-6-7-enhanced-barriers-and-more/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
