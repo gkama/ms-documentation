@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Announcing Microsoft Loop component developer private preview now available](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-loop-component-developer-private-preview/)
 - [Java on Visual Studio Code Update – July 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2022/)
 - [Microsoft Graph PHP SDK 2.0.0-RC5 is now available](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-php-sdk-2-0-0-rc5-is-now-available/)
 - [Java on Azure Tooling Update –July 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-july-2022/)
