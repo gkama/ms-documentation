@@ -1,5 +1,6 @@
 # Azure
 
+- [Monitor Azure Managed Instance for Apache Cassandra using Dynatrace](https://devblogs.microsoft.com/cosmosdb/monitor-azure-managed-instance-for-apache-cassandra-using-dynatrace/)
 - [Using Azure Service Bus in the wild](https://devblogs.microsoft.com/azure-sdk/using-azure-service-bus-in-the-wild/)
 - [Azure AD OAuth client credential flow with custom certificate walk-through](https://devblogs.microsoft.com/premier-developer/azure-ad-oauth-client-credential-flow-with-custom-certificate-walk-through/)
 - [Introducing a new system function and optimized query operators](https://devblogs.microsoft.com/cosmosdb/introducing-a-new-system-function-and-optimized-query-operators/)
