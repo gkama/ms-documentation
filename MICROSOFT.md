@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [eDiscovery API for Microsoft Graph is now generally available](https://devblogs.microsoft.com/microsoft365dev/ediscovery-api-for-microsoft-graph-is-now-generally-available/)
 - [Application permissions for Bookings APIs in Microsoft Graph now available on v1](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available-on-v1/)
 - [Announcing Microsoft Loop component developer private preview now available](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-loop-component-developer-private-preview/)
 - [Java on Visual Studio Code Update – July 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2022/)
