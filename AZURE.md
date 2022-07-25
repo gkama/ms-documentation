@@ -1,5 +1,6 @@
 # Azure
 
+- [Role-based access control in Azure Cosmos DB API for MongoDB: Now in preview](https://devblogs.microsoft.com/cosmosdb/rbac-api-mongodb-preview/)
 - [Azure Virtual Desktop is now generally available in Azure Government Secret](https://devblogs.microsoft.com/azuregov/azure-virtual-desktop-is-now-generally-available-in-azure-government-secret/)
 - [Monitor Azure Managed Instance for Apache Cassandra using Dynatrace](https://devblogs.microsoft.com/cosmosdb/monitor-azure-managed-instance-for-apache-cassandra-using-dynatrace/)
 - [Using Azure Service Bus in the wild](https://devblogs.microsoft.com/azure-sdk/using-azure-service-bus-in-the-wild/)
