@@ -888,6 +888,7 @@
 - [Cheat Sheet – Console Experience](https://devblogs.microsoft.com/powershell-community/cheat-sheet-console-experience/)
 - [Preview Agility SDK 1.706.3-preview: SM 6.7, Enhanced Barriers and more](https://devblogs.microsoft.com/directx/preview-agility-sdk-1-706-3-preview-sm-6-7-enhanced-barriers-and-more/)
 - [C++ coroutine gotcha: Falling off the end of a function-level catch](https://devblogs.microsoft.com/oldnewthing/20220718-00/?p=106870)
+- [vcpkg July 2022 Release is Now Available: Shared Libraries on Linux, Improved vcpkg new, Optional name and version Fields, and More…](https://devblogs.microsoft.com/cppblog/vcpkg-july-2022-release-is-now-available-shared-libraries-on-linux-improved-vcpkg-new-optional-name-and-version-fields-and-more/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
