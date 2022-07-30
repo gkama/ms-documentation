@@ -1,5 +1,6 @@
 # Azure
 
+- [Try the latest Azure SDK for .NET management libraries](https://devblogs.microsoft.com/azure-sdk/try-the-latest-azure-management-sdk-for-net/)
 - [Explore Azure Managed Instance for Apache Cassandra’s new features](https://devblogs.microsoft.com/cosmosdb/explore-azure-managed-instance-for-apache-cassandras-new-features/)
 - [Role-based access control in Azure Cosmos DB API for MongoDB: Now in preview](https://devblogs.microsoft.com/cosmosdb/rbac-api-mongodb-preview/)
 - [Azure Virtual Desktop is now generally available in Azure Government Secret](https://devblogs.microsoft.com/azuregov/azure-virtual-desktop-is-now-generally-available-in-azure-government-secret/)
