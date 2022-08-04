@@ -860,6 +860,7 @@
 - [Windows Runtime observable collections don’t mix well with multithreading](https://devblogs.microsoft.com/oldnewthing/20220708-00/?p=106847)
 - [droidcon San Francisco recap](https://devblogs.microsoft.com/surface-duo/droidcon-san-francisco-2022/)
 - [PowerShell Extension for Visual Studio Code July 2022 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-july-2022-update/)
+- [Windows Package Manager 1.3](https://devblogs.microsoft.com/commandline/windows-package-manager-1-3/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
