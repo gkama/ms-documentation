@@ -893,6 +893,7 @@
 - [vcpkg July 2022 Release is Now Available: Shared Libraries on Linux, Improved vcpkg new, Optional name and version Fields, and More…](https://devblogs.microsoft.com/cppblog/vcpkg-july-2022-release-is-now-available-shared-libraries-on-linux-improved-vcpkg-new-optional-name-and-version-fields-and-more/)
 - [PowerShellGet 3.0 Preview 16](https://devblogs.microsoft.com/powershell/powershellget-3-0-preview-16/)
 - [The AArch64 processor (aka arm64), part 4: Addition and subtraction](https://devblogs.microsoft.com/oldnewthing/20220729-00/?p=106915)
+- [Python in Visual Studio Code – August 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2022-release/)
   
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
