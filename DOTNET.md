@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/)
 - [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/)
 - [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/)
 - [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/)
