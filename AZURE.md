@@ -1,6 +1,5 @@
 # Azure
 
-- [A](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-azure-fluid-relay-service/)
 - [Announcing general availability of Azure Fluid Relay service](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-azure-fluid-relay-service/)
 - [Try the latest Azure SDK for .NET management libraries](https://devblogs.microsoft.com/azure-sdk/try-the-latest-azure-management-sdk-for-net/)
 - [Explore Azure Managed Instance for Apache Cassandra’s new features](https://devblogs.microsoft.com/cosmosdb/explore-azure-managed-instance-for-apache-cassandras-new-features/)
