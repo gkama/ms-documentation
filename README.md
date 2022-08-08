@@ -862,6 +862,7 @@
 - [PowerShell Extension for Visual Studio Code July 2022 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-july-2022-update/)
 - [Windows Package Manager 1.3](https://devblogs.microsoft.com/commandline/windows-package-manager-1-3/)
 - [Password Expiry Notification Using Teams and Graph API](https://devblogs.microsoft.com/powershell-community/password-expiry-notification-using-teams-and-graph-api/)
+- [Announcing the release of Get-WhatsNew](https://devblogs.microsoft.com/powershell/announcing-the-release-of-get-whatsnew/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
