@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing the .NET MAUI Beautiful UI Challenge](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/)
 - [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/)
 - [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/)
 - [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/)
