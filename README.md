@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Introducing Transitive Dependencies in Visual Studio](https://devblogs.microsoft.com/nuget/introducing-transitive-dependencies-in-visual-studio/)
 - [IEnumerable Debugger Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/ienumerable-visualizer-improvements/)
 - [VS2022 Performance Enhancements: Git Branch Switching](https://devblogs.microsoft.com/visualstudio/vs2022-performance-enhancements-git-branch-switching/)
 - [Sneak Peek and Edit Your Code While You Search](https://devblogs.microsoft.com/visualstudio/sneak-peek-and-edit-your-code-while-you-search/)
