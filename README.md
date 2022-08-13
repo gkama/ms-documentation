@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [HTTPS everywhere](https://devblogs.microsoft.com/nuget/https-everywhere/)
 - [VisualStudio.Extensibility: A New Way to Write Extensions](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility/)
 - [Introducing Transitive Dependencies in Visual Studio](https://devblogs.microsoft.com/nuget/introducing-transitive-dependencies-in-visual-studio/)
 - [IEnumerable Debugger Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/ienumerable-visualizer-improvements/)
