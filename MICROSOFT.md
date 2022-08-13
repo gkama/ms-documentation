@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Upcoming changes to data visibility for Microsoft Graph callRecords APIs](https://devblogs.microsoft.com/microsoft365dev/upcoming-changes-to-data-visibility-for-microsoft-graph-callrecords-apis/)
 - [Announcing general availability of Azure Fluid Relay service](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-azure-fluid-relay-service/)
 - [eDiscovery API for Microsoft Graph is now generally available](https://devblogs.microsoft.com/microsoft365dev/ediscovery-api-for-microsoft-graph-is-now-generally-available/)
 - [Application permissions for Bookings APIs in Microsoft Graph now available on v1](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available-on-v1/)
