@@ -900,7 +900,8 @@
 - [PowerShellGet 3.0 Preview 16](https://devblogs.microsoft.com/powershell/powershellget-3-0-preview-16/)
 - [The AArch64 processor (aka arm64), part 4: Addition and subtraction](https://devblogs.microsoft.com/oldnewthing/20220729-00/?p=106915)
 - [Python in Visual Studio Code – August 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2022-release/)
-  
+- [The AArch64 processor (aka arm64), part 12: Memory access and alignment](https://devblogs.microsoft.com/oldnewthing/20220810-00/?p=106958)  
+
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
 - [Create Configuration Azure](https://learn.hashicorp.com/terraform/azure/configure_az)
