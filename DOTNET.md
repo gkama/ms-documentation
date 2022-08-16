@@ -1,5 +1,6 @@
 # .NET
 
+- [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/)
 - [Announcing .NET Framework 4.8.1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/)
 - [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/)
 - [Announcing the .NET MAUI Beautiful UI Challenge](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/)
