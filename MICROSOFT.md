@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Java on Azure Tooling Update – August 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-august-2022/)
 - [New features in Microsoft Graph To Do APIs and retirement of the Tasks (Beta) API](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-to-do-apis-and-retirement-of-the-tasks-beta-api/)
 - [Upcoming changes to data visibility for Microsoft Graph callRecords APIs](https://devblogs.microsoft.com/microsoft365dev/upcoming-changes-to-data-visibility-for-microsoft-graph-callrecords-apis/)
 - [Announcing general availability of Azure Fluid Relay service](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-azure-fluid-relay-service/)
