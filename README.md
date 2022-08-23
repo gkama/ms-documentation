@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/)
 - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/)
 - [HTTPS everywhere](https://devblogs.microsoft.com/nuget/https-everywhere/)
 - [VisualStudio.Extensibility: A New Way to Write Extensions](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility/)
