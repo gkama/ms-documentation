@@ -2,7 +2,6 @@
 
 # Visual Studio (Code)
 
-- [](https://devblogs.microsoft.com/visualstudio/ls-policies/)
 - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/)
 - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/)
 - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/)
