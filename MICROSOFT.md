@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-productivity-dashboard-with-microsoft-teams-toolkit-for-visual-studio/)
 - [A Concise Guide to Using Multiple Azure Storage Accounts from a Single Spring Boot Application](https://devblogs.microsoft.com/java/a-concise-guide-to-using-multiple-azure-storage-accounts-from-a-single-spring-boot-application/)
 - [Java on Azure Tooling Update – August 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-august-2022/)
 - [New features in Microsoft Graph To Do APIs and retirement of the Tasks (Beta) API](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-to-do-apis-and-retirement-of-the-tasks-beta-api/)
