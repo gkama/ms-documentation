@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET MAUI eBook Now Available – Enterprise Application Patterns](https://devblogs.microsoft.com/dotnet/dotnet-maui-ebook-released/)
 - [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/)
 - [Using the new JSON writer in OData](https://devblogs.microsoft.com/odata/using-the-new-json-writer-in-odata/)
 - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
