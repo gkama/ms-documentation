@@ -1,5 +1,6 @@
 # TypeScript
 
+- [Announcing TypeScript 4.8](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/)
 - [Announcing TypeScript 4.8 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
 - [Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
 - [Announcing TypeScript 4.7 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/)
