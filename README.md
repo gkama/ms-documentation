@@ -872,6 +872,7 @@
 - [Announcing the release of Get-WhatsNew](https://devblogs.microsoft.com/powershell/announcing-the-release-of-get-whatsnew/)
 - [Announcing NuGet 6.3 – Transitive Dependencies, Floating Versions, and Re-enabling Signed Package Verification](https://devblogs.microsoft.com/nuget/announcing-nuget-6-3-transitive-dependencies-floating-versions-and-re-enabling-signed-package-verification/)
 - [The many flavours of WMI management](https://devblogs.microsoft.com/powershell-community/the-many-flavours-of-wmi-management/)
+- [PowerShell Extension for Visual Studio Code August 2022 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-august-2022-update/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
