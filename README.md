@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code
+# Visual Studio (Code)
 
 - [Java on Visual Studio Code Update – August 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-august-2022/)
 - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/)
