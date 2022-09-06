@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Introducing Microsoft Teams App Camp](https://devblogs.microsoft.com/microsoft365dev/introducing-microsoft-teams-app-camp/)
 - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/)
 - [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-productivity-dashboard-with-microsoft-teams-toolkit-for-visual-studio/)
 - [A Concise Guide to Using Multiple Azure Storage Accounts from a Single Spring Boot Application](https://devblogs.microsoft.com/java/a-concise-guide-to-using-multiple-azure-storage-accounts-from-a-single-spring-boot-application/)
