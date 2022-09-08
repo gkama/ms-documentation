@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/)
 - [Introducing Microsoft Teams App Camp](https://devblogs.microsoft.com/microsoft365dev/introducing-microsoft-teams-app-camp/)
 - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/)
 - [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-productivity-dashboard-with-microsoft-teams-toolkit-for-visual-studio/)
