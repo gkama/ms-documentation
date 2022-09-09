@@ -1,5 +1,6 @@
 # Azure
 
+- [Load and visualize Covid-19 case data with the integrated Power BI experience](https://devblogs.microsoft.com/cosmosdb/load-and-visualize-covid-19-case-data-with-the-integrated-power-bi-experience/)
 - [Announcing Materialized Views for Azure Cosmos DB API for Cassandra Preview](https://devblogs.microsoft.com/cosmosdb/cassandra-materialized-views-preview-announcement/)
 - [Using the Azure SDK for Python in Pyodide and PyScript](https://devblogs.microsoft.com/azure-sdk/using-the-azure-sdk-for-python-in-pyodide-and-pyscript/)
 - [Announcing general availability of Azure Fluid Relay service](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-azure-fluid-relay-service/)
