@@ -1,6 +1,6 @@
 # Azure DevOps
 
-- [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
+- [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/
 - [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
 - [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
 - [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
