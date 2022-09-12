@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET 7 comes to Azure Functions & Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-7-comes-to-azure-functions/)
 - [Extension: Omit null value properties in ASP.NET Core OData](https://devblogs.microsoft.com/odata/extension-omit-null-value-properties-in-asp-net-core-odata/)
 - [.NET MAUI eBook Now Available – Enterprise Application Patterns](https://devblogs.microsoft.com/dotnet/dotnet-maui-ebook-released/)
 - [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/)
