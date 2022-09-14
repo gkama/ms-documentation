@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET Framework September 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/)
 - [.NET September 2022 Updates – .NET 6.0.9 and .NET Core 3.1.29](https://devblogs.microsoft.com/dotnet/september-2022-updates/)
 - [Arm64 Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/arm64-performance-improvements-in-dotnet-7/)
 - [.NET 7 comes to Azure Functions & Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-7-comes-to-azure-functions/)
