@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Java on Visual Studio Code Update – September 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-september-2022/)
 - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/)
 - [Introducing Microsoft Teams App Camp](https://devblogs.microsoft.com/microsoft365dev/introducing-microsoft-teams-app-camp/)
 - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/)
