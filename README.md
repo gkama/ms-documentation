@@ -910,6 +910,7 @@
 - [Python in Visual Studio Code – August 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2022-release/)
 - [The AArch64 processor (aka arm64), part 12: Memory access and alignment](https://devblogs.microsoft.com/oldnewthing/20220810-00/?p=106958)
 - [Getting secrets from Key Vault in YAML pipeline](https://devblogs.microsoft.com/premier-developer/getting-secrets-from-key-vault-in-yaml-pipeline/)
+- [Why load fs:[0x18] into a register and then dereference that, instead of just going for fs:[n] directly?](https://devblogs.microsoft.com/oldnewthing/20220919-00/?p=107195)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
