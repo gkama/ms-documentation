@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET Framework September 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-cumulative-update-preview/)
 - [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/)
 - [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/)
 - [.NET Framework September 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/)
