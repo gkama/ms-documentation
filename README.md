@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [A Visual Studio Debugger Extension for the Raspberry Pi Camera](https://devblogs.microsoft.com/cppblog/a-visual-studio-debugger-extension-for-the-raspberry-pi-camera/)
 - [The Future of C++ Compiler Diagnostics in MSVC and Visual Studio](https://devblogs.microsoft.com/cppblog/the-future-of-c-compiler-diagnostics-in-msvc-and-visual-studio/)
 - [DataTable Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/datatable-visualizer-improvements/)
 - [Java on Visual Studio Code Update – August 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-august-2022/)
