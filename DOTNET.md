@@ -1,5 +1,6 @@
 # .NET
 
+- [Now Introducing Arm64 Support for VS Extensions!](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 - [.NET Framework September 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-cumulative-update-preview/)
 - [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/)
 - [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/)
