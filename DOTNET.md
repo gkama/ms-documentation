@@ -1,6 +1,7 @@
 # .NET
 
 - [Microsoft Commerce’s .NET 6 Migration Journey](https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-journey/)
+- [Use .NET from any JavaScript app in .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-7-wasm/)
 - [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/)
 - [Now Introducing Arm64 Support for VS Extensions!](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 - [.NET Framework September 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-cumulative-update-preview/)
