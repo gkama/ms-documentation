@@ -1,5 +1,6 @@
 # .NET
 
+- [官宣 .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet-ch/%e5%ae%98%e5%ae%a3-net-7-release-candidate-1/)
 - [Microsoft Commerce’s .NET 6 Migration Journey](https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-journey/)
 - [Use .NET from any JavaScript app in .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-7-wasm/)
 - [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/)
