@@ -1,5 +1,6 @@
 # .NET
 
+- [Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/)
 - [官宣 .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet-ch/%e5%ae%98%e5%ae%a3-net-7-release-candidate-1/)
 - [Microsoft Commerce’s .NET 6 Migration Journey](https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-journey/)
 - [Use .NET from any JavaScript app in .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-7-wasm/)
