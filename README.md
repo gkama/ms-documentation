@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Now Introducing Arm64 Support for VS Extensions!](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 - [A Visual Studio Debugger Extension for the Raspberry Pi Camera](https://devblogs.microsoft.com/cppblog/a-visual-studio-debugger-extension-for-the-raspberry-pi-camera/)
