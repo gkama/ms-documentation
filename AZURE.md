@@ -1,5 +1,6 @@
 # Azure
 
+- [Join Us for Big News at Ignite 2022](https://devblogs.microsoft.com/cosmosdb/azurecosmosdb-at-msignite-2022/)
 - [Attention Developers: The Cloud-Scale Data for Spring Developers Quick Start Guide is Finally Here!](https://devblogs.microsoft.com/cosmosdb/attention-developers-the-cloud-scale-data-for-spring-developers-quick-start-guide-is-finally-here/)
 - [Azure SDK Release (September 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2022/)
 - [Releasing The Azure SDKs – How It’s Done](https://devblogs.microsoft.com/azure-sdk/releasing-the-azure-sdks-how-its-done/)
