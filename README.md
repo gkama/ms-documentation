@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Python in Visual Studio Code – October 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2022-release/)
 - [Now Introducing Arm64 Support for VS Extensions!](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 - [A Visual Studio Debugger Extension for the Raspberry Pi Camera](https://devblogs.microsoft.com/cppblog/a-visual-studio-debugger-extension-for-the-raspberry-pi-camera/)
 - [The Future of C++ Compiler Diagnostics in MSVC and Visual Studio](https://devblogs.microsoft.com/cppblog/the-future-of-c-compiler-diagnostics-in-msvc-and-visual-studio/)
