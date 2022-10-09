@@ -918,6 +918,7 @@
 - [Getting secrets from Key Vault in YAML pipeline](https://devblogs.microsoft.com/premier-developer/getting-secrets-from-key-vault-in-yaml-pipeline/)
 - [Why load fs:[0x18] into a register and then dereference that, instead of just going for fs:[n] directly?](https://devblogs.microsoft.com/oldnewthing/20220919-00/?p=107195)
 - [Announcing NuGet PackageReference support for C++/CLI MSBuild projects targeting .NET Core and .NET 5 or higher](https://devblogs.microsoft.com/cppblog/announcing-nuget-packagereference-support-for-c-cli-msbuild-projects-targeting-net-core/)
+- [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
