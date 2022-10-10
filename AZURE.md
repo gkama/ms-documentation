@@ -1,5 +1,6 @@
 # Azure
 
+- [Java on Azure Tooling Update – September 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-september-2022/)
 - [Azure Developer CLI (azd) – October 2022 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2022-release/)
 - [Join Us for Big News at Ignite 2022](https://devblogs.microsoft.com/cosmosdb/azurecosmosdb-at-msignite-2022/)
 - [Attention Developers: The Cloud-Scale Data for Spring Developers Quick Start Guide is Finally Here!](https://devblogs.microsoft.com/cosmosdb/attention-developers-the-cloud-scale-data-for-spring-developers-quick-start-guide-is-finally-here/)
