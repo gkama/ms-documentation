@@ -1,5 +1,6 @@
 # .NET
 
+- [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/)
 - [.NET Framework October 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/)
 - [Console.ReadKey improvements in .NET 7](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/)
 - [Bing Ads Campaign Platform – Journey to .NET 6](https://devblogs.microsoft.com/dotnet/bing-ads-campaign-platform-journey-to-dotnet-6/)
