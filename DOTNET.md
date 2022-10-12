@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30](https://devblogs.microsoft.com/dotnet/october-2022-updates/)
 - [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/)
 - [.NET Framework October 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/)
 - [Console.ReadKey improvements in .NET 7](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/)
