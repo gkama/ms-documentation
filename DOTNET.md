@@ -1,5 +1,6 @@
 # .NET
 
+- [官宣 .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet-ch/%e5%ae%98%e5%ae%a3-net-7-release-candidate-2/)
 - [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/)
 - [Announcing .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/)
 - [.NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30](https://devblogs.microsoft.com/dotnet/october-2022-updates/)
