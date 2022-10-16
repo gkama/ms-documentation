@@ -1,5 +1,6 @@
 # Azure
 
+- [Distributed PostgreSQL comes to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/distributed-postgresql-comes-to-azure-cosmos-db/)
 - [Java on Azure Tooling Update – September 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-september-2022/)
 - [Azure Developer CLI (azd) – October 2022 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2022-release/)
 - [Join Us for Big News at Ignite 2022](https://devblogs.microsoft.com/cosmosdb/azurecosmosdb-at-msignite-2022/)
