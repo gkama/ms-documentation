@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing Entity Framework Core 7 RC2: JSON Columns](https://devblogs.microsoft.com/dotnet/announcing-ef7-release-candidate-2/)
 - [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/)
 - [官宣 .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet-ch/%e5%ae%98%e5%ae%a3-net-7-release-candidate-2/)
 - [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/)
