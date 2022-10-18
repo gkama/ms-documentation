@@ -920,6 +920,7 @@
 - [Announcing NuGet PackageReference support for C++/CLI MSBuild projects targeting .NET Core and .NET 5 or higher](https://devblogs.microsoft.com/cppblog/announcing-nuget-packagereference-support-for-c-cli-msbuild-projects-targeting-net-core/)
 - [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/)
 - [Learn, connect, explore – stay at the forefront of rapidly evolving technologies!](https://devblogs.microsoft.com/premier-developer/learn-connect-explore-stay-at-the-forefront-of-rapidly-evolving-technologies/)
+- [Learn, connect, explore – stay at the forefront of rapidly evolving technologies!](https://devblogs.microsoft.com/premier-developer/learn-connect-explore-stay-at-the-forefront-of-rapidly-evolving-technologies/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
