@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/)
 - [Removal of SPHome APIs from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-sphome-apis-from-sharepoint-online/)
 - [Java on Visual Studio Code Update – September 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-september-2022/)
 - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/)
