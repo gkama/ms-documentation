@@ -1,5 +1,6 @@
 # Azure
 
+- [News: Postgres 15 available in Azure Cosmos DB for PostgreSQL](https://devblogs.microsoft.com/cosmosdb/postgres-15-available-in-azure-cosmos-db-for-postgresql/)
 - [Azure SDK Release (October 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2022/)
 - [Distributed PostgreSQL comes to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/distributed-postgresql-comes-to-azure-cosmos-db/)
 - [Java on Azure Tooling Update – September 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-september-2022/)
