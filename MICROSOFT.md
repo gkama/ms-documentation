@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Windows Terminal is now the Default in Windows 11](https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/)
 - [Microsoft Quantum is hiring software engineers and software researchers!](https://devblogs.microsoft.com/qsharp/microsoft-quantum-is-hiring-software-engineers-and-software-researchers/)
 - [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/)
 - [Removal of SPHome APIs from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-sphome-apis-from-sharepoint-online/)
