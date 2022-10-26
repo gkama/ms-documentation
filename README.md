@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code))
+# Visual Studio (Code)
 
 - [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/)
 - [Java on Visual Studio Code Update – October 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-october-2022/)
