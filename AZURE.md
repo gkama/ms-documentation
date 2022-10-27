@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing new stable release of Azure Form Recognizer libraries](https://devblogs.microsoft.com/azure-sdk/announcing-new-stable-release-of-azure-form-recognizer-libraries/)
 - [Connecting the Dots of Azure SQL CICD Part 1: Getting Started](https://devblogs.microsoft.com/azure-sql/connecting-the-dots-of-azure-sql-cicd-part-1-getting-started/)
 - [Azure Service Bus Performance](https://devblogs.microsoft.com/azure-sdk/azure-service-bus-performance/)
 - [News: Postgres 15 available in Azure Cosmos DB for PostgreSQL](https://devblogs.microsoft.com/cosmosdb/postgres-15-available-in-azure-cosmos-db-for-postgresql/)
