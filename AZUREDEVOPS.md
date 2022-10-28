@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
 - [New Boards Hub, Sprint 210 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-210-update/)
 - [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
 - [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
