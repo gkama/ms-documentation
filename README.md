@@ -883,6 +883,7 @@
 - [Serializing asynchronous operations in C++/WinRT, gotchas and final assembly](https://devblogs.microsoft.com/oldnewthing/20220916-00/?p=107191)
 - [NuGet Season of Giving](https://devblogs.microsoft.com/nuget/nuget-season-of-giving/)
 - [vcpkg September 2022 Release is Now Available: Celebrating 6 Years with Over 2000 Libraries!](https://devblogs.microsoft.com/cppblog/vcpkg-september-2022-release-is-now-available-celebrating-6-years-with-over-2000-libraries/)
+- [RichEdit Hyperlinks](https://devblogs.microsoft.com/math-in-office/richedit-hyperlinks/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
