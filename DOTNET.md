@@ -1,5 +1,6 @@
 # .NET
 
+- [Slaying Zombie ‘No Repro’ Crashes with Infer#](https://devblogs.microsoft.com/dotnet/slaying-zombie-no-repo-crashes-with-infersharp/)
 - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/)
 - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/)
 - [Announcing Entity Framework Core 7 RC2: JSON Columns](https://devblogs.microsoft.com/dotnet/announcing-ef7-release-candidate-2/)
