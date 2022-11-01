@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/)
 - [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/)
 - [Java on Visual Studio Code Update – October 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-october-2022/)
 - [Python in Visual Studio Code – October 2022 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2022-release/)
