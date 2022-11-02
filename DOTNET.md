@@ -1,5 +1,6 @@
 # .NET
 
+- [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
 - [Slaying Zombie ‘No Repro’ Crashes with Infer#](https://devblogs.microsoft.com/dotnet/slaying-zombie-no-repo-crashes-with-infersharp/)
 - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/)
 - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/)
