@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Java on Azure Tooling Update – October 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-october-2022/)
 - [Windows Terminal is now the Default in Windows 11](https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/)
 - [Microsoft Quantum is hiring software engineers and software researchers!](https://devblogs.microsoft.com/qsharp/microsoft-quantum-is-hiring-software-engineers-and-software-researchers/)
 - [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/)
