@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing .NET Community Toolkit v8.1.0 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-community-toolkit-v810-preview-1/)
 - [Create your .NET portfolio in the .NET Conf student zone](https://devblogs.microsoft.com/dotnet/dotnet-conf-2022-student-zone/)
 - [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
 - [Slaying Zombie ‘No Repro’ Crashes with Infer#](https://devblogs.microsoft.com/dotnet/slaying-zombie-no-repo-crashes-with-infersharp/)
