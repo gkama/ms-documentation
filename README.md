@@ -925,6 +925,7 @@
 - [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/)
 - [Learn, connect, explore – stay at the forefront of rapidly evolving technologies!](https://devblogs.microsoft.com/premier-developer/learn-connect-explore-stay-at-the-forefront-of-rapidly-evolving-technologies/)
 - [Learn, connect, explore – stay at the forefront of rapidly evolving technologies!](https://devblogs.microsoft.com/premier-developer/learn-connect-explore-stay-at-the-forefront-of-rapidly-evolving-technologies/)
+- [Activity Embedding preview for large screens and foldables](https://devblogs.microsoft.com/surface-duo/activity-embedding-preview-for-large-screens-and-foldables/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
