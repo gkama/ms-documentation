@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Breaking changes for the Microsoft Graph Insights API  ](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-microsoft-graph-insights-api/)
 - [Java on Azure Tooling Update – October 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-october-2022/)
 - [Windows Terminal is now the Default in Windows 11](https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/)
 - [Microsoft Quantum is hiring software engineers and software researchers!](https://devblogs.microsoft.com/qsharp/microsoft-quantum-is-hiring-software-engineers-and-software-researchers/)
