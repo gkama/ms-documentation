@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET Interactive Notebooks is now Polyglot Notebooks!]([https://devblogs.microsoft.com/dotnet/migration-wcf-to-corewcf-upgrade-assistant/](https://devblogs.microsoft.com/dotnet/dotnet-interactive-notebooks-is-now-polyglot-notebooks/))
 - [Bring WCF apps to the latest .NET with CoreWCF and Upgrade Assistant](https://devblogs.microsoft.com/dotnet/migration-wcf-to-corewcf-upgrade-assistant/)
 - [Announcing .NET Community Toolkit v8.1.0 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-community-toolkit-v810-preview-1/)
 - [Create your .NET portfolio in the .NET Conf student zone](https://devblogs.microsoft.com/dotnet/dotnet-conf-2022-student-zone/)
