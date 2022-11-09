@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/)
 - [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/)
 - [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/)
 - [Java on Visual Studio Code Update – October 2022](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-october-2022/)
