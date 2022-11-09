@@ -1,5 +1,6 @@
 # Azure
 
+- [Are you up for the Azure Cosmos DB Cloud Skills Challenge!?](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-cloud-skills-challenge/)
 - [Connecting the Dots of Azure SQL CICD Part 2: Local Development](https://devblogs.microsoft.com/azure-sql/azure-sql-database-change-management/)
 - [Announcing new stable release of Azure Form Recognizer libraries](https://devblogs.microsoft.com/azure-sdk/announcing-new-stable-release-of-azure-form-recognizer-libraries/)
 - [Connecting the Dots of Azure SQL CICD Part 1: Getting Started](https://devblogs.microsoft.com/azure-sql/connecting-the-dots-of-azure-sql-cicd-part-1-getting-started/)
