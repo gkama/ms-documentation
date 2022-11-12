@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET MAUI for Android and cross-platform apps](https://devblogs.microsoft.com/surface-duo/net-maui-android-foldable/)
 - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/)
 - [.NET Interactive Notebooks is now Polyglot Notebooks!](https://devblogs.microsoft.com/dotnet/dotnet-interactive-notebooks-is-now-polyglot-notebooks/)
 - [Bring WCF apps to the latest .NET with CoreWCF and Upgrade Assistant](https://devblogs.microsoft.com/dotnet/migration-wcf-to-corewcf-upgrade-assistant/)
