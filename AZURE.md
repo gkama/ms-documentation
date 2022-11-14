@@ -1,5 +1,6 @@
 # Azure
 
+- [Maximizing Azure SQL Database performance with a globally distributed Redis write-behind cache](https://devblogs.microsoft.com/azure-sql/maximizing-azure-sql-database-performance-with-a-globally-distributed-redis-write-behind-cache/)
 - [Azure Cosmos DB for PostgreSQL w/ React QuickStart](https://devblogs.microsoft.com/premier-developer/azure-cosmos-db-for-postgresql-w-react-quickstart/)
 - [Are you up for the Azure Cosmos DB Cloud Skills Challenge!?](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-cloud-skills-challenge/)
 - [Connecting the Dots of Azure SQL CICD Part 2: Local Development](https://devblogs.microsoft.com/azure-sql/azure-sql-database-change-management/)
