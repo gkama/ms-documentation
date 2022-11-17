@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [New Boards Hub, Sprint 213 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-213-update/)
 - [All Azure DevOps REST APIs now support PAT scopes](https://devblogs.microsoft.com/devops/all-azure-devops-rest-apis-now-support-pat-scopes/)
 - [Azure DevOps Server 2022 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-rc2-now-available/)
 - [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
