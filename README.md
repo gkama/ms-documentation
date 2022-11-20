@@ -1,7 +1,8 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code))
+# Visual Studio (Code)
 
+- [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/)
 - [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/)
 - [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/)
 - [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/)
