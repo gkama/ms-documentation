@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Outlook REST API v2.0 & Beta deprecation update](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-beta-deprecation-update/)
 - [Announcing general availability of SharePoint Framework 1.16 – Enabling SPFx across Microsoft 365 platform](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-sharepoint-framework-1-16-enabling-spfx-across-microsoft-365-platform/)
 - [Breaking changes for the Microsoft Graph Insights API  ](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-microsoft-graph-insights-api/)
 - [Java on Azure Tooling Update – October 2022](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-october-2022/)
