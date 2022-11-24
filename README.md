@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Visual Studio 2022 Performance Enhancements 17.4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/)
 - [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/)
