@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Two million Java developers on Visual Studio Code! November 2022 Update](https://devblogs.microsoft.com/java/two-million-java-developers-on-visual-studio-code-november-2022-update/)
 - [Outlook REST API v2.0 & Beta deprecation update](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-beta-deprecation-update/)
 - [Announcing general availability of SharePoint Framework 1.16 – Enabling SPFx across Microsoft 365 platform](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-sharepoint-framework-1-16-enabling-spfx-across-microsoft-365-platform/)
 - [Breaking changes for the Microsoft Graph Insights API  ](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-microsoft-graph-insights-api/)
