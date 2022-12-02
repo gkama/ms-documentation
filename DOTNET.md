@@ -1,5 +1,6 @@
 # .NET
 
+- [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/)
 - [.NET MAUI for Android and cross-platform apps](https://devblogs.microsoft.com/surface-duo/net-maui-android-foldable/)
 - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/)
 - [.NET Interactive Notebooks is now Polyglot Notebooks!](https://devblogs.microsoft.com/dotnet/dotnet-interactive-notebooks-is-now-polyglot-notebooks/)
