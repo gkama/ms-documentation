@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Principles for monetizing selected Microsoft 365 APIs](https://devblogs.microsoft.com/microsoft365dev/principles-for-monetizing-selected-microsoft-365-apis/)
 - [Introducing the Microsoft Graph Python SDK now available for public preview](https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-python-sdk-now-available-for-public-preview/)
 - [Two million Java developers on Visual Studio Code! November 2022 Update](https://devblogs.microsoft.com/java/two-million-java-developers-on-visual-studio-code-november-2022-update/)
 - [Outlook REST API v2.0 & Beta deprecation update](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-beta-deprecation-update/)
