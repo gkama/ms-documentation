@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Removing out-of-support components from your Visual Studio installations](https://devblogs.microsoft.com/visualstudio/removing-out-of-support-components-from-your-visual-studio-installations/)
 - [Improve your productivity with Web Live Preview and Telerik](https://devblogs.microsoft.com/visualstudio/improve-your-productivity-with-web-live-preview-and-telerik/)
