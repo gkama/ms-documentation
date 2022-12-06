@@ -1,7 +1,8 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code))
+# Visual Studio (Code)
 
+- [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/)
 - [Removing out-of-support components from your Visual Studio installations](https://devblogs.microsoft.com/visualstudio/removing-out-of-support-components-from-your-visual-studio-installations/)
 - [Improve your productivity with Web Live Preview and Telerik](https://devblogs.microsoft.com/visualstudio/improve-your-productivity-with-web-live-preview-and-telerik/)
 - [Visual Studio 2022 Performance Enhancements 17.4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/)
