@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Now available: Azure DevOps Server 2022 RTW](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-rtw/)
 - [Upgrade of .NET agent for Azure Pipelines](https://devblogs.microsoft.com/devops/upgrade-of-net-agent-for-azure-pipelines/)
 - [New Boards Hub, Sprint 213 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-213-update/)
 - [All Azure DevOps REST APIs now support PAT scopes](https://devblogs.microsoft.com/devops/all-azure-devops-rest-apis-now-support-pat-scopes/)
