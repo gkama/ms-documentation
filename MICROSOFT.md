@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Transformer support for PyTorch with DirectML is here!](https://devblogs.microsoft.com/windowsai/transformer-support-for-pytorch-with-directml-is-here/)
 - [Introduce RBAC in PostgreSQL Flexible Server](https://devblogs.microsoft.com/premier-developer/introduce-rbac-in-postgresql-flexible-server/)
 - [Principles for monetizing selected Microsoft 365 APIs](https://devblogs.microsoft.com/microsoft365dev/principles-for-monetizing-selected-microsoft-365-apis/)
 - [Introducing the Microsoft Graph Python SDK now available for public preview](https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-python-sdk-now-available-for-public-preview/)
