@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
 - [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/)
 - [.NET MAUI for Android and cross-platform apps](https://devblogs.microsoft.com/surface-duo/net-maui-android-foldable/)
 - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/)
