@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/)
 - [Removing out-of-support components from your Visual Studio installations](https://devblogs.microsoft.com/visualstudio/removing-out-of-support-components-from-your-visual-studio-installations/)
