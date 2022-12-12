@@ -1,5 +1,6 @@
 # Azure
 
+- [AltGraph – Graph workloads with Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/altgraph-graph-workloads-with-azure-cosmos-db-for-nosql/)
 - [Enabling PostgreSQL 15 in Azure Cosmos DB for PostgreSQL – how we did it](https://devblogs.microsoft.com/cosmosdb/enabling-postgresql-15-in-azure-cosmos-db-for-postgresql-how-we-did-it/)
 - [Azure SDK Release (November 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2022/)
 - [Maximizing Azure SQL Database performance with a globally distributed Redis write-behind cache](https://devblogs.microsoft.com/azure-sql/maximizing-azure-sql-database-performance-with-a-globally-distributed-redis-write-behind-cache/)
