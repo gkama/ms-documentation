@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing the stable release of Spring Cloud Azure 4.5.0](https://devblogs.microsoft.com/azure-sdk/announcing-the-stable-release-of-spring-cloud-azure-4-5-0/)
 - [Describing a real API with Cadl: The Moostodon story](https://devblogs.microsoft.com/azure-sdk/describing-a-real-api-with-cadl-the-moostodon-story/)
 - [AltGraph – Graph workloads with Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/altgraph-graph-workloads-with-azure-cosmos-db-for-nosql/)
 - [Enabling PostgreSQL 15 in Azure Cosmos DB for PostgreSQL – how we did it](https://devblogs.microsoft.com/cosmosdb/enabling-postgresql-15-in-azure-cosmos-db-for-postgresql-how-we-did-it/)
