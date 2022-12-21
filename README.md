@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/)
 - [Dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/dev-tunnels-in-visual-studio-for-asp-net-core-projects/)
 - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/)
 - [Removing out-of-support components from your Visual Studio installations](https://devblogs.microsoft.com/visualstudio/removing-out-of-support-components-from-your-visual-studio-installations/)
