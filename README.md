@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/)
 - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/)
 - [Dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/dev-tunnels-in-visual-studio-for-asp-net-core-projects/)
 - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/)
