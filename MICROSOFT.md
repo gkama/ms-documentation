@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Microsoft Graph PowerShell v2 is now in public preview, half the size, and will speed up your automations](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/)
 - [Learnings from migrating Accessibility Insights for Web to Chrome’s Manifest V3](https://devblogs.microsoft.com/engineering-at-microsoft/learnings-from-migrating-accessibility-insights-for-web-to-chromes-manifest-v3/)
 - [Transformer support for PyTorch with DirectML is here!](https://devblogs.microsoft.com/windowsai/transformer-support-for-pytorch-with-directml-is-here/)
 - [Introduce RBAC in PostgreSQL Flexible Server](https://devblogs.microsoft.com/premier-developer/introduce-rbac-in-postgresql-flexible-server/)
