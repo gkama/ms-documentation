@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/)
 - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/)
