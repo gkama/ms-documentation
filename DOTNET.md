@@ -1,5 +1,6 @@
 # .NET
 
+- [Bulk Operations Support in OData Web API](https://devblogs.microsoft.com/odata/bulk-operations-support-in-odata-web-api/)
 - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/)
 - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
 - [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/)
