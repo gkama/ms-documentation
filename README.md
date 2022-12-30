@@ -942,6 +942,7 @@
 - [Activity Embedding preview for large screens and foldables](https://devblogs.microsoft.com/surface-duo/activity-embedding-preview-for-large-screens-and-foldables/)
 - [Agility SDK 1.608.0: Enhanced Barriers and more](https://devblogs.microsoft.com/directx/agility-sdk-1-608-0/)
 - [Android Dev Summit recap](https://devblogs.microsoft.com/surface-duo/android-dev-summit-2022/)
+- [2022 year in review](https://devblogs.microsoft.com/surface-duo/2022-year-in-review/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
