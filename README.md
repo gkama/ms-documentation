@@ -943,6 +943,7 @@
 - [Agility SDK 1.608.0: Enhanced Barriers and more](https://devblogs.microsoft.com/directx/agility-sdk-1-608-0/)
 - [Android Dev Summit recap](https://devblogs.microsoft.com/surface-duo/android-dev-summit-2022/)
 - [2022 year in review](https://devblogs.microsoft.com/surface-duo/2022-year-in-review/)
+- [Using RichEdit for Text Processing](https://devblogs.microsoft.com/math-in-office/using-richedit-for-text-processing/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
