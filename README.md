@@ -945,6 +945,7 @@
 - [2022 year in review](https://devblogs.microsoft.com/surface-duo/2022-year-in-review/)
 - [Using RichEdit for Text Processing](https://devblogs.microsoft.com/math-in-office/using-richedit-for-text-processing/)
 - [Opinionated notes on the Windows.Data.Json namespace](https://devblogs.microsoft.com/oldnewthing/20230102-00/?p=107632)
+- [Using Custom Culture to Set Euro for Croatia](https://devblogs.microsoft.com/i18n/using-custom-culture-to-set-euro-for-croatia/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
