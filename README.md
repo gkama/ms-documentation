@@ -946,6 +946,7 @@
 - [Using RichEdit for Text Processing](https://devblogs.microsoft.com/math-in-office/using-richedit-for-text-processing/)
 - [Opinionated notes on the Windows.Data.Json namespace](https://devblogs.microsoft.com/oldnewthing/20230102-00/?p=107632)
 - [Using Custom Culture to Set Euro for Croatia](https://devblogs.microsoft.com/i18n/using-custom-culture-to-set-euro-for-croatia/)
+- [How can I force a user to have a specific SID prefix, so that they go into a particular group?](https://devblogs.microsoft.com/oldnewthing/20230105-00/?p=107675)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
