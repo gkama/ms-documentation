@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
 - [New Boards Hub, Sprint 214 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-214-update/)
 - [Now available: Azure DevOps Server 2022 RTW](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-rtw/)
 - [Upgrade of .NET agent for Azure Pipelines](https://devblogs.microsoft.com/devops/upgrade-of-net-agent-for-azure-pipelines/)
