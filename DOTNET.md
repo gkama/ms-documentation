@@ -1,5 +1,6 @@
 # .NET
 
+- [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/)
 - [Bulk Operations Support in OData Web API](https://devblogs.microsoft.com/odata/bulk-operations-support-in-odata-web-api/)
 - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/)
 - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
