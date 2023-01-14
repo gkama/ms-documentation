@@ -1,5 +1,6 @@
 # Azure
 
+- [Development with SQL in containers on macOS](https://devblogs.microsoft.com/azure-sql/development-with-sql-in-containers-on-macos/)
 - [Azure Developer CLI (`azd`) – January 2023 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-january-2023-release/)
 - [Announcing the stable release of Spring Cloud Azure 4.5.0](https://devblogs.microsoft.com/azure-sdk/announcing-the-stable-release-of-spring-cloud-azure-4-5-0/)
 - [Describing a real API with Cadl: The Moostodon story](https://devblogs.microsoft.com/azure-sdk/describing-a-real-api-with-cadl-the-moostodon-story/)
