@@ -949,6 +949,7 @@
 - [Using Custom Culture to Set Euro for Croatia](https://devblogs.microsoft.com/i18n/using-custom-culture-to-set-euro-for-croatia/)
 - [How can I force a user to have a specific SID prefix, so that they go into a particular group?](https://devblogs.microsoft.com/oldnewthing/20230105-00/?p=107675)
 - [Updates in d3dx12.h: Nuget Packaging, Header Bloat Reduction, and D3DX12GetCopyableFootprints](https://devblogs.microsoft.com/directx/updates-in-directx-headers-repo/)
+- [Pass the design baton with Relay](https://devblogs.microsoft.com/surface-duo/jetpack-compose-relay-1/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
