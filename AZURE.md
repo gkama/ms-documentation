@@ -1,5 +1,6 @@
 # Azure
 
+- [NoSQL vs. relational: Which database should you use for your app?](https://devblogs.microsoft.com/cosmosdb/nosql-vs-relational-which-database-should-you-use-for-your-app/)
 - [Development with SQL in containers on macOS](https://devblogs.microsoft.com/azure-sql/development-with-sql-in-containers-on-macos/)
 - [Building and deploying Java apps with Spring Cloud and Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/building-and-deploying-java-apps-with-spring-cloud-and-azure-cosmos-db/)
 - [Azure Developer CLI (`azd`) – January 2023 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-january-2023-release/)
