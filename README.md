@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/)
 - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/)
 - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/)
 - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/)
