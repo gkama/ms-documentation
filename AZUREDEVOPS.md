@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Azure DevOps Pipelines: Tasks, Jobs, Stages and more!](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-tasks-jobs-stages-and-more/)
 - [Organization profile image](https://devblogs.microsoft.com/devops/organization-profile-image/)
 - [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
 - [New Boards Hub, Sprint 214 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-214-update/)
