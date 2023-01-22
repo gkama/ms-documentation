@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Deploying Kubernetes Cluster on Azure VMs using kubeadm, CNI and containerd](https://devblogs.microsoft.com/premier-developer/deploying-kubernetes-cluster-on-azure-vms-using-kubeadm-cni-and-containerd/)
 - [New Microsoft Graph Developer Proxy preview v0.3 with support for all APIs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-3/)
 - [Microsoft Graph PowerShell v2 is now in public preview, half the size, and will speed up your automations](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/)
 - [Learnings from migrating Accessibility Insights for Web to Chrome’s Manifest V3](https://devblogs.microsoft.com/engineering-at-microsoft/learnings-from-migrating-accessibility-insights-for-web-to-chromes-manifest-v3/)
