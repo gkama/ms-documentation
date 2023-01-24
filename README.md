@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/)
 - [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/)
 - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/)
 - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/)
