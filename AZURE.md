@@ -1,5 +1,6 @@
 # Azure
 
+- [Latest NoSQL Java Ecosystem Updates 2022 Q3 & Q4](https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-2022-q3-q4/)
 - [NoSQL vs. relational: Which database should you use for your app?](https://devblogs.microsoft.com/cosmosdb/nosql-vs-relational-which-database-should-you-use-for-your-app/)
 - [Development with SQL in containers on macOS](https://devblogs.microsoft.com/azure-sql/development-with-sql-in-containers-on-macos/)
 - [Building and deploying Java apps with Spring Cloud and Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/building-and-deploying-java-apps-with-spring-cloud-and-azure-cosmos-db/)
