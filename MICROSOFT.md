@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Microsoft Graph Developer Proxy v0.4 with improved output, more guidance, and plugins ](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-4-with-improved-output-more-guidance-and-plugins/)
 - [Microsoft Build of OpenJDK – January 2023 Release](https://devblogs.microsoft.com/java/microsoft-build-of-openjdk-january-2023-release/)
 - [Deploying Kubernetes Cluster on Azure VMs using kubeadm, CNI and containerd](https://devblogs.microsoft.com/premier-developer/deploying-kubernetes-cluster-on-azure-vms-using-kubeadm-cni-and-containerd/)
 - [New Microsoft Graph Developer Proxy preview v0.3 with support for all APIs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-3/)
