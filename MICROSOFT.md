@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Learn how to develop apps for Microsoft Teams using Teams Toolkit in Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-develop-apps-for-microsoft-teams-using-teams-toolkit-in-visual-studio-code/)
 - [From zero to hero: Build a meetings app with Azure Communication Services and Microsoft Teams – Part 1](https://devblogs.microsoft.com/microsoft365dev/build-a-meetings-app-with-azure-communication-services-and-microsoft-teams-part-1/)
 - [Microsoft Graph Developer Proxy v0.4 with improved output, more guidance, and plugins ](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-4-with-improved-output-more-guidance-and-plugins/)
 - [Microsoft Build of OpenJDK – January 2023 Release](https://devblogs.microsoft.com/java/microsoft-build-of-openjdk-january-2023-release/)
