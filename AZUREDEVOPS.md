@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Customers using Red Hat Enterprise Linux (RHEL) 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
 - [Learn Azure DevOps from Zero to Hero](https://devblogs.microsoft.com/devops/learn-azure-devops-from-zero-to-hero/)
 - [Disable creation of classic pipelines](https://devblogs.microsoft.com/devops/disable-creation-of-classic-pipelines/)
 - [Azure DevOps Pipelines: Tasks, Jobs, Stages and more!](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-tasks-jobs-stages-and-more/)
