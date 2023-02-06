@@ -958,6 +958,7 @@
 - [PowerShell Extension for Visual Studio Code January 2023 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-january-2023-update/)
 - [Math Speech Strings and Localization](https://devblogs.microsoft.com/math-in-office/math-speech-strings-and-localization/)
 - [Remote Native Unit Test Support in Visual Studio](https://devblogs.microsoft.com/cppblog/remote-native-unit-test-support-in-visual-studio/)
+- [Shorter quantum circuits](https://devblogs.microsoft.com/qsharp/shorter-quantum-circuits/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
