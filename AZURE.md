@@ -1,6 +1,7 @@
 # Azure
 
 - [Announcing the new beta release of Azure Text Analytics libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/)
+- [Announcing the new beta release of Azure Text Analytics libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/)
 - [Azure Developer CLI (azd) – February 2023 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
 - [Latest NoSQL Java Ecosystem Updates 2022 Q3 & Q4](https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-2022-q3-q4/)
 - [NoSQL vs. relational: Which database should you use for your app?](https://devblogs.microsoft.com/cosmosdb/nosql-vs-relational-which-database-should-you-use-for-your-app/)
