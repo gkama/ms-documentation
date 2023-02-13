@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Write simpler code with the new Microsoft Graph .NET SDK v5](https://devblogs.microsoft.com/microsoft365dev/write-simpler-code-with-the-new-microsoft-graph-net-sdk-v5/)
 - [Learn how to develop apps for Microsoft Teams using Teams Toolkit in Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-develop-apps-for-microsoft-teams-using-teams-toolkit-in-visual-studio-code/)
 - [From zero to hero: Build a meetings app with Azure Communication Services and Microsoft Teams – Part 1](https://devblogs.microsoft.com/microsoft365dev/build-a-meetings-app-with-azure-communication-services-and-microsoft-teams-part-1/)
 - [Microsoft Graph Developer Proxy v0.4 with improved output, more guidance, and plugins ](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-4-with-improved-output-more-guidance-and-plugins/)
