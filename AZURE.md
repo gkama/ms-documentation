@@ -1,5 +1,6 @@
 # Azure
 
+- [Level up your cloud testing game with the Azure SDK test proxy](https://devblogs.microsoft.com/azure-sdk/level-up-your-cloud-testing-game-with-the-azure-sdk-test-proxy/)
 - [Java on Azure Tooling Update – January 2023](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-january-2023/)
 - [Announcing the new beta release of Azure Text Analytics libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/)
 - [Azure Developer CLI (azd) – February 2023 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
