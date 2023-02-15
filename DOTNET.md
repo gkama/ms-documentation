@@ -1,5 +1,6 @@
 # .NET
 
+- [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/)
 - [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/)
 - [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/)
 - [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/)
