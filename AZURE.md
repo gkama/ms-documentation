@@ -1,5 +1,6 @@
 # Azure
 
+- [RunCommand vs Custom Script Extension vs VM Applications](https://devblogs.microsoft.com/azure-vm-runtime/runcommand-vs-custom-script-extension-vs-vm-applications/)
 - [Level up your cloud testing game with the Azure SDK test proxy](https://devblogs.microsoft.com/azure-sdk/level-up-your-cloud-testing-game-with-the-azure-sdk-test-proxy/)
 - [Java on Azure Tooling Update – January 2023](https://devblogs.microsoft.com/java/java-on-azure-tooling-update-january-2023/)
 - [Announcing the new beta release of Azure Text Analytics libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/)
