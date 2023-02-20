@@ -960,6 +960,7 @@
 - [Remote Native Unit Test Support in Visual Studio](https://devblogs.microsoft.com/cppblog/remote-native-unit-test-support-in-visual-studio/)
 - [Shorter quantum circuits](https://devblogs.microsoft.com/qsharp/shorter-quantum-circuits/)
 - [It rather involved being on the other side of this airtight hatchway: Reading the user’s saved passwords](https://devblogs.microsoft.com/oldnewthing/20230206-00/?p=107797)
+- [Bringing ONNX models to Android](https://devblogs.microsoft.com/surface-duo/onnx-machine-learning-3/)
 
 ## Terraform
 - [Azure Provider](https://www.terraform.io/docs/providers/azurerm/)
