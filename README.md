@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Unreal Engine Integrations Now Available in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/unreal-engine-integrations-now-available-in-visual-studio-2022/)
 - [Python in Visual Studio Code – February 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/)
 - [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/)
 - [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/)
