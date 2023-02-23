@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Get ready for the first week of Hack Together: Microsoft Graph and .NET 🦒](https://devblogs.microsoft.com/microsoft365dev/get-ready-for-the-first-week-of-hack-together-microsoft-graph-and-net/)
 - [Join us for Hack Together: Microsoft Graph and .NET](https://devblogs.microsoft.com/microsoft365dev/join-us-for-hack-together-microsoft-graph-and-net/)
 - [Write simpler code with the new Microsoft Graph .NET SDK v5](https://devblogs.microsoft.com/microsoft365dev/write-simpler-code-with-the-new-microsoft-graph-net-sdk-v5/)
 - [Learn how to develop apps for Microsoft Teams using Teams Toolkit in Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-develop-apps-for-microsoft-teams-using-teams-toolkit-in-visual-studio-code/)
