@@ -1,5 +1,6 @@
 # .NET
 
+- [Updated Modern Code Generation for WinForm’s InitializeComponent](https://devblogs.microsoft.com/dotnet/winforms-codegen-update/)
 - [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/)
 - [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/)
 - [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/)
