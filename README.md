@@ -906,6 +906,7 @@
 - [MIDI @ 40 and the new Windows MIDI Services](https://devblogs.microsoft.com/windows-music-dev/midi-40-and-the-new-windows-midi-services/)
 - [Happy Holidays 2022](https://devblogs.microsoft.com/surface-duo/happy-holidays-2022/)
 - [Festivus: Azure Quantum Feats of Strength](https://devblogs.microsoft.com/qsharp/festivus-azure-quantum-feats-of-strength/)
+- [PowerShell Extension for Visual Studio Code February 2023 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-february-2023-update/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
