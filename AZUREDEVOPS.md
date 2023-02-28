@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Retrospectives: The Hidden Gem Enabling Teams to Thrive – Part 1](https://devblogs.microsoft.com/devops/retrospectives-the-hidden-gem-enabling-teams-to-thrive-part-1/)
 - [New Boards Hub, Sprint 217 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-217-update/)
 - [Azure DevOps Pipelines: If Expressions and Conditions](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-if-expressions-and-conditions/)
 - [Customers using Red Hat Enterprise Linux (RHEL) 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
