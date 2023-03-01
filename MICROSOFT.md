@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [New Microsoft Graph Planner API capabilities now available](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-planner-api-capabilities-now-available-in-microsoft-graph/)
 - [New capabilities available in Microsoft Graph To Do APIs](https://devblogs.microsoft.com/microsoft365dev/new-capabilities-available-in-microsoft-graph-to-do-apis/)
 - [Get ready for the first week of Hack Together: Microsoft Graph and .NET 🦒](https://devblogs.microsoft.com/microsoft365dev/get-ready-for-the-first-week-of-hack-together-microsoft-graph-and-net/)
 - [Join us for Hack Together: Microsoft Graph and .NET](https://devblogs.microsoft.com/microsoft365dev/join-us-for-hack-together-microsoft-graph-and-net/)
