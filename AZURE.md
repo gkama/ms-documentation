@@ -1,5 +1,6 @@
 # Azure
 
+- [Save the Date for Azure Cosmos DB Conf 2023!](https://devblogs.microsoft.com/cosmosdb/save-the-date-for-azure-cosmos-db-conf-2023/)
 - [Using Python and Azure Functions to send data from Azure SQL Database](https://devblogs.microsoft.com/azure-sql/using-python-and-azure-functions-to-send-data-from-azure-sql-database/)
 - [RunCommand vs Custom Script Extension vs VM Applications](https://devblogs.microsoft.com/azure-vm-runtime/runcommand-vs-custom-script-extension-vs-vm-applications/)
 - [Level up your cloud testing game with the Azure SDK test proxy](https://devblogs.microsoft.com/azure-sdk/level-up-your-cloud-testing-game-with-the-azure-sdk-test-proxy/)
