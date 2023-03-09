@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/)
 - [Visual Studio 2022 – 17.5 Released](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/)
 - [Unreal Engine Integrations Now Available in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/unreal-engine-integrations-now-available-in-visual-studio-2022/)
 - [Python in Visual Studio Code – February 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/)
