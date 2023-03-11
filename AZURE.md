@@ -1,5 +1,6 @@
 # Azure
 
+- [Long running RunCommands](https://devblogs.microsoft.com/azure-vm-runtime/long-running-runcommands/)
 - [Azure’s approach to versioning and avoiding breaking changes](https://devblogs.microsoft.com/azure-sdk/azure-approach-to-versioning-and-avoiding-breaking-changes/)
 - [Save the Date for Azure Cosmos DB Conf 2023!](https://devblogs.microsoft.com/cosmosdb/save-the-date-for-azure-cosmos-db-conf-2023/)
 - [Using Python and Azure Functions to send data from Azure SQL Database](https://devblogs.microsoft.com/azure-sql/using-python-and-azure-functions-to-send-data-from-azure-sql-database/)
