@@ -1,5 +1,6 @@
 # .NET
 
+- [Customize OData payload serialization format within ASP.NET Core OData](https://devblogs.microsoft.com/odata/customize-odata-payload-serialization-format-within-asp-net-core-odata/)
 - [Write a high-quality README for NuGet packages](https://devblogs.microsoft.com/nuget/write-a-high-quality-readme-for-nuget-packages/)
 - [Updated Modern Code Generation for WinForm’s InitializeComponent](https://devblogs.microsoft.com/dotnet/winforms-codegen-update/)
 - [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/)
