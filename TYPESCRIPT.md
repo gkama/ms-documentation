@@ -1,5 +1,6 @@
 # TypeScript
 
+- [TypeScript’s Migration to Modules](https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/)
 - [Announcing TypeScript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
 - [Announcing TypeScript 4.8](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/)
 - [Announcing TypeScript 4.8 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
