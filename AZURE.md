@@ -1,5 +1,6 @@
 # Azure
 
+- [Announcing GraalVM support in Azure SDK for Java and Spring Cloud Azure libraries](https://devblogs.microsoft.com/azure-sdk/announcing-graalvm-support-in-azure-sdk-for-java-and-spring-cloud-azure-libraries/)
 - [Long running RunCommands](https://devblogs.microsoft.com/azure-vm-runtime/long-running-runcommands/)
 - [Azure’s approach to versioning and avoiding breaking changes](https://devblogs.microsoft.com/azure-sdk/azure-approach-to-versioning-and-avoiding-breaking-changes/)
 - [Save the Date for Azure Cosmos DB Conf 2023!](https://devblogs.microsoft.com/cosmosdb/save-the-date-for-azure-cosmos-db-conf-2023/)
