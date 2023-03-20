@@ -18,6 +18,7 @@
 - [Improve your productivity with Web Live Preview and Telerik](https://devblogs.microsoft.com/visualstudio/improve-your-productivity-with-web-live-preview-and-telerik/)
 - [Visual Studio 2022 Performance Enhancements 17.4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/)
 - [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/)
+- [Introducing the Data Wrangler extension for Visual Studio Code Insiders](https://devblogs.microsoft.com/python/data-wrangler-release/)
 - [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/)
 - [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/)
 - [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/)
