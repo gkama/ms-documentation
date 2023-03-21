@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/)
 - [Enable CBOR within ASP.NET Core OData](https://devblogs.microsoft.com/odata/enable-cbor-within-asp-net-core-odata/)
 - [Customize OData payload serialization format within ASP.NET Core OData](https://devblogs.microsoft.com/odata/customize-odata-payload-serialization-format-within-asp-net-core-odata/)
 - [Write a high-quality README for NuGet packages](https://devblogs.microsoft.com/nuget/write-a-high-quality-readme-for-nuget-packages/)
