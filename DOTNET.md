@@ -1,5 +1,6 @@
 # .NET
 
+- [Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
 - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/)
 - [Enable CBOR within ASP.NET Core OData](https://devblogs.microsoft.com/odata/enable-cbor-within-asp-net-core-odata/)
 - [Customize OData payload serialization format within ASP.NET Core OData](https://devblogs.microsoft.com/odata/customize-odata-payload-serialization-format-within-asp-net-core-odata/)
