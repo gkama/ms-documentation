@@ -1,5 +1,6 @@
 # Azure
 
+- [Build Intelligent Applications using Azure OpenAI ChatGPT & Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/chatgpt-azure-cosmos-db/)
 - [Announcing GraalVM support in Azure SDK for Java and Spring Cloud Azure libraries](https://devblogs.microsoft.com/azure-sdk/announcing-graalvm-support-in-azure-sdk-for-java-and-spring-cloud-azure-libraries/)
 - [Long running RunCommands](https://devblogs.microsoft.com/azure-vm-runtime/long-running-runcommands/)
 - [Azure’s approach to versioning and avoiding breaking changes](https://devblogs.microsoft.com/azure-sdk/azure-approach-to-versioning-and-avoiding-breaking-changes/)
