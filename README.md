@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/)
 - [Visual Studio 2022 – 17.5 Released](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/)
