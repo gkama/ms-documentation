@@ -1,5 +1,6 @@
 # Azure
 
+- [Hosting Option for OpenEMR in Azure](https://devblogs.microsoft.com/premier-developer/hosting-option-for-openemr-in-azure/)
 - [Build Intelligent Applications using Azure OpenAI ChatGPT & Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/chatgpt-azure-cosmos-db/)
 - [Announcing GraalVM support in Azure SDK for Java and Spring Cloud Azure libraries](https://devblogs.microsoft.com/azure-sdk/announcing-graalvm-support-in-azure-sdk-for-java-and-spring-cloud-azure-libraries/)
 - [Long running RunCommands](https://devblogs.microsoft.com/azure-vm-runtime/long-running-runcommands/)
