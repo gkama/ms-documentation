@@ -1,5 +1,6 @@
 # Azure
 
+- [Data API Builder Quickstart Demo from VS Live Vegas](https://devblogs.microsoft.com/azure-sql/data-api-builder-quickstart-demo-from-vs-live-vegas/)
 - [Azure Cosmos DB for MongoDB vCore helps developers build intelligent apps in the cloud](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-for-mongodb-vcore-helps-developers-build-intelligent-apps-in-the-cloud/)
 - [Hosting Option for OpenEMR in Azure](https://devblogs.microsoft.com/premier-developer/hosting-option-for-openemr-in-azure/)
 - [Build Intelligent Applications using Azure OpenAI ChatGPT & Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/chatgpt-azure-cosmos-db/)
