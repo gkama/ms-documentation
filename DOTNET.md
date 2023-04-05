@@ -1,5 +1,6 @@
 # .NET
 
+- [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/)
 - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
 - [Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
 - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/)
