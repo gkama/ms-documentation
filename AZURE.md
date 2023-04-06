@@ -1,5 +1,6 @@
 # Azure
 
+- [Building multi-tenant Java apps using Spring Data and Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/building-multi-tenant-java-apps-using-spring-data-and-azure-cosmos-db/)
 - [Azure Cosmos DB for PostgreSQL vs. Azure Database for PostgreSQL: When to choose which](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-for-postgresql-vs-azure-database-for-postgresql-when-to-choose-which/)
 - [Microsoft Graph Developer Proxy v0.6 with monitoring, rate limiting and paging guidance](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-6-monitoring-rate-limiting-paging-guidance/)
 - [Data API Builder Quickstart Demo from VS Live Vegas](https://devblogs.microsoft.com/azure-sql/data-api-builder-quickstart-demo-from-vs-live-vegas/)
