@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code))
+# Visual Studio (Code)
 
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/)
 - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/)
