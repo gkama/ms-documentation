@@ -910,9 +910,10 @@
 - [Happy Holidays 2022](https://devblogs.microsoft.com/surface-duo/happy-holidays-2022/)
 - [Festivus: Azure Quantum Feats of Strength](https://devblogs.microsoft.com/qsharp/festivus-azure-quantum-feats-of-strength/)
 - [PowerShell Extension for Visual Studio Code February 2023 Update](https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-february-2023-update/)
-  - [Hello, Semantic Kernel!](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
-  - [Hosting Option for OpenEMR in Azure](https://devblogs.microsoft.com/premier-developer/hosting-option-for-openemr-in-azure/)
-  - [ITextDocument2 SetProperty and GetProperty](https://devblogs.microsoft.com/math-in-office/itextdocument2-setproperty-and-getproperty/)
+- [Hello, Semantic Kernel!](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
+- [Hosting Option for OpenEMR in Azure](https://devblogs.microsoft.com/premier-developer/hosting-option-for-openemr-in-azure/)
+- [ITextDocument2 SetProperty and GetProperty](https://devblogs.microsoft.com/math-in-office/itextdocument2-setproperty-and-getproperty/)
+- [ChatGPT on Android with OpenAI](https://devblogs.microsoft.com/surface-duo/android-openai-chatgpt-2/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
