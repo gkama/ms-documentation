@@ -914,6 +914,7 @@
 - [Hosting Option for OpenEMR in Azure](https://devblogs.microsoft.com/premier-developer/hosting-option-for-openemr-in-azure/)
 - [ITextDocument2 SetProperty and GetProperty](https://devblogs.microsoft.com/math-in-office/itextdocument2-setproperty-and-getproperty/)
 - [ChatGPT on Android with OpenAI](https://devblogs.microsoft.com/surface-duo/android-openai-chatgpt-2/)
+- [How to use Semantic Kernel for multi-modal experiences.](https://devblogs.microsoft.com/semantic-kernel/how-to-use-semantic-kernel-for-multi-modal-experiences/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
