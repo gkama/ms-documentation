@@ -1,5 +1,6 @@
 # Azure DevOps
 
+- [Azure DevOps 2023 Q2 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
 - [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
 - [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
 - [Create Azure DevOps Management Reports](https://devblogs.microsoft.com/devops/create-azure-devops-management-reports/)
