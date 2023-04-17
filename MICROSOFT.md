@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Embracing Virtual Threads: Migration Tips for Java Developers](https://devblogs.microsoft.com/java/embracing-virtual-threads-migration-tips-for-java-developers/)
 - [Microsoft Entra Identity Developer Newsletter – April 2023](https://devblogs.microsoft.com/identity/microsoft-entra-identity-developer-newsletter-april-2023/)
 - [Implementing an accessible, checkable WPF Tree View](https://devblogs.microsoft.com/engineering-at-microsoft/implementing-an-accessible-checkable-wpf-tree-view/)
 - [Hack Together: Microsoft Graph and .NET week 2 recap and final week overview](https://devblogs.microsoft.com/microsoft365dev/hack-together-microsoft-graph-and-net-week-2-recap-and-final-week-overview/)
