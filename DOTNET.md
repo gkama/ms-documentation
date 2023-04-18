@@ -1,5 +1,6 @@
 # .NET
 
+- [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/)
 - [Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/)
 - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://devblogs.microsoft.com/dotnet/30-days-of-azure-ai/)
 - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/)
