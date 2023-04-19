@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [OData property changes to callRecords change notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-callrecords-change-notifications-in-microsoft-graph/)
 - [Embracing Virtual Threads: Migration Tips for Java Developers](https://devblogs.microsoft.com/java/embracing-virtual-threads-migration-tips-for-java-developers/)
 - [Microsoft Entra Identity Developer Newsletter – April 2023](https://devblogs.microsoft.com/identity/microsoft-entra-identity-developer-newsletter-april-2023/)
 - [Implementing an accessible, checkable WPF Tree View](https://devblogs.microsoft.com/engineering-at-microsoft/implementing-an-accessible-checkable-wpf-tree-view/)
