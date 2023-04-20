@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [Teams Toolkit for Visual Studio Code Update – April 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-april-2023/)
 - [OData property changes to callRecords change notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-callrecords-change-notifications-in-microsoft-graph/)
 - [Embracing Virtual Threads: Migration Tips for Java Developers](https://devblogs.microsoft.com/java/embracing-virtual-threads-migration-tips-for-java-developers/)
 - [Microsoft Entra Identity Developer Newsletter – April 2023](https://devblogs.microsoft.com/identity/microsoft-entra-identity-developer-newsletter-april-2023/)
