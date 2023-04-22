@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/improving-the-syntax-highlighting-of-javascript-in-visual-studio/)
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/)
 - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/)
 - [Visual Studio 2022 – 17.5 Released](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/)
