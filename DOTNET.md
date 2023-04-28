@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/)
 - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/)
 - [.NET Framework April 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/)
 - [Join the .NET Team at Microsoft Build 2023!](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/)
