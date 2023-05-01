@@ -1,7 +1,8 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code))
+# Visual Studio (Code)
 
+- [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/)
 - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/improving-the-syntax-highlighting-of-javascript-in-visual-studio/)
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/)
 - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/)
