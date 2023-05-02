@@ -1,5 +1,6 @@
 # Azure
 
+- [Migration assessment for MongoDB to Azure Cosmos DB for MongoDB](https://devblogs.microsoft.com/cosmosdb/migration-assessment-for-mongodb-to-azure-cosmos-db-for-mongodb/)
 - [New Azure AD app name for Microsoft Graph PowerShell SDK and CLI](https://devblogs.microsoft.com/microsoft365dev/new-azure-ad-app-name-for-microsoft-graph-powershell-sdk-and-cli/)
 - [Make data more human with Azure OpenAI and Azure SQL](https://devblogs.microsoft.com/azure-sql/make-data-more-human-with-azure-openai-and-azure-sql/)
 - [Make data more human with Azure OpenAI and Azure SQL](https://devblogs.microsoft.com/azure-sql/make-data-more-human-with-azure-openai-and-azure-sql/)
