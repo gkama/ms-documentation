@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [Python in Visual Studio Code – May 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/)
 - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/)
 - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/improving-the-syntax-highlighting-of-javascript-in-visual-studio/)
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/)
