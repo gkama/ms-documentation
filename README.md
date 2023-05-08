@@ -921,6 +921,7 @@
 - [The Windows Community Toolkit 2023 Update](https://devblogs.microsoft.com/ifdef-windows/the-windows-community-toolkit-2023-update/)
 - [Protecting a broker from a failing delegate](https://devblogs.microsoft.com/oldnewthing/20230421-00/?p=108078)
 - [How to use Hugging Face Models with Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/how-to-use-hugging-face-models-with-semantic-kernel/)
+- [JetchatGPT improvements: error handling and animations](https://devblogs.microsoft.com/surface-duo/android-openai-chatgpt-6/)
 
 ## Linux
 - [How to use the convert command: 2-Minute Linux Tips](https://www.networkworld.com/video/102421/how-to-use-the-convert-command-2-minute-linux-tips)
