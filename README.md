@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [Python in Visual Studio Code – May 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/)
 - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/)
