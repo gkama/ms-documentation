@@ -1,5 +1,6 @@
 # Azure
 
+- [Implement Change Data Streams with Azure SQL Database, Change Tracking, and Azure SQL Bindings](https://devblogs.microsoft.com/azure-sql/change-data-streams-with-azure-sql-db/)
 - [Announcing the new Azure Container Registry libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-container-registry-libraries/)
 - [Migration assessment for MongoDB to Azure Cosmos DB for MongoDB](https://devblogs.microsoft.com/cosmosdb/migration-assessment-for-mongodb-to-azure-cosmos-db-for-mongodb/)
 - [New Azure AD app name for Microsoft Graph PowerShell SDK and CLI](https://devblogs.microsoft.com/microsoft365dev/new-azure-ad-app-name-for-microsoft-graph-powershell-sdk-and-cli/)
