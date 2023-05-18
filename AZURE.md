@@ -1,5 +1,6 @@
 # Azure
 
+- [Model your Supply Chain in a Graph Database | Part 4](https://devblogs.microsoft.com/azure-sql/graphdb-part4/)
 - [Implement Change Data Streams with Azure SQL Database, Change Tracking, and Azure SQL Bindings](https://devblogs.microsoft.com/azure-sql/change-data-streams-with-azure-sql-db/)
 - [Announcing the new Azure Container Registry libraries](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-azure-container-registry-libraries/)
 - [Migration assessment for MongoDB to Azure Cosmos DB for MongoDB](https://devblogs.microsoft.com/cosmosdb/migration-assessment-for-mongodb-to-azure-cosmos-db-for-mongodb/)
