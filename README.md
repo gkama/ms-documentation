@@ -2,6 +2,7 @@
 
 # Visual Studio (Code)
 
+- [vcpkg is Now Included with Visual Studio](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 - [Visual Studio 2022 – 17.6 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-now-available/)
 - [Python in Visual Studio Code – May 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2023-release/)
 - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/)
