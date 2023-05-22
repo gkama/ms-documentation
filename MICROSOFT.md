@@ -1,5 +1,6 @@
 # Microsoft Blog
 
+- [The Art of HTTP Connection Pooling: How to Optimize Your Connections for Peak Performance](https://devblogs.microsoft.com/premier-developer/the-art-of-http-connection-pooling-how-to-optimize-your-connections-for-peak-performance/)
 - [Announcing Microsoft Authentication Library for .NET 4.54.0, with General Availability of Managed Identity APIs](https://devblogs.microsoft.com/identity/msal-net-managed-identity-ga/)
 - [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
 - [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/)
