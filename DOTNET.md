@@ -1,5 +1,6 @@
 # .NET
 
+- [Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
 - [Level up your GPT game with prompt engineering](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/)
 - [Announcing a new version of the .NET Upgrade Assistant with support for .NET MAUI and Azure Functions!](https://devblogs.microsoft.com/dotnet/upgrade-assistant-general-availability/)
 - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/)
