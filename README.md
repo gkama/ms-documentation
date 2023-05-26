@@ -1,6 +1,6 @@
 # Microsoft related technologies documentation
 
-# Visual Studio (Code)
+# Visual Studio (Code))
 
 - [vcpkg is Now Included with Visual Studio](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 - [Visual Studio 2022 – 17.6 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-now-available/)
